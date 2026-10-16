@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T21:03:32Z",
+ "generated_at": "2026-10-16T21:18:40Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 245,
  "alerts": [
@@ -134,13 +134,13 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2195 .",
+   "title": "Green notification for tropical cyclone TRUDY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 521 .",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
    "area": "México",
    "onset": "Tue, 13 Oct 2026 15:15:58 GMT",
    "expires": null,
-   "lat": 14.6,
+   "lat": 14.8,
    "lng": -102.5,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
