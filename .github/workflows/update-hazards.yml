@@ -1,0 +1,61 @@
+name: Update hazard feeds
+
+# CADENCE: a self-re-dispatching chain. GitHub's `schedule` is best-effort and often
+# runs far less than designed, so each run queues its successor FIRST (the concurrency
+# group holds it until this run ends, so a failed or cancelled run cannot break the
+# chain), does its work, then waits out the rest of a 15-min slot. The cron is only a
+# dead-man restart.
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write                 # self re-dispatch
+
+jobs:
+  update-hazards:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: update-hazards
+      cancel-in-progress: false
+    timeout-minutes: 30
+
+    steps:
+      - name: mark the slot start
+        run: echo "SLOT_START=$(date +%s)" >> "$GITHUB_ENV"
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: queue the next run (first, so this run cannot break the chain)
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run update-hazards.yml --ref main || echo "::warning::re-dispatch failed; the schedule will restart the chain"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch hazard feeds
+        run: python fetch_hazards.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git reset --soft origin/main
+          git add -A data/
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+          git commit -m "Update hazard feeds — ${TIMESTAMP}" --allow-empty
+          git push
+
+      - name: wait out the rest of the 15-min slot
+        if: always()
+        run: |
+          left=$(( 900 - ($(date +%s) - SLOT_START) ))
+          if [ "$left" -gt 0 ]; then echo "sleeping ${left}s to the next slot"; sleep "$left"; fi
