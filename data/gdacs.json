@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-16T20:33:17Z",
+ "generated_at": "2026-10-16T20:48:26Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 245,
  "alerts": [
   {
-   "title": "Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "title": "Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .",
    "event": "Tropical Cyclone",
-   "severity": "GREEN",
-   "area": "Cook Islands, French Polynesia",
+   "severity": "ORANGE",
+   "area": "Cook Islands",
    "onset": "Fri, 16 Oct 2026 07:39:18 GMT",
    "expires": null,
-   "lat": -10.8,
-   "lng": -163.3,
+   "lat": -12.7,
+   "lng": -163.4,
    "source": "GDACS",
-   "_gdacsLevel": "GREEN",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "TC"
   },
   {
