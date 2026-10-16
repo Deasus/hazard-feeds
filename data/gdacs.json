@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T19:17:42Z",
+ "generated_at": "2026-10-16T19:32:52Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 245,
  "alerts": [
@@ -2201,6 +2201,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Indonesia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Indonesia",
+   "onset": "Tue, 13 Oct 2026 23:12:07 GMT",
+   "expires": null,
+   "lat": -1.4938849771182225,
+   "lng": 104.40142119650913,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2248,19 +2261,6 @@
    "expires": null,
    "lat": -10.477118860648075,
    "lng": -47.27793647139547,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Indonesia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Indonesia",
-   "onset": "Tue, 13 Oct 2026 23:12:07 GMT",
-   "expires": null,
-   "lat": -1.4940780519515955,
-   "lng": 104.40153388267447,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
