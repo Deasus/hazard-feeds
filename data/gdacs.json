@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T19:28:16Z",
+ "generated_at": "2026-10-17T20:43:49Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 238,
  "alerts": [
@@ -17,16 +17,16 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "title": "Orange notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4982 .",
    "event": "Tropical Cyclone",
-   "severity": "GREEN",
-   "area": "Cook Islands, French Polynesia",
+   "severity": "ORANGE",
+   "area": "Cook Islands",
    "onset": "Fri, 16 Oct 2026 07:39:18 GMT",
    "expires": null,
-   "lat": -13.2,
+   "lat": -14.8,
    "lng": -163.2,
    "source": "GDACS",
-   "_gdacsLevel": "GREEN",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "TC"
   },
   {
@@ -127,8 +127,8 @@
    "area": "Guam, Northern Mariana Islands",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 12.6,
-   "lng": 146.1,
+   "lat": 13.1,
+   "lng": 144.8,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
