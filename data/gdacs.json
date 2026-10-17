@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T11:54:54Z",
+ "generated_at": "2026-10-17T14:56:19Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 225,
  "alerts": [
@@ -114,8 +114,8 @@
    "area": "Guam, Northern Mariana Islands",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 12.5,
-   "lng": 147.3,
+   "lat": 12.6,
+   "lng": 146.1,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
@@ -218,8 +218,8 @@
    "area": "México",
    "onset": "Tue, 13 Oct 2026 15:15:58 GMT",
    "expires": null,
-   "lat": 16.0,
-   "lng": -103.4,
+   "lat": 16.6,
+   "lng": -103.9,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
