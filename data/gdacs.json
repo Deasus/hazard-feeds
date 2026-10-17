@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T08:08:20Z",
+ "generated_at": "2026-10-17T08:53:41Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 220,
  "alerts": [
@@ -17,16 +17,16 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .",
+   "title": "Green notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
-   "severity": "ORANGE",
-   "area": "Cook Islands",
+   "severity": "GREEN",
+   "area": "Cook Islands, French Polynesia",
    "onset": "Fri, 16 Oct 2026 07:39:18 GMT",
    "expires": null,
-   "lat": -12.7,
-   "lng": -163.4,
+   "lat": -13.2,
+   "lng": -163.2,
    "source": "GDACS",
-   "_gdacsLevel": "ORANGE",
+   "_gdacsLevel": "GREEN",
    "_evCode": "TC"
   },
   {
@@ -1152,23 +1152,10 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Brazil",
-   "onset": "Mon, 12 Oct 2026 19:04:22 GMT",
+   "onset": "Fri, 16 Oct 2026 07:07:24 GMT",
    "expires": null,
-   "lat": -3.288949105721235,
-   "lng": -54.69576354237669,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Nigeria",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Nigeria",
-   "onset": "Fri, 16 Oct 2026 03:09:21 GMT",
-   "expires": null,
-   "lat": 13.172967533270773,
-   "lng": 13.761226432162456,
+   "lat": -6.081384125441117,
+   "lng": -52.745307847296125,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1200,14 +1187,27 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Nigeria",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Nigeria",
+   "onset": "Fri, 16 Oct 2026 03:09:21 GMT",
+   "expires": null,
+   "lat": 13.172967533270773,
+   "lng": 13.761226432162456,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Brazil",
-   "onset": "Fri, 16 Oct 2026 07:07:24 GMT",
+   "onset": "Mon, 12 Oct 2026 19:04:22 GMT",
    "expires": null,
-   "lat": -6.081384125441117,
-   "lng": -52.745307847296125,
+   "lat": -3.288949105721235,
+   "lng": -54.69576354237669,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
