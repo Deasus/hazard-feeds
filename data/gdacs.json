@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-17T05:37:19Z",
+ "generated_at": "2026-10-17T05:52:26Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 218,
+ "count": 219,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Pakistan 17/10/2026 05:06 UTC, 2 thousand (in MMI>=VII).",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Pakistan",
+   "onset": "Sat, 17 Oct 2026 05:26:57 GMT",
+   "expires": null,
+   "lat": 28.0179,
+   "lng": 66.1708,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3815 .",
    "event": "Tropical Cyclone",
