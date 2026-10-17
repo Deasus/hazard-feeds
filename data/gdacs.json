@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T23:34:40Z",
+ "generated_at": "2026-10-17T02:51:15Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 216,
  "alerts": [
@@ -72,11 +72,11 @@
    "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.175 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
-   "area": "Guam",
+   "area": "Northern Mariana Islands, Guam",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 11.9,
-   "lng": 150.2,
+   "lat": 12.4,
+   "lng": 148.6,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
