@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T11:50:20Z",
+ "generated_at": "2026-10-18T12:35:39Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 215,
  "alerts": [
@@ -1529,7 +1529,7 @@
    "event": "Flood",
    "severity": "GREEN",
    "area": "Argentina",
-   "onset": "Sun, 18 Oct 2026 09:26:20 GMT",
+   "onset": "Sun, 18 Oct 2026 12:24:36 GMT",
    "expires": null,
    "lat": -26.737224,
    "lng": -54.4315257,
