@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T03:16:35Z",
+ "generated_at": "2026-10-18T03:31:41Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 211,
  "alerts": [
@@ -2155,8 +2155,8 @@
    "area": "Brazil",
    "onset": "Thu, 15 Oct 2026 11:13:18 GMT",
    "expires": null,
-   "lat": -5.714745408986157,
-   "lng": -53.48696208329528,
+   "lat": -5.714928462006992,
+   "lng": -53.486963758372504,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2181,8 +2181,8 @@
    "area": "Brazil",
    "onset": "Sat, 17 Oct 2026 23:18:44 GMT",
    "expires": null,
-   "lat": -3.521367747608355,
-   "lng": -55.460159101082574,
+   "lat": -3.5214394550948556,
+   "lng": -55.46069572340754,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2207,8 +2207,8 @@
    "area": "Brazil",
    "onset": "Thu, 08 Oct 2026 07:01:58 GMT",
    "expires": null,
-   "lat": -3.5374540746996654,
-   "lng": -54.66958792426588,
+   "lat": -3.537277917932041,
+   "lng": -54.6698220291545,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
