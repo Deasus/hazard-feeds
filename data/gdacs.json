@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T08:03:41Z",
+ "generated_at": "2026-10-18T08:48:59Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 211,
  "alerts": [
@@ -17,16 +17,16 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Orange notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4982 .",
+   "title": "Green notification for tropical cyclone WATI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
-   "severity": "ORANGE",
-   "area": "Cook Islands",
+   "severity": "GREEN",
+   "area": "Cook Islands, French Polynesia",
    "onset": "Fri, 16 Oct 2026 07:39:18 GMT",
    "expires": null,
-   "lat": -14.8,
-   "lng": -163.2,
+   "lat": -16.1,
+   "lng": -162.4,
    "source": "GDACS",
-   "_gdacsLevel": "ORANGE",
+   "_gdacsLevel": "GREEN",
    "_evCode": "TC"
   },
   {
@@ -2110,19 +2110,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Papua New Guinea",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Papua New Guinea",
-   "onset": "Sun, 18 Oct 2026 07:15:02 GMT",
-   "expires": null,
-   "lat": -8.893323936205563,
-   "lng": 142.73257730986967,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Indonesia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2149,6 +2136,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Papua New Guinea",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Papua New Guinea",
+   "onset": "Sun, 18 Oct 2026 07:15:02 GMT",
+   "expires": null,
+   "lat": -8.893323936205563,
+   "lng": 142.73257730986967,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2162,19 +2162,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Papua New Guinea",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Papua New Guinea",
-   "onset": "Sat, 17 Oct 2026 07:10:36 GMT",
-   "expires": null,
-   "lat": -4.521524235521785,
-   "lng": 152.26513853372626,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2183,6 +2170,19 @@
    "expires": null,
    "lat": -3.5214394550948556,
    "lng": -55.46069572340754,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Papua New Guinea",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Papua New Guinea",
+   "onset": "Sat, 17 Oct 2026 07:10:36 GMT",
+   "expires": null,
+   "lat": -4.521524235521785,
+   "lng": 152.26513853372626,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
