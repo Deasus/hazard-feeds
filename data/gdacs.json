@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T07:44:13Z",
+ "generated_at": "2026-10-19T07:59:20Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 211,
  "alerts": [
@@ -309,24 +309,11 @@
    "area": "Guam, Northern Mariana Islands, Japan",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 14.0,
-   "lng": 139.2,
+   "lat": 14.3,
+   "lng": 138.4,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Mon, 19 Oct 2026 07:02:36 GMT",
-   "expires": null,
-   "lat": -21.948827149331247,
-   "lng": 129.5675945034214,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
   },
   {
    "title": "Green forest fire notification in Sudan",
@@ -337,6 +324,19 @@
    "expires": null,
    "lat": 10.347385230896046,
    "lng": 26.4388240658173,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Mon, 19 Oct 2026 07:02:36 GMT",
+   "expires": null,
+   "lat": -21.948827149331247,
+   "lng": 129.5675945034214,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -524,19 +524,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Zimbabwe",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Zimbabwe",
-   "onset": "Sat, 17 Oct 2026 19:02:29 GMT",
-   "expires": null,
-   "lat": -16.12630204067105,
-   "lng": 29.8664829336732,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Zambia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -558,6 +545,19 @@
    "expires": null,
    "lat": 11.909943165723154,
    "lng": 13.87124891390156,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Zimbabwe",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Zimbabwe",
+   "onset": "Sat, 17 Oct 2026 19:02:29 GMT",
+   "expires": null,
+   "lat": -16.12630204067105,
+   "lng": 29.8664829336732,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
