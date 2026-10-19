@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T08:44:44Z",
+ "generated_at": "2026-10-19T08:59:50Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 212,
  "alerts": [
@@ -101,8 +101,8 @@
    "area": "Cook Islands, French Polynesia",
    "onset": "Fri, 16 Oct 2026 07:39:18 GMT",
    "expires": null,
-   "lat": -18.6,
-   "lng": -160.2,
+   "lat": -20.7,
+   "lng": -156.8,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -466,7 +466,7 @@
    "onset": "Tue, 13 Oct 2026 15:15:58 GMT",
    "expires": null,
    "lat": 19.7,
-   "lng": -107.6,
+   "lng": -108.0,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -2240,19 +2240,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Indonesia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Indonesia",
-   "onset": "Mon, 12 Oct 2026 03:06:38 GMT",
-   "expires": null,
-   "lat": -1.7055571179632543,
-   "lng": 104.35522061197757,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Nigeria",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2261,6 +2248,19 @@
    "expires": null,
    "lat": 12.787089468726636,
    "lng": 13.913294532714994,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Indonesia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Indonesia",
+   "onset": "Mon, 12 Oct 2026 03:06:38 GMT",
+   "expires": null,
+   "lat": -1.7055571179632543,
+   "lng": 104.35522061197757,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
