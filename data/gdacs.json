@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T12:01:20Z",
+ "generated_at": "2026-10-19T14:17:29Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 223,
  "alerts": [
@@ -387,8 +387,8 @@
    "area": "Guam, Northern Mariana Islands, Japan",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 14.3,
-   "lng": 138.4,
+   "lat": 14.8,
+   "lng": 137.6,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
