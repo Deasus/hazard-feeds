@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-19T06:13:32Z",
+ "generated_at": "2026-10-19T06:28:39Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 205,
+ "count": 208,
  "alerts": [
   {
    "title": "Green forest fire notification in Australia",
@@ -106,6 +106,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green flood alert in Nicaragua",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Nicaragua",
+   "onset": "Mon, 19 Oct 2026 06:05:04 GMT",
+   "expires": null,
+   "lat": 14.0282255,
+   "lng": -83.3805727,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Green forest fire notification in Namibia",
@@ -415,6 +428,19 @@
    "expires": null,
    "lat": 32.896672,
    "lng": 13.1777923,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Uruguay",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Uruguay",
+   "onset": "Mon, 19 Oct 2026 06:24:23 GMT",
+   "expires": null,
+   "lat": -32.2702086,
+   "lng": -58.0837759,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
@@ -2355,6 +2381,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
+  },
+  {
+   "title": "Green flood alert in Brazil",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Fri, 09 Oct 2026 06:06:33 GMT",
+   "expires": null,
+   "lat": -22.1167884,
+   "lng": -43.2087226,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Green forest fire notification in Indonesia",
