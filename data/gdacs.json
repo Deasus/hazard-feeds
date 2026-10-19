@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T23:40:35Z",
+ "generated_at": "2026-10-19T03:27:18Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 203,
  "alerts": [
@@ -374,8 +374,8 @@
    "area": "México",
    "onset": "Tue, 13 Oct 2026 15:15:58 GMT",
    "expires": null,
-   "lat": 19.5,
-   "lng": -107.0,
+   "lat": 19.7,
+   "lng": -107.6,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
