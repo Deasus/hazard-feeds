@@ -1,14 +1,27 @@
 {
- "generated_at": "2026-10-19T19:22:43Z",
+ "generated_at": "2026-10-19T19:37:50Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 226,
+ "count": 227,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, No people affected in 100km.",
+   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:55 UTC, [unknown].",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Vanuatu Islands",
-   "onset": "Mon, 19 Oct 2026 19:13:02 GMT",
+   "onset": "Mon, 19 Oct 2026 19:16:41 GMT",
+   "expires": null,
+   "lat": -14.0266,
+   "lng": 165.4974,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
+  {
+   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Vanuatu Islands 19/10/2026 18:52 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu Islands",
+   "onset": "Mon, 19 Oct 2026 19:11:39 GMT",
    "expires": null,
    "lat": -14.0371,
    "lng": 165.5508,
