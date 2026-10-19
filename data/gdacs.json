@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-19T08:14:29Z",
+ "generated_at": "2026-10-19T08:29:38Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 211,
+ "count": 212,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 19/10/2026 07:49 UTC, 2 thousand in MMI>=III.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu",
+   "onset": "Mon, 19 Oct 2026 08:09:51 GMT",
+   "expires": null,
+   "lat": -14.0261,
+   "lng": 165.7054,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
