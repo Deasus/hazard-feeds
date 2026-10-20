@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-20T07:43:35Z",
+ "generated_at": "2026-10-20T07:58:35Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 234,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, No people affected in 100km.",
+   "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Vanuatu Islands",
@@ -205,11 +205,24 @@
    "area": "Spain",
    "onset": "Mon, 19 Oct 2026 06:04:30 GMT",
    "expires": null,
-   "lat": 41.3825802,
-   "lng": 2.177073,
+   "lat": 38.7062157,
+   "lng": 1.4334101,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Sun, 18 Oct 2026 11:00:41 GMT",
+   "expires": null,
+   "lat": -16.483613489734523,
+   "lng": 125.14720314144347,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green forest fire notification in Australia",
@@ -311,19 +324,6 @@
    "expires": null,
    "lat": -16.305176869614,
    "lng": 129.39637373703823,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Sun, 18 Oct 2026 11:00:41 GMT",
-   "expires": null,
-   "lat": -16.483613489734523,
-   "lng": 125.14720314144347,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
