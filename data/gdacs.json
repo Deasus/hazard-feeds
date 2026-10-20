@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T14:01:21Z",
+ "generated_at": "2026-10-20T14:46:44Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 245,
+ "count": 247,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
@@ -147,17 +147,30 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
+   "title": "Green flood alert in South Korea",
+   "event": "Flood",
    "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Mon, 19 Oct 2026 07:00:38 GMT",
+   "area": "South Korea",
+   "onset": "Tue, 20 Oct 2026 14:35:13 GMT",
    "expires": null,
-   "lat": -17.957190943962527,
-   "lng": 128.8607380596121,
+   "lat": 37.2808823,
+   "lng": 127.4429132,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Thailand",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Thailand",
+   "onset": "Tue, 20 Oct 2026 14:35:25 GMT",
+   "expires": null,
+   "lat": 7.0366682,
+   "lng": 99.9615397,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Green forest fire notification in Australia",
@@ -220,6 +233,19 @@
    "expires": null,
    "lat": -19.58652902130277,
    "lng": 22.050624971332514,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Mon, 19 Oct 2026 07:00:38 GMT",
+   "expires": null,
+   "lat": -17.957190943962527,
+   "lng": 128.8607380596121,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -810,14 +836,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.273 million .",
+   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.339 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
    "area": "Guam, Northern Mariana Islands, Japan",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 16.5,
-   "lng": 134.4,
+   "lat": 17.0,
+   "lng": 133.0,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
@@ -3137,19 +3163,6 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo",
-   "event": "Drought",
-   "severity": "GREEN",
-   "area": "Angola, Democratic Republic of Congo, Republic of Congo",
-   "onset": "Wed, 04 Feb 2026 09:58:20 GMT",
-   "expires": null,
-   "lat": -4.0,
-   "lng": 13.5,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "DR"
-  },
-  {
    "title": "Drought is on going in Austria, Bosnia & Herzegovina, Belgium, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
    "event": "Drought",
    "severity": "ORANGE",
@@ -3160,6 +3173,19 @@
    "lng": 13.128,
    "source": "GDACS",
    "_gdacsLevel": "ORANGE",
+   "_evCode": "DR"
+  },
+  {
+   "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo",
+   "event": "Drought",
+   "severity": "GREEN",
+   "area": "Angola, Democratic Republic of Congo, Republic of Congo",
+   "onset": "Wed, 04 Feb 2026 09:58:20 GMT",
+   "expires": null,
+   "lat": -4.0,
+   "lng": 13.5,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
    "_evCode": "DR"
   },
   {
