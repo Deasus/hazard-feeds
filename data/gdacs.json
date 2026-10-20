@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-20T08:43:54Z",
+ "generated_at": "2026-10-20T10:44:47Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 235,
+ "count": 236,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
@@ -2877,6 +2877,19 @@
    "_evCode": "FL"
   },
   {
+   "title": "Green flood alert in Ecuador",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Ecuador",
+   "onset": "Thu, 17 Sep 2026 10:54:34 GMT",
+   "expires": null,
+   "lat": -3.2588565,
+   "lng": -79.9588518,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
    "title": "Green flood alert in Mexico",
    "event": "Flood",
    "severity": "GREEN",
@@ -2890,19 +2903,6 @@
    "_evCode": "FL"
   },
   {
-   "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
-   "event": "Drought",
-   "severity": "ORANGE",
-   "area": "Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
-   "onset": "Fri, 03 Jul 2026 12:57:44 GMT",
-   "expires": null,
-   "lat": 8.344,
-   "lng": 25.173,
-   "source": "GDACS",
-   "_gdacsLevel": "ORANGE",
-   "_evCode": "DR"
-  },
-  {
    "title": "Drought is on going in China, Kazakhstan, Mongolia",
    "event": "Drought",
    "severity": "GREEN",
@@ -2913,6 +2913,19 @@
    "lng": 85.313,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
+   "_evCode": "DR"
+  },
+  {
+   "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
+   "event": "Drought",
+   "severity": "ORANGE",
+   "area": "Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
+   "onset": "Fri, 03 Jul 2026 12:57:44 GMT",
+   "expires": null,
+   "lat": 8.344,
+   "lng": 25.173,
+   "source": "GDACS",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "DR"
   },
   {
