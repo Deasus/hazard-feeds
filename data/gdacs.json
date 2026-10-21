@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-21T10:10:55Z",
+ "generated_at": "2026-10-21T10:56:13Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 251,
+ "count": 252,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
@@ -233,6 +233,19 @@
    "expires": null,
    "lat": 7.0366682,
    "lng": 99.9615397,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Guatemala",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Guatemala",
+   "onset": "Wed, 21 Oct 2026 10:52:49 GMT",
+   "expires": null,
+   "lat": 15.3832579,
+   "lng": -90.2390014,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
