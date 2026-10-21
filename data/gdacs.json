@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-21T15:59:07Z",
+ "generated_at": "2026-10-21T20:46:15Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 269,
  "alerts": [
   {
-   "title": "Green notification for tropical cyclone TWENTY-TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "title": "Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
    "area": "Global",
    "onset": "Wed, 21 Oct 2026 14:51:54 GMT",
    "expires": null,
-   "lat": 9.5,
-   "lng": -99.3,
+   "lat": 9.4,
+   "lng": -99.8,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -1200,14 +1200,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.181 million .",
+   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
-   "area": "Philippines, Guam, Northern Mariana Islands, Japan",
+   "area": "Philippines, Guam, Northern Mariana Islands, Japan, Taiwan",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 19.3,
-   "lng": 127.9,
+   "lat": 19.9,
+   "lng": 126.9,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
