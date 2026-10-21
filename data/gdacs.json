@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T02:22:17Z",
+ "generated_at": "2026-10-21T03:07:36Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 248,
  "alerts": [
@@ -23,8 +23,8 @@
    "area": "Australia",
    "onset": "Tue, 20 Oct 2026 23:00:51 GMT",
    "expires": null,
-   "lat": -16.84667941597068,
-   "lng": 132.92804724403288,
+   "lat": -16.847721453382487,
+   "lng": 132.92976635296262,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -36,8 +36,8 @@
    "area": "Australia",
    "onset": "Tue, 20 Oct 2026 23:00:59 GMT",
    "expires": null,
-   "lat": -21.594763450066527,
-   "lng": 122.32447274625137,
+   "lat": -21.594037139178937,
+   "lng": 122.32332711592016,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -114,8 +114,8 @@
    "area": "Australia",
    "onset": "Tue, 20 Oct 2026 23:01:31 GMT",
    "expires": null,
-   "lat": -17.944869722457998,
-   "lng": 124.98365901110492,
+   "lat": -17.943047128720597,
+   "lng": 124.98377524945198,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
