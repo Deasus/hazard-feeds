@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T05:23:45Z",
+ "generated_at": "2026-10-21T07:09:31Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 249,
  "alerts": [
@@ -3065,8 +3065,8 @@
    "area": "Ecuador",
    "onset": "Thu, 17 Sep 2026 10:54:34 GMT",
    "expires": null,
-   "lat": -3.2588565,
-   "lng": -79.9588518,
+   "lat": -2.1900572,
+   "lng": -79.8868669,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
