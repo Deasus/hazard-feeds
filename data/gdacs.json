@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-21T14:43:30Z",
+ "generated_at": "2026-10-21T14:58:40Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 263,
+ "count": 264,
  "alerts": [
+  {
+   "title": "Green notification for tropical cyclone TWENTY-TWO-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "event": "Tropical Cyclone",
+   "severity": "GREEN",
+   "area": "Global",
+   "onset": "Wed, 21 Oct 2026 14:51:54 GMT",
+   "expires": null,
+   "lat": 9.5,
+   "lng": -99.3,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "TC"
+  },
   {
    "title": "Green earthquake (Magnitude 6.3M, Depth:16km) in Vanuatu Islands 20/10/2026 04:20 UTC, [unknown].",
    "event": "Earthquake",
@@ -15,6 +28,32 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Tue, 20 Oct 2026 23:00:51 GMT",
+   "expires": null,
+   "lat": -16.850737347849662,
+   "lng": 132.93211844733378,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Tue, 20 Oct 2026 23:00:59 GMT",
+   "expires": null,
+   "lat": -21.595834282175385,
+   "lng": 122.32225611084745,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green forest fire notification in Australia",
@@ -77,32 +116,6 @@
    "expires": null,
    "lat": -14.803250637576438,
    "lng": 134.67010606392336,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Tue, 20 Oct 2026 23:00:51 GMT",
-   "expires": null,
-   "lat": -16.850737347849662,
-   "lng": 132.93211844733378,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Tue, 20 Oct 2026 23:00:59 GMT",
-   "expires": null,
-   "lat": -21.595834282175385,
-   "lng": 122.32225611084745,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
