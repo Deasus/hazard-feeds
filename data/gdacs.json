@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T14:24:22Z",
+ "generated_at": "2026-10-22T15:09:43Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 283,
  "alerts": [
@@ -10,8 +10,8 @@
    "area": "United States, Canada, Saint Pierre and Miquelon",
    "onset": "Wed, 21 Oct 2026 21:08:24 GMT",
    "expires": null,
-   "lat": 38.7,
-   "lng": -68.3,
+   "lat": 39.2,
+   "lng": -67.3,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
