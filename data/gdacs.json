@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-10-22T16:10:13Z",
+ "generated_at": "2026-10-22T16:25:20Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 286,
  "alerts": [
   {
-   "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 100 thousand in 100km.",
+   "title": "Orange earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI>=VII).",
    "event": "Earthquake",
-   "severity": "RED",
+   "severity": "ORANGE",
    "area": "China",
    "onset": "Thu, 22 Oct 2026 14:54:15 GMT",
    "expires": null,
    "lat": 32.3805,
    "lng": 93.7797,
    "source": "GDACS",
-   "_gdacsLevel": "RED",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "EQ"
   },
   {
