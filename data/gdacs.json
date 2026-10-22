@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T08:06:28Z",
+ "generated_at": "2026-10-22T08:51:52Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 274,
  "alerts": [
@@ -1395,17 +1395,56 @@
    "_evCode": "WF"
   },
   {
-   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.18 million .",
+   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
-   "area": "Philippines, Guam, Northern Mariana Islands, Japan",
+   "area": "Philippines, Guam, Northern Mariana Islands, Japan, Taiwan",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 20.3,
-   "lng": 126.0,
+   "lat": 20.9,
+   "lng": 125.4,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
+  },
+  {
+   "title": "Green forest fire notification in Nigeria",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Nigeria",
+   "onset": "Tue, 20 Oct 2026 19:02:36 GMT",
+   "expires": null,
+   "lat": 12.189879095631671,
+   "lng": 13.315879630695132,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Zambia, Zimbabwe",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Zambia, Zimbabwe",
+   "onset": "Thu, 22 Oct 2026 07:30:08 GMT",
+   "expires": null,
+   "lat": -15.394489769495813,
+   "lng": 29.67799053389083,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Tanzania",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Tanzania",
+   "onset": "Thu, 22 Oct 2026 07:30:30 GMT",
+   "expires": null,
+   "lat": -10.189872271584374,
+   "lng": 36.08244428113937,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green forest fire notification in Australia",
@@ -1442,45 +1481,6 @@
    "expires": null,
    "lat": 12.109531414546472,
    "lng": 20.593916137371686,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Zambia, Zimbabwe",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Zambia, Zimbabwe",
-   "onset": "Thu, 22 Oct 2026 07:30:08 GMT",
-   "expires": null,
-   "lat": -15.394489769495813,
-   "lng": 29.67799053389083,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Tanzania",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Tanzania",
-   "onset": "Thu, 22 Oct 2026 07:30:30 GMT",
-   "expires": null,
-   "lat": -10.189872271584374,
-   "lng": 36.08244428113937,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Nigeria",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Nigeria",
-   "onset": "Tue, 20 Oct 2026 19:02:36 GMT",
-   "expires": null,
-   "lat": 12.189879095631671,
-   "lng": 13.315879630695132,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1902,6 +1902,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Indonesia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Indonesia",
+   "onset": "Wed, 21 Oct 2026 03:34:08 GMT",
+   "expires": null,
+   "lat": -7.976439093889001,
+   "lng": 113.6241525823162,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Mozambique",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1936,19 +1949,6 @@
    "expires": null,
    "lat": -15.354706097443218,
    "lng": 30.932149099085425,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Indonesia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Indonesia",
-   "onset": "Wed, 21 Oct 2026 03:34:08 GMT",
-   "expires": null,
-   "lat": -7.976439093889001,
-   "lng": 113.6241525823162,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
