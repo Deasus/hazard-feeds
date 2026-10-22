@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:12:39Z",
+ "generated_at": "2026-10-22T20:58:04Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 296,
  "alerts": [
@@ -23,8 +23,8 @@
    "area": "United States, Canada, Saint Pierre and Miquelon",
    "onset": "Wed, 21 Oct 2026 21:08:24 GMT",
    "expires": null,
-   "lat": 39.2,
-   "lng": -67.3,
+   "lat": 40.0,
+   "lng": -65.8,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -36,8 +36,8 @@
    "area": "México",
    "onset": "Wed, 21 Oct 2026 14:51:54 GMT",
    "expires": null,
-   "lat": 9.7,
-   "lng": -101.0,
+   "lat": 10.0,
+   "lng": -101.5,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -1629,14 +1629,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.543 million .",
+   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.192 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
    "area": "Philippines, Guam, Northern Mariana Islands, Japan, Taiwan",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 21.2,
-   "lng": 124.9,
+   "lat": 21.9,
+   "lng": 124.3,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
