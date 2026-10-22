@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-22T22:28:42Z",
+ "generated_at": "2026-10-22T23:14:03Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 272,
+ "count": 274,
  "alerts": [
   {
    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI>=VII).",
@@ -15,6 +15,19 @@
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green forest fire notification in China",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "China",
+   "onset": "Thu, 22 Oct 2026 23:01:19 GMT",
+   "expires": null,
+   "lat": 49.018125575894366,
+   "lng": 116.58250510122598,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green notification for tropical cyclone JOSEPHINE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.514 million in Tropical Storm).",
@@ -43,14 +56,14 @@
    "_evCode": "TC"
   },
   {
-   "title": "Green forest fire notification in Australia",
+   "title": "Green forest fire notification in Botswana",
    "event": "Wildfire",
    "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Thu, 22 Oct 2026 11:00:50 GMT",
+   "area": "Botswana",
+   "onset": "Thu, 22 Oct 2026 23:01:45 GMT",
    "expires": null,
-   "lat": -21.141497384316594,
-   "lng": 125.55564727969771,
+   "lat": -22.515669500290635,
+   "lng": 24.804877310559114,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -60,7 +73,20 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Thu, 22 Oct 2026 19:00:58 GMT",
+   "onset": "Thu, 22 Oct 2026 11:00:50 GMT",
+   "expires": null,
+   "lat": -21.141517449373293,
+   "lng": 125.5549640945027,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Thu, 22 Oct 2026 23:02:16 GMT",
    "expires": null,
    "lat": -20.653076580322494,
    "lng": 136.50436927940316,
@@ -75,8 +101,8 @@
    "area": "Australia",
    "onset": "Thu, 22 Oct 2026 11:01:10 GMT",
    "expires": null,
-   "lat": -18.97322264286179,
-   "lng": 131.45692070747012,
+   "lat": -18.977142839594723,
+   "lng": 131.44681280657568,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -88,8 +114,8 @@
    "area": "Australia",
    "onset": "Thu, 22 Oct 2026 11:01:46 GMT",
    "expires": null,
-   "lat": -18.602304601679354,
-   "lng": 123.71477235904827,
+   "lat": -18.603596491026874,
+   "lng": 123.71336438773483,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -153,8 +179,8 @@
    "area": "Australia",
    "onset": "Wed, 21 Oct 2026 23:01:30 GMT",
    "expires": null,
-   "lat": -22.17740565590983,
-   "lng": 123.43973835486695,
+   "lat": -22.17774615466821,
+   "lng": 123.43938098694481,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -179,8 +205,8 @@
    "area": "Botswana",
    "onset": "Wed, 21 Oct 2026 23:02:01 GMT",
    "expires": null,
-   "lat": -20.087351269093915,
-   "lng": 23.750548375710235,
+   "lat": -20.091850792880418,
+   "lng": 23.75567607995577,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -255,7 +281,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Thu, 22 Oct 2026 19:02:14 GMT",
+   "onset": "Thu, 22 Oct 2026 23:05:06 GMT",
    "expires": null,
    "lat": -19.790684402084864,
    "lng": 130.32440313136948,
@@ -296,8 +322,8 @@
    "area": "Australia",
    "onset": "Wed, 21 Oct 2026 11:00:31 GMT",
    "expires": null,
-   "lat": -23.341947306997373,
-   "lng": 122.35297070417657,
+   "lat": -23.33970049143281,
+   "lng": 122.3516520683463,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -309,8 +335,8 @@
    "area": "Australia",
    "onset": "Wed, 21 Oct 2026 11:00:39 GMT",
    "expires": null,
-   "lat": -21.91588040379032,
-   "lng": 123.40060141810652,
+   "lat": -21.917365632445822,
+   "lng": 123.40522496769752,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -348,8 +374,8 @@
    "area": "Australia",
    "onset": "Wed, 21 Oct 2026 15:01:35 GMT",
    "expires": null,
-   "lat": -21.345330358544928,
-   "lng": 122.86228027283472,
+   "lat": -21.34006479122913,
+   "lng": 122.85871545632273,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
