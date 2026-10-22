@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T07:51:22Z",
+ "generated_at": "2026-10-22T08:06:28Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 274,
  "alerts": [
@@ -2279,19 +2279,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Chad",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Chad",
-   "onset": "Sat, 17 Oct 2026 11:04:35 GMT",
-   "expires": null,
-   "lat": 11.317320794698322,
-   "lng": 20.97271188216874,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2300,6 +2287,19 @@
    "expires": null,
    "lat": 10.72164630135875,
    "lng": 30.262376198888507,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Chad",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Chad",
+   "onset": "Sat, 17 Oct 2026 11:04:35 GMT",
+   "expires": null,
+   "lat": 11.317320794698322,
+   "lng": 20.97271188216874,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2545,8 +2545,8 @@
    "area": "Nigeria, Cameroon",
    "onset": "Tue, 20 Oct 2026 15:15:57 GMT",
    "expires": null,
-   "lat": 11.429447774462803,
-   "lng": 14.733815562698926,
+   "lat": 11.429446363367758,
+   "lng": 14.733815646482851,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2647,10 +2647,23 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Mozambique, Zimbabwe",
-   "onset": "Thu, 22 Oct 2026 03:32:24 GMT",
+   "onset": "Thu, 22 Oct 2026 07:56:23 GMT",
    "expires": null,
    "lat": -17.178133973460767,
    "lng": 33.21239182106069,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Chad, Nigeria",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Chad, Nigeria",
+   "onset": "Fri, 16 Oct 2026 03:09:21 GMT",
+   "expires": null,
+   "lat": 13.175219488090073,
+   "lng": 13.762279197365224,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2768,19 +2781,6 @@
    "expires": null,
    "lat": -17.10562031755062,
    "lng": 33.77551963880332,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Chad, Nigeria",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Chad, Nigeria",
-   "onset": "Fri, 16 Oct 2026 03:09:21 GMT",
-   "expires": null,
-   "lat": 13.175219183260811,
-   "lng": 13.762280589755173,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
