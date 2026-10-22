@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T00:02:49Z",
+ "generated_at": "2026-10-22T02:49:03Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 273,
  "alerts": [
@@ -303,19 +303,6 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green flood alert in France",
-   "event": "Flood",
-   "severity": "GREEN",
-   "area": "France",
-   "onset": "Wed, 21 Oct 2026 09:54:34 GMT",
-   "expires": null,
-   "lat": 43.6989653,
-   "lng": 4.1146915,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "FL"
-  },
-  {
    "title": "Green flood alert in Ukraine",
    "event": "Flood",
    "severity": "GREEN",
@@ -324,6 +311,19 @@
    "expires": null,
    "lat": 44.4341131,
    "lng": 34.0919813,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in France",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "France",
+   "onset": "Wed, 21 Oct 2026 09:54:34 GMT",
+   "expires": null,
+   "lat": 43.6989653,
+   "lng": 4.1146915,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
@@ -1382,14 +1382,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.231 million .",
+   "title": "Red notification for tropical cyclone CHAMPI-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.18 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
-   "area": "Philippines, Guam, Northern Mariana Islands, Japan, Taiwan",
+   "area": "Philippines, Guam, Northern Mariana Islands, Japan",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 19.9,
-   "lng": 126.9,
+   "lat": 20.3,
+   "lng": 126.0,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
