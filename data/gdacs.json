@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-23T08:18:11Z",
+ "generated_at": "2026-10-23T10:49:24Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 294,
+ "count": 295,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 890 thousand in MMI>=IV.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Italy",
+   "onset": "Fri, 23 Oct 2026 10:34:39 GMT",
+   "expires": null,
+   "lat": 38.7199,
+   "lng": 14.152,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Red earthquake (Magnitude 7M, Depth:18km) in China 22/10/2026 14:33 UTC, 10 thousand (in MMI>=VII).",
    "event": "Earthquake",
