@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-24T07:59:52Z",
+ "generated_at": "2026-10-24T09:30:26Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 316,
+ "count": 317,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Vanuatu 24/10/2026 08:56 UTC, Few people affected in MMI III.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu",
+   "onset": "Sat, 24 Oct 2026 09:07:44 GMT",
+   "expires": null,
+   "lat": -13.9418,
+   "lng": 165.6471,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:194.632km) in Vanuatu 24/10/2026 06:43 UTC, 60 thousand in MMI III.",
    "event": "Earthquake",
