@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T03:42:56Z",
+ "generated_at": "2026-10-24T03:58:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 312,
  "alerts": [
@@ -43,7 +43,7 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green forest fire notification in Mali, Mauritania",
+   "title": "Green forest fire notification in Mauritania, Mali",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Mauritania, Mali",
@@ -2530,7 +2530,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Zambia, Zimbabwe",
-   "onset": "Fri, 23 Oct 2026 23:21:31 GMT",
+   "onset": "Sat, 24 Oct 2026 03:27:05 GMT",
    "expires": null,
    "lat": -15.650572667044996,
    "lng": 29.051454327831188,
@@ -2662,8 +2662,8 @@
    "area": "Suriname, Brazil",
    "onset": "Thu, 22 Oct 2026 23:25:41 GMT",
    "expires": null,
-   "lat": 1.7742355176508318,
-   "lng": -55.99525102720267,
+   "lat": 1.7761737620651457,
+   "lng": -55.99314969997278,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2673,7 +2673,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Zimbabwe, Mozambique, Zambia",
-   "onset": "Fri, 23 Oct 2026 23:21:09 GMT",
+   "onset": "Sat, 24 Oct 2026 03:26:31 GMT",
    "expires": null,
    "lat": -15.505719337024058,
    "lng": 30.501042076253896,
@@ -2779,8 +2779,8 @@
    "area": "Indonesia",
    "onset": "Tue, 20 Oct 2026 23:07:37 GMT",
    "expires": null,
-   "lat": -2.4352346403723004,
-   "lng": 103.7576593065587,
+   "lat": -2.4351867753092113,
+   "lng": 103.75644165174907,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2881,7 +2881,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Botswana",
-   "onset": "Fri, 23 Oct 2026 23:23:13 GMT",
+   "onset": "Sat, 24 Oct 2026 03:29:52 GMT",
    "expires": null,
    "lat": -18.951850556399602,
    "lng": 21.499689444804513,
@@ -3154,7 +3154,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Sudan",
-   "onset": "Fri, 23 Oct 2026 23:26:50 GMT",
+   "onset": "Sat, 24 Oct 2026 03:35:57 GMT",
    "expires": null,
    "lat": 10.72164630135875,
    "lng": 30.262376198888507,
