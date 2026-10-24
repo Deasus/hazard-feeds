@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-23T23:56:25Z",
+ "generated_at": "2026-10-24T02:57:37Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 309,
+ "count": 310,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6.9M, Depth:10km) in Vanuatu 24/10/2026 02:31 UTC, No people affected in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu",
+   "onset": "Sat, 24 Oct 2026 02:44:07 GMT",
+   "expires": null,
+   "lat": -14.0558,
+   "lng": 165.5455,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Italy 23/10/2026 10:19 UTC, 40 thousand in MMI IV.",
    "event": "Earthquake",
