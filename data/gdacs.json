@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-24T23:51:44Z",
+ "generated_at": "2026-10-25T02:53:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 309,
+ "count": 310,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6.5M, Depth:492.376km) in Bonin Islands, Japan Region 25/10/2026 02:09 UTC, No people affected in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Bonin Islands, Japan Region",
+   "onset": "Sun, 25 Oct 2026 02:25:53 GMT",
+   "expires": null,
+   "lat": 27.7953,
+   "lng": 139.6184,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.8M, Depth:12.486km) in Bouvet Island Region 24/10/2026 15:24 UTC, [unknown].",
    "event": "Earthquake",
