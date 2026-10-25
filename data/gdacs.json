@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-25T14:43:22Z",
+ "generated_at": "2026-10-25T15:28:41Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 328,
+ "count": 329,
  "alerts": [
+  {
+   "title": "Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "event": "Tropical Cyclone",
+   "severity": "GREEN",
+   "area": "Global",
+   "onset": "Sun, 25 Oct 2026 15:05:43 GMT",
+   "expires": null,
+   "lat": 14.6,
+   "lng": -179.3,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "TC"
+  },
   {
    "title": "Green earthquake (Magnitude 5.9M, Depth:7km) in China 25/10/2026 11:25 UTC, 10 thousand in MMI>=V.",
    "event": "Earthquake",
