@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T14:13:09Z",
+ "generated_at": "2026-10-25T14:28:16Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 328,
  "alerts": [
@@ -20,11 +20,11 @@
    "title": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
-   "area": "Marshall Islands, Northern Mariana Islands",
+   "area": "Marshall Islands",
    "onset": "Sun, 25 Oct 2026 11:52:38 GMT",
    "expires": null,
-   "lat": 12.0,
-   "lng": 165.0,
+   "lat": 12.8,
+   "lng": 164.5,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
