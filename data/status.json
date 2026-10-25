@@ -2,24 +2,24 @@
  "feeds": {
   "gdacs": {
    "upstream": "https://www.gdacs.org/xml/rss.xml",
-   "last_attempt": "2026-10-25T05:24:13Z",
+   "last_attempt": "2026-10-25T05:39:18Z",
    "ok": true,
    "count": 311,
-   "last_success": "2026-10-25T05:24:13Z",
+   "last_success": "2026-10-25T05:39:18Z",
    "error": null,
-   "last_change": "2026-10-25T05:24:13Z",
+   "last_change": "2026-10-25T05:39:18Z",
    "last_failure": "2026-10-21T23:32:35Z"
   },
   "volcano": {
    "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
-   "last_attempt": "2026-10-25T05:24:13Z",
+   "last_attempt": "2026-10-25T05:39:18Z",
    "ok": true,
    "count": 27,
-   "last_success": "2026-10-25T05:24:13Z",
+   "last_success": "2026-10-25T05:39:18Z",
    "error": null,
    "last_change": "2026-10-16T18:01:05Z",
    "last_failure": "2026-10-25T01:37:36Z"
   }
  },
- "generated_at": "2026-10-25T05:24:13Z"
+ "generated_at": "2026-10-25T05:39:18Z"
 }
