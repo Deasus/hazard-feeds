@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T17:14:34Z",
+ "generated_at": "2026-10-25T20:00:45Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 330,
  "alerts": [
@@ -2844,8 +2844,8 @@
    "area": "Philippines, Guam, Northern Mariana Islands, Japan, China, South Korea",
    "onset": "Wed, 14 Oct 2026 14:31:53 GMT",
    "expires": null,
-   "lat": 30.7,
-   "lng": 126.3,
+   "lat": 31.2,
+   "lng": 127.4,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
