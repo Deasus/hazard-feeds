@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-26T01:18:08Z",
+ "generated_at": "2026-10-26T02:03:27Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 318,
+ "count": 319,
  "alerts": [
+  {
+   "title": "Orange notification for tropical cyclone TWO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0.356 million .",
+   "event": "Tropical Cyclone",
+   "severity": "ORANGE",
+   "area": "India",
+   "onset": "Mon, 26 Oct 2026 01:51:40 GMT",
+   "expires": null,
+   "lat": 16.0,
+   "lng": 89.1,
+   "source": "GDACS",
+   "_gdacsLevel": "ORANGE",
+   "_evCode": "TC"
+  },
   {
    "title": "Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
@@ -36,8 +49,8 @@
    "area": "Marshall Islands",
    "onset": "Sun, 25 Oct 2026 11:52:38 GMT",
    "expires": null,
-   "lat": 13.4,
-   "lng": 163.9,
+   "lat": 13.8,
+   "lng": 163.2,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
