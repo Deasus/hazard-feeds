@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-26T09:21:53Z",
+ "generated_at": "2026-10-26T11:07:44Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 325,
+ "count": 326,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Fiji",
+   "onset": "Mon, 26 Oct 2026 10:30:25 GMT",
+   "expires": null,
+   "lat": -18.283,
+   "lng": -178.0109,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 3.049 million .",
    "event": "Tropical Cyclone",
