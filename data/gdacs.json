@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:05:43Z",
+ "generated_at": "2026-10-27T14:20:56Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 333,
  "alerts": [
@@ -43,14 +43,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 7.447 million .",
+   "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.878 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
    "area": "India",
    "onset": "Mon, 26 Oct 2026 01:51:40 GMT",
    "expires": null,
-   "lat": 16.2,
-   "lng": 83.8,
+   "lat": 16.3,
+   "lng": 82.7,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
