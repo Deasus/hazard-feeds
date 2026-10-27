@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-27T09:33:33Z",
+ "generated_at": "2026-10-27T09:48:51Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 327,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, No people affected in 100km.",
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Vanuatu",
@@ -2140,7 +2140,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Tanzania",
-   "onset": "Tue, 27 Oct 2026 00:54:21 GMT",
+   "onset": "Tue, 27 Oct 2026 09:24:59 GMT",
    "expires": null,
    "lat": -9.877020592838553,
    "lng": 35.996260525407095,
@@ -2214,19 +2214,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in South Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan",
-   "onset": "Mon, 26 Oct 2026 20:58:12 GMT",
-   "expires": null,
-   "lat": 9.237085602189183,
-   "lng": 26.16793068801816,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2246,8 +2233,8 @@
    "area": "Australia",
    "onset": "Mon, 26 Oct 2026 08:27:36 GMT",
    "expires": null,
-   "lat": -14.780769890790895,
-   "lng": 135.2294989581246,
+   "lat": -14.779696742386028,
+   "lng": 135.23096332045412,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2256,7 +2243,7 @@
    "title": "Green forest fire notification in Ethiopia, South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
-   "area": "Ethiopia, South Sudan",
+   "area": "South Sudan, Ethiopia",
    "onset": "Mon, 26 Oct 2026 17:24:06 GMT",
    "expires": null,
    "lat": 8.234953548886155,
@@ -2274,6 +2261,19 @@
    "expires": null,
    "lat": 8.930514626292714,
    "lng": 29.196732268232093,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Mon, 26 Oct 2026 20:58:12 GMT",
+   "expires": null,
+   "lat": 9.237943989715179,
+   "lng": 26.168175853299164,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
