@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T19:39:55Z",
+ "generated_at": "2026-10-27T20:25:22Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 339,
+ "count": 343,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
@@ -21,7 +21,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Mongolia",
-   "onset": "Tue, 27 Oct 2026 16:01:46 GMT",
+   "onset": "Tue, 27 Oct 2026 20:01:23 GMT",
    "expires": null,
    "lat": 46.44306759375421,
    "lng": 114.50471902120746,
@@ -56,19 +56,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Tue, 27 Oct 2026 00:00:54 GMT",
-   "expires": null,
-   "lat": -20.97923726483081,
-   "lng": 129.114640688871,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Red notification for tropical cyclone ARNAB-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 4.878 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
@@ -80,6 +67,19 @@
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Tue, 27 Oct 2026 00:00:54 GMT",
+   "expires": null,
+   "lat": -20.97923726483081,
+   "lng": 129.114640688871,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green notification for tropical cyclone THREE-C-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
@@ -114,8 +114,8 @@
    "area": "Marshall Islands",
    "onset": "Sun, 25 Oct 2026 11:52:38 GMT",
    "expires": null,
-   "lat": 14.5,
-   "lng": 161.6,
+   "lat": 14.7,
+   "lng": 160.8,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -166,8 +166,8 @@
    "area": "Mali",
    "onset": "Tue, 27 Oct 2026 16:03:33 GMT",
    "expires": null,
-   "lat": 14.491045136997483,
-   "lng": -7.043781213563518,
+   "lat": 14.492680944858748,
+   "lng": -7.044487597247314,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -519,6 +519,58 @@
    "expires": null,
    "lat": 13.80347099272472,
    "lng": 0.2712050335542876,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Tue, 27 Oct 2026 20:06:52 GMT",
+   "expires": null,
+   "lat": 8.928146227462639,
+   "lng": 26.08004805851994,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Senegal, Mali",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Senegal, Mali",
+   "onset": "Tue, 27 Oct 2026 20:08:16 GMT",
+   "expires": null,
+   "lat": 14.07447755300437,
+   "lng": -11.998467600805993,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan, Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan, Sudan",
+   "onset": "Tue, 27 Oct 2026 20:14:14 GMT",
+   "expires": null,
+   "lat": 10.50863835593063,
+   "lng": 25.822840279201216,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Burkina Faso",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Burkina Faso",
+   "onset": "Tue, 27 Oct 2026 20:14:59 GMT",
+   "expires": null,
+   "lat": 14.059386520606735,
+   "lng": -0.5961538935835046,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
