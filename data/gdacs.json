@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T00:59:34Z",
+ "generated_at": "2026-10-27T01:29:47Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 326,
  "alerts": [
@@ -2194,8 +2194,8 @@
    "area": "Australia",
    "onset": "Mon, 26 Oct 2026 08:27:36 GMT",
    "expires": null,
-   "lat": -14.781013083552857,
-   "lng": 135.2292569912254,
+   "lat": -14.780769890790895,
+   "lng": 135.2294989581246,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2233,8 +2233,8 @@
    "area": "Australia",
    "onset": "Mon, 26 Oct 2026 12:18:13 GMT",
    "expires": null,
-   "lat": -17.480733842244423,
-   "lng": 133.10947354784338,
+   "lat": -17.480600626697175,
+   "lng": 133.10993791914666,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2305,6 +2305,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Tanzania",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Tanzania",
+   "onset": "Sat, 24 Oct 2026 19:14:35 GMT",
+   "expires": null,
+   "lat": -10.144270977630281,
+   "lng": 34.96226210079269,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2363,21 +2376,8 @@
    "area": "Mozambique",
    "onset": "Thu, 22 Oct 2026 15:08:11 GMT",
    "expires": null,
-   "lat": -12.399918545905008,
-   "lng": 37.83329961060974,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Tanzania",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Tanzania",
-   "onset": "Sat, 24 Oct 2026 19:14:35 GMT",
-   "expires": null,
-   "lat": -10.144270977630281,
-   "lng": 34.96226210079269,
+   "lat": -12.399510101665468,
+   "lng": 37.8338304616022,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2539,19 +2539,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Mozambique",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Mozambique",
-   "onset": "Sat, 24 Oct 2026 15:19:26 GMT",
-   "expires": null,
-   "lat": -15.993554832126268,
-   "lng": 31.966575799308707,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2582,7 +2569,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Zambia",
-   "onset": "Mon, 26 Oct 2026 21:30:12 GMT",
+   "onset": "Tue, 27 Oct 2026 01:14:10 GMT",
    "expires": null,
    "lat": -16.726468303414105,
    "lng": 25.34364748414976,
@@ -2621,7 +2608,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Tanzania",
-   "onset": "Mon, 26 Oct 2026 21:34:42 GMT",
+   "onset": "Tue, 27 Oct 2026 01:14:39 GMT",
    "expires": null,
    "lat": -8.151765077171511,
    "lng": 37.539131782049324,
@@ -2638,6 +2625,19 @@
    "expires": null,
    "lat": -14.669277508190284,
    "lng": 134.98389463330295,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Mozambique",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Mozambique",
+   "onset": "Sat, 24 Oct 2026 15:19:26 GMT",
+   "expires": null,
+   "lat": -15.993554832126268,
+   "lng": 31.966575799308707,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2675,8 +2675,8 @@
    "area": "Brazil",
    "onset": "Mon, 26 Oct 2026 08:34:13 GMT",
    "expires": null,
-   "lat": -3.427054042768972,
-   "lng": -54.56601028945385,
+   "lat": -3.426796419652191,
+   "lng": -54.56660378037123,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2686,7 +2686,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Malawi",
-   "onset": "Mon, 26 Oct 2026 21:35:31 GMT",
+   "onset": "Tue, 27 Oct 2026 01:13:29 GMT",
    "expires": null,
    "lat": -11.792717404184915,
    "lng": 34.01176088990763,
