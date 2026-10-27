@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-27T09:03:19Z",
+ "generated_at": "2026-10-27T09:18:27Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 326,
+ "count": 327,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, No people affected in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu",
+   "onset": "Tue, 27 Oct 2026 09:09:39 GMT",
+   "expires": null,
+   "lat": -13.8962,
+   "lng": 165.6262,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:641.812km) in Fiji 26/10/2026 10:13 UTC, 2 thousand in 100km.",
    "event": "Earthquake",
@@ -1229,11 +1242,11 @@
    "title": "Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
-   "area": "Global",
+   "area": "México",
    "onset": "Wed, 21 Oct 2026 14:51:54 GMT",
    "expires": null,
-   "lat": 15.5,
-   "lng": -106.3,
+   "lat": 15.9,
+   "lng": -106.9,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -1622,8 +1635,8 @@
    "area": "Australia",
    "onset": "Sat, 24 Oct 2026 15:07:06 GMT",
    "expires": null,
-   "lat": -16.136919534800544,
-   "lng": 126.67071058965126,
+   "lat": -16.136919531703466,
+   "lng": 126.67071059172066,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
