@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-27T16:53:39Z",
+ "generated_at": "2026-10-27T17:08:44Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 337,
+ "count": 338,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Vanuatu 27/10/2026 08:55 UTC, 1 thousand in MMI III.",
@@ -658,19 +658,6 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Sat, 24 Oct 2026 11:00:59 GMT",
-   "expires": null,
-   "lat": -16.899944649849054,
-   "lng": 126.82002064290272,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
    "onset": "Sun, 25 Oct 2026 20:03:49 GMT",
    "expires": null,
    "lat": -16.200798886719568,
@@ -688,6 +675,19 @@
    "expires": null,
    "lat": -19.922997020465722,
    "lng": 139.83731300671562,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Sat, 24 Oct 2026 11:00:59 GMT",
+   "expires": null,
+   "lat": -16.899871200898534,
+   "lng": 126.81991115343868,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -816,8 +816,8 @@
    "area": "Australia",
    "onset": "Mon, 26 Oct 2026 20:11:22 GMT",
    "expires": null,
-   "lat": -17.869838616012274,
-   "lng": 132.55510409497924,
+   "lat": -17.864933132817438,
+   "lng": 132.55510246756992,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -875,6 +875,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Mali, Mauritania",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Mali, Mauritania",
+   "onset": "Tue, 27 Oct 2026 16:42:51 GMT",
+   "expires": null,
+   "lat": 15.174869934296604,
+   "lng": -11.158464392987105,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -894,8 +907,8 @@
    "area": "Mali",
    "onset": "Tue, 27 Oct 2026 12:38:10 GMT",
    "expires": null,
-   "lat": 14.123363407478049,
-   "lng": -11.156022181984351,
+   "lat": 14.123365554129657,
+   "lng": -11.156016701529193,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1037,8 +1050,8 @@
    "area": "Mozambique",
    "onset": "Mon, 26 Oct 2026 16:53:21 GMT",
    "expires": null,
-   "lat": -12.443977110123912,
-   "lng": 35.64538964201633,
+   "lat": -12.444706775843922,
+   "lng": 35.64616750212939,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1191,7 +1204,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Senegal",
-   "onset": "Tue, 27 Oct 2026 12:33:39 GMT",
+   "onset": "Tue, 27 Oct 2026 16:53:55 GMT",
    "expires": null,
    "lat": 14.637284218292173,
    "lng": -13.115069435690733,
