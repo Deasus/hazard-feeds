@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T08:16:24Z",
+ "generated_at": "2026-10-28T09:01:43Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 303,
  "alerts": [
@@ -1372,11 +1372,11 @@
    "title": "Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
-   "area": "México",
+   "area": "Global",
    "onset": "Wed, 21 Oct 2026 14:51:54 GMT",
    "expires": null,
-   "lat": 17.3,
-   "lng": -108.4,
+   "lat": 18.6,
+   "lng": -108.6,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
