@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T21:07:49Z",
+ "generated_at": "2026-10-28T21:22:55Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 314,
  "alerts": [
@@ -1180,8 +1180,8 @@
    "area": "Chad",
    "onset": "Sat, 24 Oct 2026 19:02:54 GMT",
    "expires": null,
-   "lat": 12.059134069267467,
-   "lng": 20.88992505900687,
+   "lat": 12.057072417242091,
+   "lng": 20.88674107742989,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1343,19 +1343,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Mozambique",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Mozambique",
-   "onset": "Mon, 26 Oct 2026 16:53:21 GMT",
-   "expires": null,
-   "lat": -12.444706775843922,
-   "lng": 35.64616750212939,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in China",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1401,8 +1388,8 @@
    "area": "Australia",
    "onset": "Mon, 26 Oct 2026 04:07:58 GMT",
    "expires": null,
-   "lat": -12.589625741323475,
-   "lng": 142.38356367082577,
+   "lat": -12.590726002703773,
+   "lng": 142.38528412267658,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1455,6 +1442,19 @@
    "expires": null,
    "lat": -16.09236331878479,
    "lng": 126.32670642177519,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Mozambique",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Mozambique",
+   "onset": "Mon, 26 Oct 2026 16:53:21 GMT",
+   "expires": null,
+   "lat": -12.444927462723356,
+   "lng": 35.64665984000525,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
