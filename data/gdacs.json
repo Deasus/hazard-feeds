@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:52:46Z",
+ "generated_at": "2026-10-28T21:07:49Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 314,
  "alerts": [
@@ -959,8 +959,8 @@
    "area": "South Sudan",
    "onset": "Wed, 28 Oct 2026 04:24:11 GMT",
    "expires": null,
-   "lat": 9.799754540855197,
-   "lng": 25.33077123964414,
+   "lat": 9.800852236049257,
+   "lng": 25.333050001104578,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -983,7 +983,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Wed, 28 Oct 2026 04:28:49 GMT",
+   "onset": "Wed, 28 Oct 2026 20:45:38 GMT",
    "expires": null,
    "lat": -18.751260867013926,
    "lng": 139.50267914726757,
@@ -1191,19 +1191,6 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Sat, 24 Oct 2026 11:01:50 GMT",
-   "expires": null,
-   "lat": -16.092602785624933,
-   "lng": 126.3260287965044,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
    "onset": "Sat, 24 Oct 2026 11:03:23 GMT",
    "expires": null,
    "lat": -19.30910020133803,
@@ -1388,8 +1375,8 @@
    "area": "Botswana",
    "onset": "Tue, 27 Oct 2026 12:29:15 GMT",
    "expires": null,
-   "lat": -23.549874630931672,
-   "lng": 21.477247821868644,
+   "lat": -23.550241624597266,
+   "lng": 21.47740823398049,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1427,8 +1414,8 @@
    "area": "Australia",
    "onset": "Tue, 27 Oct 2026 08:20:50 GMT",
    "expires": null,
-   "lat": -16.938117077009593,
-   "lng": 143.0933760388886,
+   "lat": -16.948207019862156,
+   "lng": 143.10135919444932,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1460,14 +1447,27 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Sat, 24 Oct 2026 11:01:50 GMT",
+   "expires": null,
+   "lat": -16.09236331878479,
+   "lng": 126.32670642177519,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green notification for tropical cyclone VANCE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
    "area": "Global",
    "onset": "Wed, 21 Oct 2026 14:51:54 GMT",
    "expires": null,
-   "lat": 19.2,
-   "lng": -109.2,
+   "lat": 20.1,
+   "lng": -109.1,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -4021,19 +4021,6 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
-   "event": "Drought",
-   "severity": "ORANGE",
-   "area": "Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
-   "onset": "Wed, 11 Feb 2026 09:57:31 GMT",
-   "expires": null,
-   "lat": 48.127,
-   "lng": 12.876,
-   "source": "GDACS",
-   "_gdacsLevel": "ORANGE",
-   "_evCode": "DR"
-  },
-  {
    "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea",
    "event": "Drought",
    "severity": "GREEN",
@@ -4044,6 +4031,19 @@
    "lng": 11.429,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
+   "_evCode": "DR"
+  },
+  {
+   "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+   "event": "Drought",
+   "severity": "ORANGE",
+   "area": "Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+   "onset": "Wed, 11 Feb 2026 09:57:31 GMT",
+   "expires": null,
+   "lat": 48.127,
+   "lng": 12.876,
+   "source": "GDACS",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "DR"
   },
   {
