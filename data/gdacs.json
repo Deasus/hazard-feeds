@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-28T15:04:47Z",
+ "generated_at": "2026-10-28T15:50:09Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 313,
+ "count": 314,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Japan",
+   "onset": "Wed, 28 Oct 2026 15:29:41 GMT",
+   "expires": null,
+   "lat": 35.7015,
+   "lng": 140.7059,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Reykjanes Ridge 28/10/2026 11:37 UTC, [unknown].",
    "event": "Earthquake",
