@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T02:28:39Z",
+ "generated_at": "2026-10-28T02:43:46Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 301,
  "alerts": [
@@ -1724,7 +1724,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Tue, 27 Oct 2026 21:48:56 GMT",
+   "onset": "Wed, 28 Oct 2026 02:30:12 GMT",
    "expires": null,
    "lat": 7.036307893327951,
    "lng": 31.438428424970287,
@@ -1802,7 +1802,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "China",
-   "onset": "Tue, 27 Oct 2026 21:51:11 GMT",
+   "onset": "Wed, 28 Oct 2026 02:27:22 GMT",
    "expires": null,
    "lat": 39.610762890145914,
    "lng": 113.508434292259,
