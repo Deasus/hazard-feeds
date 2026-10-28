@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T17:36:04Z",
+ "generated_at": "2026-10-28T17:51:12Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 313,
  "alerts": [
@@ -3960,7 +3960,7 @@
    "event": "Drought",
    "severity": "GREEN",
    "area": "Bangladesh, Bhutan, China, India, Myanmar, Nepal",
-   "onset": "Wed, 28 Oct 2026 17:21:01 GMT",
+   "onset": "Wed, 28 Oct 2026 17:31:14 GMT",
    "expires": null,
    "lat": 24.982,
    "lng": 96.672,
