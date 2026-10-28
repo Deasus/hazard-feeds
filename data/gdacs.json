@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:37:32Z",
+ "generated_at": "2026-10-28T20:52:46Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 314,
  "alerts": [
@@ -855,8 +855,8 @@
    "area": "Mali",
    "onset": "Mon, 26 Oct 2026 20:17:45 GMT",
    "expires": null,
-   "lat": 14.783883421757192,
-   "lng": -10.588191434368158,
+   "lat": 14.784279323945519,
+   "lng": -10.58891145910502,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -868,8 +868,8 @@
    "area": "Tanzania, Malawi",
    "onset": "Mon, 26 Oct 2026 20:18:22 GMT",
    "expires": null,
-   "lat": -9.330289614420316,
-   "lng": 34.23296781056902,
+   "lat": -9.330244864575548,
+   "lng": 34.233027151768184,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
