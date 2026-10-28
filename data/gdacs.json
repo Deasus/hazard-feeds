@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T03:44:13Z",
+ "generated_at": "2026-10-28T03:59:21Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 303,
  "alerts": [
@@ -101,7 +101,7 @@
    "area": "India",
    "onset": "Mon, 26 Oct 2026 01:51:40 GMT",
    "expires": null,
-   "lat": 16.4,
+   "lat": 16.2,
    "lng": 81.6,
    "source": "GDACS",
    "_gdacsLevel": "RED",
