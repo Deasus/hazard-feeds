@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T00:42:55Z",
+ "generated_at": "2026-10-28T00:58:00Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 300,
  "alerts": [
@@ -593,7 +593,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Namibia, Angola",
-   "onset": "Tue, 27 Oct 2026 20:24:44 GMT",
+   "onset": "Wed, 28 Oct 2026 00:50:57 GMT",
    "expires": null,
    "lat": -17.603718930008963,
    "lng": 22.59458874131041,
@@ -658,7 +658,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Mali, Mauritania",
-   "onset": "Tue, 27 Oct 2026 20:21:14 GMT",
+   "onset": "Wed, 28 Oct 2026 00:42:17 GMT",
    "expires": null,
    "lat": 15.315816684628569,
    "lng": -11.144251185907903,
@@ -736,7 +736,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Tue, 27 Oct 2026 20:23:01 GMT",
+   "onset": "Wed, 28 Oct 2026 00:46:04 GMT",
    "expires": null,
    "lat": -18.751260867013926,
    "lng": 139.50267914726757,
