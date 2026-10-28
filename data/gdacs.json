@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T02:58:52Z",
+ "generated_at": "2026-10-28T03:13:59Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 302,
  "alerts": [
@@ -719,6 +719,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Mon, 26 Oct 2026 20:01:58 GMT",
+   "expires": null,
+   "lat": -20.79931039448425,
+   "lng": 129.1542165961486,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -753,19 +766,6 @@
    "expires": null,
    "lat": -24.466690077997985,
    "lng": 23.334180607685695,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Wed, 28 Oct 2026 00:46:04 GMT",
-   "expires": null,
-   "lat": -18.751260867013926,
-   "lng": 139.50267914726757,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -853,10 +853,10 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Mon, 26 Oct 2026 20:01:58 GMT",
+   "onset": "Wed, 28 Oct 2026 00:46:04 GMT",
    "expires": null,
-   "lat": -20.79931039448425,
-   "lng": 129.1542165961486,
+   "lat": -18.751260867013926,
+   "lng": 139.50267914726757,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1362,8 +1362,8 @@
    "area": "México",
    "onset": "Wed, 21 Oct 2026 14:51:54 GMT",
    "expires": null,
-   "lat": 17.2,
-   "lng": -108.3,
+   "lat": 17.3,
+   "lng": -108.4,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -2062,7 +2062,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Sudan",
-   "onset": "Tue, 27 Oct 2026 22:25:04 GMT",
+   "onset": "Wed, 28 Oct 2026 02:46:07 GMT",
    "expires": null,
    "lat": 9.830748489877392,
    "lng": 28.661923771524012,
@@ -2118,6 +2118,19 @@
    "expires": null,
    "lat": -18.21422766518267,
    "lng": 127.14265574295649,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Mozambique",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Mozambique",
+   "onset": "Thu, 22 Oct 2026 19:05:03 GMT",
+   "expires": null,
+   "lat": -13.106726252203433,
+   "lng": 36.3716531071231,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2339,19 +2352,6 @@
    "expires": null,
    "lat": -19.20860494539957,
    "lng": 128.60115168339706,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Mozambique",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Mozambique",
-   "onset": "Thu, 22 Oct 2026 19:05:03 GMT",
-   "expires": null,
-   "lat": -13.106726252203433,
-   "lng": 36.3716531071231,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2656,19 +2656,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Namibia, Botswana",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Namibia, Botswana",
-   "onset": "Thu, 22 Oct 2026 19:12:49 GMT",
-   "expires": null,
-   "lat": -18.325940011258094,
-   "lng": 22.966239410262013,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2677,6 +2664,19 @@
    "expires": null,
    "lat": -14.669277508190284,
    "lng": 134.98389463330295,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Namibia, Botswana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Namibia, Botswana",
+   "onset": "Thu, 22 Oct 2026 19:12:49 GMT",
+   "expires": null,
+   "lat": -18.325940011258094,
+   "lng": 22.966239410262013,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
