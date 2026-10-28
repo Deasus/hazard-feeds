@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T10:47:32Z",
+ "generated_at": "2026-10-28T11:02:40Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 303,
+ "count": 304,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 28/10/2026 02:59 UTC, 3 thousand in MMI III.",
@@ -3785,6 +3785,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
+  },
+  {
+   "title": "Green flood alert in Ecuador",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Ecuador",
+   "onset": "Thu, 17 Sep 2026 10:54:34 GMT",
+   "expires": null,
+   "lat": -2.9640695,
+   "lng": -79.5630363,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
