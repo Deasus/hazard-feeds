@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:36:33Z",
+ "generated_at": "2026-10-28T18:51:40Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 311,
  "alerts": [
@@ -3930,7 +3930,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Niger, Nigeria, Sudan, South Sudan, Chad",
+   "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Sudan, South Sudan, Chad, Tanzania, Uganda",
    "event": "Drought",
    "severity": "ORANGE",
    "area": "Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Sudan, South Sudan, Chad, Tanzania, Uganda",
