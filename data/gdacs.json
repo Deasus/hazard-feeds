@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T00:58:00Z",
+ "generated_at": "2026-10-28T01:58:30Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 300,
  "alerts": [
@@ -1542,7 +1542,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Africa",
-   "onset": "Tue, 27 Oct 2026 21:23:42 GMT",
+   "onset": "Wed, 28 Oct 2026 01:54:16 GMT",
    "expires": null,
    "lat": -23.47384557376775,
    "lng": 31.116557762657493,
