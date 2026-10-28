@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-28T02:43:46Z",
+ "generated_at": "2026-10-28T02:58:52Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 301,
+ "count": 302,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu Islands 28/10/2026 02:21 UTC, No people affected in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu Islands",
+   "onset": "Wed, 28 Oct 2026 02:37:23 GMT",
+   "expires": null,
+   "lat": -13.9312,
+   "lng": 165.446,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Vanuatu Islands 28/10/2026 01:39 UTC, [unknown].",
    "event": "Earthquake",
@@ -2337,8 +2350,8 @@
    "area": "Mozambique",
    "onset": "Thu, 22 Oct 2026 19:05:03 GMT",
    "expires": null,
-   "lat": -13.106686761730701,
-   "lng": 36.37142696529835,
+   "lat": -13.106726252203433,
+   "lng": 36.3716531071231,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
