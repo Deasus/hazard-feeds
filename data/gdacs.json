@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T06:57:25Z",
+ "generated_at": "2026-10-29T07:13:38Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 283,
  "alerts": [
@@ -2480,8 +2480,8 @@
    "area": "Australia",
    "onset": "Sun, 25 Oct 2026 20:24:21 GMT",
    "expires": null,
-   "lat": -12.500031143610064,
-   "lng": 134.22247295896418,
+   "lat": -12.500017550190782,
+   "lng": 134.22213606885626,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2500,27 +2500,27 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Mozambique",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Mozambique",
-   "onset": "Sat, 24 Oct 2026 19:13:09 GMT",
-   "expires": null,
-   "lat": -13.24037530089954,
-   "lng": 35.91596296312661,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Tanzania",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Tanzania",
    "onset": "Sat, 24 Oct 2026 19:14:35 GMT",
    "expires": null,
-   "lat": -10.144680064149867,
-   "lng": 34.96301899599403,
+   "lat": -10.14021827849021,
+   "lng": 34.960786484923176,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Mozambique",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Mozambique",
+   "onset": "Sat, 24 Oct 2026 19:13:09 GMT",
+   "expires": null,
+   "lat": -13.240437432953085,
+   "lng": 35.91599770147913,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2532,8 +2532,8 @@
    "area": "Mozambique",
    "onset": "Sun, 25 Oct 2026 12:24:52 GMT",
    "expires": null,
-   "lat": -12.745052820891686,
-   "lng": 35.696631311951094,
+   "lat": -12.745075661989134,
+   "lng": 35.696737470807214,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2545,8 +2545,8 @@
    "area": "Mozambique",
    "onset": "Sat, 24 Oct 2026 15:17:10 GMT",
    "expires": null,
-   "lat": -13.026014095228241,
-   "lng": 36.20872315282693,
+   "lat": -13.024777224417765,
+   "lng": 36.20755920449182,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2558,8 +2558,8 @@
    "area": "Nigeria",
    "onset": "Sun, 25 Oct 2026 20:23:41 GMT",
    "expires": null,
-   "lat": 13.316914962572456,
-   "lng": 13.558028531007599,
+   "lat": 13.317412395014514,
+   "lng": 13.558053573225976,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2571,8 +2571,8 @@
    "area": "Tanzania",
    "onset": "Tue, 27 Oct 2026 18:38:57 GMT",
    "expires": null,
-   "lat": -9.708431632009063,
-   "lng": 36.48240712579481,
+   "lat": -9.708689119684614,
+   "lng": 36.48367819258596,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
