@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T02:10:14Z",
+ "generated_at": "2026-10-29T02:25:21Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 276,
  "alerts": [
@@ -1466,8 +1466,8 @@
    "area": "Australia",
    "onset": "Wed, 28 Oct 2026 21:22:13 GMT",
    "expires": null,
-   "lat": -15.636734495157315,
-   "lng": 125.3965257682433,
+   "lat": -15.636975817974715,
+   "lng": 125.3959087093152,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1479,8 +1479,8 @@
    "area": "Australia",
    "onset": "Sat, 24 Oct 2026 11:05:45 GMT",
    "expires": null,
-   "lat": -15.20388557747005,
-   "lng": 129.02796349995913,
+   "lat": -15.20800550027257,
+   "lng": 129.02580210471285,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1518,8 +1518,8 @@
    "area": "Mozambique",
    "onset": "Sun, 25 Oct 2026 16:11:53 GMT",
    "expires": null,
-   "lat": -13.593134402861557,
-   "lng": 36.72734935294138,
+   "lat": -13.593136004244814,
+   "lng": 36.72734421827814,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1531,8 +1531,8 @@
    "area": "Australia",
    "onset": "Tue, 27 Oct 2026 12:41:47 GMT",
    "expires": null,
-   "lat": -15.689808777738326,
-   "lng": 129.4408507282431,
+   "lat": -15.689073144694504,
+   "lng": 129.43940571595303,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1544,8 +1544,8 @@
    "area": "Mali",
    "onset": "Sun, 25 Oct 2026 20:09:12 GMT",
    "expires": null,
-   "lat": 14.757270368630733,
-   "lng": -10.718623196574459,
+   "lat": 14.758719506701937,
+   "lng": -10.717781328514018,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1570,8 +1570,8 @@
    "area": "Australia",
    "onset": "Fri, 23 Oct 2026 11:03:24 GMT",
    "expires": null,
-   "lat": -18.82805809965532,
-   "lng": 125.23924735948353,
+   "lat": -18.826703895600527,
+   "lng": 125.24049697717793,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1685,7 +1685,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Africa",
-   "onset": "Wed, 28 Oct 2026 21:28:09 GMT",
+   "onset": "Thu, 29 Oct 2026 01:57:21 GMT",
    "expires": null,
    "lat": -23.47384557376775,
    "lng": 31.116557762657493,
