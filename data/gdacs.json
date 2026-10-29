@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T11:00:29Z",
+ "generated_at": "2026-10-29T12:16:01Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 305,
  "alerts": [
@@ -138,7 +138,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "China",
-   "onset": "Thu, 29 Oct 2026 08:02:38 GMT",
+   "onset": "Thu, 29 Oct 2026 12:03:08 GMT",
    "expires": null,
    "lat": 32.91348172501469,
    "lng": 119.67609807075007,
@@ -218,8 +218,8 @@
    "area": "Botswana",
    "onset": "Thu, 29 Oct 2026 04:03:46 GMT",
    "expires": null,
-   "lat": -21.358952470606834,
-   "lng": 24.146164718409224,
+   "lat": -21.35926823519419,
+   "lng": 24.14561579574301,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -244,8 +244,8 @@
    "area": "Botswana",
    "onset": "Wed, 28 Oct 2026 20:01:40 GMT",
    "expires": null,
-   "lat": -23.054417090432672,
-   "lng": 21.405850719326434,
+   "lat": -23.05357922447791,
+   "lng": 21.405853226052752,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
