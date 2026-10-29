@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T06:42:19Z",
+ "generated_at": "2026-10-29T06:57:25Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 283,
  "alerts": [
@@ -2233,8 +2233,8 @@
    "area": "South Sudan",
    "onset": "Sun, 25 Oct 2026 16:21:03 GMT",
    "expires": null,
-   "lat": 8.930394838287528,
-   "lng": 29.196709082084745,
+   "lat": 8.930369396844737,
+   "lng": 29.19670391417266,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2296,7 +2296,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Sudan",
-   "onset": "Wed, 28 Oct 2026 22:15:09 GMT",
+   "onset": "Thu, 29 Oct 2026 06:36:57 GMT",
    "expires": null,
    "lat": 10.281354514345283,
    "lng": 26.77294006021529,
@@ -2360,7 +2360,7 @@
    "title": "Green forest fire notification in Ethiopia, South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
-   "area": "Ethiopia, South Sudan",
+   "area": "South Sudan, Ethiopia",
    "onset": "Mon, 26 Oct 2026 17:24:06 GMT",
    "expires": null,
    "lat": 8.234953548886155,
