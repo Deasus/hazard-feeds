@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T01:09:52Z",
+ "generated_at": "2026-10-29T01:24:56Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 271,
  "alerts": [
@@ -946,8 +946,8 @@
    "area": "Australia",
    "onset": "Mon, 26 Oct 2026 20:11:22 GMT",
    "expires": null,
-   "lat": -17.864933132817438,
-   "lng": 132.55510246756992,
+   "lat": -17.866412056661016,
+   "lng": 132.55379963189972,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
