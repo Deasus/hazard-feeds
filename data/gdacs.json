@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T13:31:38Z",
+ "generated_at": "2026-10-29T13:46:46Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 308,
  "alerts": [
@@ -2036,7 +2036,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Tanzania",
-   "onset": "Thu, 29 Oct 2026 08:57:20 GMT",
+   "onset": "Thu, 29 Oct 2026 13:44:33 GMT",
    "expires": null,
    "lat": -9.005301237943373,
    "lng": 35.6628889457646,
@@ -2064,8 +2064,8 @@
    "area": "Guyana",
    "onset": "Mon, 26 Oct 2026 00:16:22 GMT",
    "expires": null,
-   "lat": 6.460866990132834,
-   "lng": -57.87787306265525,
+   "lat": 6.460884163826789,
+   "lng": -57.877847230778166,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
