@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T00:54:40Z",
+ "generated_at": "2026-10-29T01:09:52Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 270,
+ "count": 271,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
@@ -697,7 +697,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Namibia, Angola",
-   "onset": "Wed, 28 Oct 2026 20:24:34 GMT",
+   "onset": "Thu, 29 Oct 2026 00:57:38 GMT",
    "expires": null,
    "lat": -17.603718930008963,
    "lng": 22.59458874131041,
@@ -725,8 +725,8 @@
    "area": "Australia",
    "onset": "Wed, 28 Oct 2026 20:45:38 GMT",
    "expires": null,
-   "lat": -18.751260867013926,
-   "lng": 139.50267914726757,
+   "lat": -18.750731701778676,
+   "lng": 139.50368501112573,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -753,6 +753,19 @@
    "expires": null,
    "lat": 14.759528397634993,
    "lng": -10.48689853649549,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Botswana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Zambia",
+   "onset": "Thu, 29 Oct 2026 00:53:39 GMT",
+   "expires": null,
+   "lat": -12.642740789450727,
+   "lng": 31.591861266614686,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -790,8 +803,8 @@
    "area": "Mali, Mauritania",
    "onset": "Wed, 28 Oct 2026 20:33:48 GMT",
    "expires": null,
-   "lat": 15.315816684628569,
-   "lng": -11.144251185907903,
+   "lat": 15.31643291192608,
+   "lng": -11.144289792479217,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -920,8 +933,8 @@
    "area": "Tanzania, Malawi",
    "onset": "Mon, 26 Oct 2026 20:18:22 GMT",
    "expires": null,
-   "lat": -9.330244864575548,
-   "lng": 34.233027151768184,
+   "lat": -9.330248336459018,
+   "lng": 34.233005457678004,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -946,8 +959,8 @@
    "area": "Australia",
    "onset": "Mon, 26 Oct 2026 20:15:51 GMT",
    "expires": null,
-   "lat": -16.187806248842893,
-   "lng": 126.48410802150822,
+   "lat": -16.18732631948748,
+   "lng": 126.48464153116953,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -959,8 +972,8 @@
    "area": "Brazil",
    "onset": "Mon, 26 Oct 2026 12:05:50 GMT",
    "expires": null,
-   "lat": 1.4641200670192853,
-   "lng": -55.95244882594798,
+   "lat": 1.4492147396479385,
+   "lng": -55.956682116904524,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
