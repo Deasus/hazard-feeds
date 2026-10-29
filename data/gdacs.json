@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-29T03:55:57Z",
+ "generated_at": "2026-10-29T04:11:03Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 279,
+ "count": 280,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Papua New Guinea 29/10/2026 03:26 UTC, Few people affected (in MMI>=VII).",
@@ -108,11 +108,24 @@
    "_evCode": "EQ"
   },
   {
+   "title": "Green forest fire notification in Nigeria",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Nigeria",
+   "onset": "Thu, 29 Oct 2026 04:00:33 GMT",
+   "expires": null,
+   "lat": 13.079608800740727,
+   "lng": 13.695331993479808,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in China",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "China",
-   "onset": "Thu, 29 Oct 2026 00:02:41 GMT",
+   "onset": "Thu, 29 Oct 2026 04:01:38 GMT",
    "expires": null,
    "lat": 32.91348172501469,
    "lng": 119.67609807075007,
@@ -127,8 +140,8 @@
    "area": "Botswana",
    "onset": "Wed, 28 Oct 2026 20:00:57 GMT",
    "expires": null,
-   "lat": -21.090842829317136,
-   "lng": 23.368594603879995,
+   "lat": -21.09124105157483,
+   "lng": 23.36796816063386,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -164,7 +177,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Mongolia",
-   "onset": "Thu, 29 Oct 2026 00:05:40 GMT",
+   "onset": "Thu, 29 Oct 2026 04:04:25 GMT",
    "expires": null,
    "lat": 46.44306759375421,
    "lng": 114.50471902120746,
@@ -179,8 +192,8 @@
    "area": "Botswana",
    "onset": "Thu, 29 Oct 2026 00:03:26 GMT",
    "expires": null,
-   "lat": -21.074433528862862,
-   "lng": 24.023869643093075,
+   "lat": -21.075158931629176,
+   "lng": 24.025497413189726,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -192,8 +205,8 @@
    "area": "Botswana",
    "onset": "Wed, 28 Oct 2026 20:01:40 GMT",
    "expires": null,
-   "lat": -23.054443784465835,
-   "lng": 21.40579186828053,
+   "lat": -23.05448421794711,
+   "lng": 21.405801765065373,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -229,10 +242,23 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Burkina Faso",
-   "onset": "Thu, 29 Oct 2026 00:07:14 GMT",
+   "onset": "Thu, 29 Oct 2026 04:04:44 GMT",
    "expires": null,
    "lat": 14.402335402735583,
    "lng": -0.5402578071899578,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in China",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Nigeria",
+   "onset": "Thu, 29 Oct 2026 00:08:54 GMT",
+   "expires": null,
+   "lat": 9.440734599676098,
+   "lng": 10.618332804657236,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -381,19 +407,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in China",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Nigeria",
-   "onset": "Thu, 29 Oct 2026 00:08:54 GMT",
-   "expires": null,
-   "lat": 9.440734599676098,
-   "lng": 10.618332804657236,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -498,6 +511,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Mon, 26 Oct 2026 20:07:58 GMT",
+   "expires": null,
+   "lat": -16.029142445115745,
+   "lng": 129.83170010439508,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Senegal, Mali",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -532,19 +558,6 @@
    "expires": null,
    "lat": 14.06557161607743,
    "lng": -0.6007872272191026,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Mon, 26 Oct 2026 20:07:58 GMT",
-   "expires": null,
-   "lat": -16.029142445115745,
-   "lng": 129.83170010439508,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -771,19 +784,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Tanzania",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Tanzania",
-   "onset": "Tue, 27 Oct 2026 16:26:59 GMT",
-   "expires": null,
-   "lat": -8.09288086588685,
-   "lng": 37.45149589247841,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Mali",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -805,6 +805,19 @@
    "expires": null,
    "lat": -12.642740789450727,
    "lng": 31.591861266614686,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Tanzania",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Tanzania",
+   "onset": "Tue, 27 Oct 2026 16:26:59 GMT",
+   "expires": null,
+   "lat": -8.09288086588685,
+   "lng": 37.45149589247841,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -3566,19 +3579,6 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
-   "event": "Drought",
-   "severity": "ORANGE",
-   "area": "Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
-   "onset": "Wed, 11 Feb 2026 09:57:31 GMT",
-   "expires": null,
-   "lat": 48.127,
-   "lng": 12.876,
-   "source": "GDACS",
-   "_gdacsLevel": "ORANGE",
-   "_evCode": "DR"
-  },
-  {
    "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea",
    "event": "Drought",
    "severity": "GREEN",
@@ -3589,6 +3589,19 @@
    "lng": 11.429,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
+   "_evCode": "DR"
+  },
+  {
+   "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+   "event": "Drought",
+   "severity": "ORANGE",
+   "area": "Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+   "onset": "Wed, 11 Feb 2026 09:57:31 GMT",
+   "expires": null,
+   "lat": 48.127,
+   "lng": 12.876,
+   "source": "GDACS",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "DR"
   },
   {
