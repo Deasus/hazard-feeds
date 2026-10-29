@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-29T21:20:31Z",
+ "generated_at": "2026-10-29T22:21:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 329,
+ "count": 330,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu",
+   "onset": "Thu, 29 Oct 2026 22:07:35 GMT",
+   "expires": null,
+   "lat": -15.1891,
+   "lng": 167.4523,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Southeast Of Easter Island 29/10/2026 07:49 UTC, [unknown].",
    "event": "Earthquake",
