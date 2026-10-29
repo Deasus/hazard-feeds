@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:26:11Z",
+ "generated_at": "2026-10-29T04:41:19Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 281,
  "alerts": [
@@ -606,7 +606,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Thu, 29 Oct 2026 00:30:46 GMT",
+   "onset": "Thu, 29 Oct 2026 04:25:39 GMT",
    "expires": null,
    "lat": 9.501284120695097,
    "lng": 25.95389937717084,
@@ -749,7 +749,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Namibia, Angola",
-   "onset": "Thu, 29 Oct 2026 00:57:38 GMT",
+   "onset": "Thu, 29 Oct 2026 04:31:36 GMT",
    "expires": null,
    "lat": -17.603718930008963,
    "lng": 22.59458874131041,
@@ -831,6 +831,19 @@
    "expires": null,
    "lat": -8.09288086588685,
    "lng": 37.45149589247841,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Tanzania, Malawi",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Tanzania, Malawi",
+   "onset": "Mon, 26 Oct 2026 20:18:22 GMT",
+   "expires": null,
+   "lat": -9.330248336459018,
+   "lng": 34.233005457678004,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -948,19 +961,6 @@
    "expires": null,
    "lat": 14.784279323945519,
    "lng": -10.58891145910502,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Tanzania, Malawi",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Tanzania, Malawi",
-   "onset": "Mon, 26 Oct 2026 20:18:22 GMT",
-   "expires": null,
-   "lat": -9.330248336459018,
-   "lng": 34.233005457678004,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
