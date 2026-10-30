@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T01:52:37Z",
+ "generated_at": "2026-10-30T02:07:44Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 264,
  "alerts": [
@@ -69,7 +69,7 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 100 thousand in MMI V.",
+   "title": "Green earthquake (Magnitude 5.5M, Depth:41.356km) in Japan 28/10/2026 15:07 UTC, 190 thousand in MMI V.",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Japan",
@@ -504,8 +504,8 @@
    "area": "Marshall Islands",
    "onset": "Sun, 25 Oct 2026 11:52:38 GMT",
    "expires": null,
-   "lat": 17.1,
-   "lng": 149.7,
+   "lat": 17.8,
+   "lng": 147.8,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
