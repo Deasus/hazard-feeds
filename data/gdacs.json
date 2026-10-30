@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T04:38:53Z",
+ "generated_at": "2026-10-30T04:53:59Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 264,
  "alerts": [
@@ -2192,7 +2192,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Central African Republic, Sudan",
-   "onset": "Fri, 30 Oct 2026 01:06:29 GMT",
+   "onset": "Fri, 30 Oct 2026 04:38:38 GMT",
    "expires": null,
    "lat": 9.871767954517539,
    "lng": 23.408843579744428,
@@ -2387,7 +2387,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Sudan",
-   "onset": "Fri, 30 Oct 2026 01:05:19 GMT",
+   "onset": "Fri, 30 Oct 2026 04:38:14 GMT",
    "expires": null,
    "lat": 10.281354514345283,
    "lng": 26.77294006021529,
@@ -2543,7 +2543,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Tanzania",
-   "onset": "Fri, 30 Oct 2026 01:20:48 GMT",
+   "onset": "Fri, 30 Oct 2026 04:39:57 GMT",
    "expires": null,
    "lat": -8.878736625229278,
    "lng": 37.189157072545875,
