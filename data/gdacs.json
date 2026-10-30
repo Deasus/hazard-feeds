@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:06:08Z",
+ "generated_at": "2026-10-30T21:21:16Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 302,
  "alerts": [
@@ -3375,7 +3375,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Zambia, Zimbabwe",
-   "onset": "Fri, 30 Oct 2026 16:51:42 GMT",
+   "onset": "Fri, 30 Oct 2026 20:57:04 GMT",
    "expires": null,
    "lat": -15.512303844539417,
    "lng": 29.43640900700928,
@@ -3455,8 +3455,8 @@
    "area": "Malawi",
    "onset": "Fri, 30 Oct 2026 13:56:18 GMT",
    "expires": null,
-   "lat": -11.764899635848375,
-   "lng": 34.003025470811316,
+   "lat": -11.765402620372045,
+   "lng": 34.00329548516211,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
