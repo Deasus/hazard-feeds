@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-30T05:24:15Z",
+ "generated_at": "2026-10-30T08:10:35Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 264,
+ "count": 265,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.2M, Depth:142.833km) in Vanuatu 29/10/2026 21:46 UTC, 120 thousand in MMI IV.",
@@ -54,6 +54,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green forest fire notification in Botswana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Botswana",
+   "onset": "Fri, 30 Oct 2026 08:00:36 GMT",
+   "expires": null,
+   "lat": -21.23221716635288,
+   "lng": 23.235112996173225,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:142km) in Indonesia 28/10/2026 22:06 UTC, Few people affected in MMI III.",
@@ -153,8 +166,21 @@
    "area": "Botswana",
    "onset": "Wed, 28 Oct 2026 20:00:57 GMT",
    "expires": null,
-   "lat": -21.149343804612393,
-   "lng": 23.346239222289174,
+   "lat": -21.14978413000056,
+   "lng": 23.337299382448457,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Nigeria",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Nigeria",
+   "onset": "Fri, 30 Oct 2026 04:03:56 GMT",
+   "expires": null,
+   "lat": 12.481358227290306,
+   "lng": 13.877072525683474,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -181,19 +207,6 @@
    "expires": null,
    "lat": -21.177849132027116,
    "lng": 23.853173480815194,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Nigeria",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Nigeria",
-   "onset": "Fri, 30 Oct 2026 04:03:56 GMT",
-   "expires": null,
-   "lat": 12.482374820857789,
-   "lng": 13.871556057796381,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
