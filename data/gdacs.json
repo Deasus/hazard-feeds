@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T14:02:05Z",
+ "generated_at": "2026-10-30T14:17:11Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 274,
  "alerts": [
@@ -3102,7 +3102,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Malawi",
-   "onset": "Fri, 30 Oct 2026 05:11:49 GMT",
+   "onset": "Fri, 30 Oct 2026 13:56:18 GMT",
    "expires": null,
    "lat": -11.766478815401573,
    "lng": 33.98565244589889,
