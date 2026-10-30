@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T12:31:19Z",
+ "generated_at": "2026-10-30T12:46:25Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 274,
  "alerts": [
@@ -1412,7 +1412,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Senegal, Mali",
-   "onset": "Fri, 30 Oct 2026 09:32:23 GMT",
+   "onset": "Fri, 30 Oct 2026 12:29:16 GMT",
    "expires": null,
    "lat": 14.076264373331016,
    "lng": -11.847422545737196,
@@ -1622,8 +1622,8 @@
    "area": "Australia",
    "onset": "Thu, 29 Oct 2026 20:29:20 GMT",
    "expires": null,
-   "lat": -12.421267042828477,
-   "lng": 136.74799347574952,
+   "lat": -12.419855588486847,
+   "lng": 136.74641783567188,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1635,8 +1635,8 @@
    "area": "Brazil",
    "onset": "Thu, 29 Oct 2026 05:07:14 GMT",
    "expires": null,
-   "lat": 3.3713754361567037,
-   "lng": -51.2651526459009,
+   "lat": 3.3711405602276407,
+   "lng": -51.26495760780932,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
