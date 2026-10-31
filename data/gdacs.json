@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T02:39:00Z",
+ "generated_at": "2026-10-31T04:09:40Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 250,
  "alerts": [
@@ -73,7 +73,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Mozambique",
-   "onset": "Sat, 31 Oct 2026 00:01:08 GMT",
+   "onset": "Sat, 31 Oct 2026 04:03:02 GMT",
    "expires": null,
    "lat": -22.382480595478984,
    "lng": 33.45306954432268,
@@ -125,7 +125,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Niger",
-   "onset": "Sat, 31 Oct 2026 00:00:53 GMT",
+   "onset": "Sat, 31 Oct 2026 04:02:16 GMT",
    "expires": null,
    "lat": 14.519318311522667,
    "lng": 0.9559641322679986,
@@ -216,7 +216,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "China",
-   "onset": "Sat, 31 Oct 2026 00:02:10 GMT",
+   "onset": "Sat, 31 Oct 2026 04:04:54 GMT",
    "expires": null,
    "lat": 32.91348172501469,
    "lng": 119.67609807075007,
