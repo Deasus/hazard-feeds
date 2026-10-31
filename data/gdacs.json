@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T14:29:36Z",
+ "generated_at": "2026-10-31T16:15:27Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 257,
  "alerts": [
@@ -10,8 +10,8 @@
    "area": "Nigeria, Cameroon",
    "onset": "Sat, 31 Oct 2026 08:00:39 GMT",
    "expires": null,
-   "lat": 12.168090136600933,
-   "lng": 14.459683145679731,
+   "lat": 12.16691801828859,
+   "lng": 14.46388330055539,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -88,8 +88,8 @@
    "area": "Mozambique",
    "onset": "Sat, 31 Oct 2026 08:01:04 GMT",
    "expires": null,
-   "lat": -22.382264490494872,
-   "lng": 33.45347336936636,
+   "lat": -22.38184679997501,
+   "lng": 33.45993829953283,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -101,8 +101,8 @@
    "area": "Australia",
    "onset": "Fri, 30 Oct 2026 20:01:24 GMT",
    "expires": null,
-   "lat": -15.992921156278681,
-   "lng": 141.63339232114504,
+   "lat": -15.99309808785917,
+   "lng": 141.63333072284806,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -114,8 +114,8 @@
    "area": "Mozambique",
    "onset": "Fri, 30 Oct 2026 20:01:34 GMT",
    "expires": null,
-   "lat": -23.047319838186635,
-   "lng": 33.04691444506876,
+   "lat": -23.048238727860742,
+   "lng": 33.053209271000775,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
