@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-10-31T21:02:39Z",
+ "generated_at": "2026-10-31T22:48:21Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 278,
+ "count": 279,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Japan",
+   "onset": "Sat, 31 Oct 2026 22:31:13 GMT",
+   "expires": null,
+   "lat": 33.822,
+   "lng": 136.9854,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green forest fire notification in Botswana",
    "event": "Wildfire",
