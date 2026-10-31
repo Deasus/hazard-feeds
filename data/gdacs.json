@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T08:56:52Z",
+ "generated_at": "2026-10-31T10:42:43Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 252,
+ "count": 253,
  "alerts": [
   {
    "title": "Green forest fire notification in Nigeria, Cameroon",
@@ -67,6 +67,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green flood alert in Bhutan",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Bhutan",
+   "onset": "Sat, 31 Oct 2026 10:30:43 GMT",
+   "expires": null,
+   "lat": 27.6363463,
+   "lng": 89.8363689,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Green forest fire notification in Botswana",
