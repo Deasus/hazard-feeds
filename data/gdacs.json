@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-01T01:19:42Z",
+ "generated_at": "2026-11-01T02:35:17Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 239,
+ "count": 240,
  "alerts": [
+  {
+   "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "event": "Tropical Cyclone",
+   "severity": "GREEN",
+   "area": "India",
+   "onset": "Sun, 01 Nov 2026 02:23:45 GMT",
+   "expires": null,
+   "lat": 11.6,
+   "lng": 86.6,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "TC"
+  },
   {
    "title": "Green earthquake (Magnitude 6M, Depth:352.449km) in Japan 31/10/2026 22:15 UTC, 60 thousand in MMI III.",
    "event": "Earthquake",
@@ -1037,8 +1050,8 @@
    "area": "Japan, Marshall Islands",
    "onset": "Sun, 25 Oct 2026 11:52:38 GMT",
    "expires": null,
-   "lat": 22.9,
-   "lng": 144.0,
+   "lat": 22.8,
+   "lng": 144.3,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
