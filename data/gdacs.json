@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T14:55:33Z",
+ "generated_at": "2026-11-01T16:11:02Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 252,
  "alerts": [
@@ -60,7 +60,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "China",
-   "onset": "Sun, 01 Nov 2026 12:01:35 GMT",
+   "onset": "Sun, 01 Nov 2026 16:01:54 GMT",
    "expires": null,
    "lat": 47.26938111734797,
    "lng": 126.75404131654244,
@@ -73,7 +73,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "China",
-   "onset": "Sun, 01 Nov 2026 12:02:25 GMT",
+   "onset": "Sun, 01 Nov 2026 16:00:51 GMT",
    "expires": null,
    "lat": 47.259467975124814,
    "lng": 126.83864606819095,
