@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T16:56:22Z",
+ "generated_at": "2026-11-01T17:11:28Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 252,
  "alerts": [
@@ -2322,7 +2322,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Tanzania",
-   "onset": "Sun, 01 Nov 2026 12:50:14 GMT",
+   "onset": "Sun, 01 Nov 2026 16:58:15 GMT",
    "expires": null,
    "lat": -7.352411973794948,
    "lng": 36.791411354992654,
