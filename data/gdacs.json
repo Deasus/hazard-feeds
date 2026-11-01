@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-01T17:26:35Z",
+ "generated_at": "2026-11-01T20:12:47Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 252,
+ "count": 254,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
@@ -43,6 +43,32 @@
    "_evCode": "EQ"
   },
   {
+   "title": "Green forest fire notification in Nigeria",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Nigeria",
+   "onset": "Sun, 01 Nov 2026 20:00:20 GMT",
+   "expires": null,
+   "lat": 11.700488502973444,
+   "lng": 13.503435987907158,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan, Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan, Sudan",
+   "onset": "Sun, 01 Nov 2026 20:02:22 GMT",
+   "expires": null,
+   "lat": 9.708206352354596,
+   "lng": 26.33363976789506,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Botswana",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -60,7 +86,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "China",
-   "onset": "Sun, 01 Nov 2026 16:01:54 GMT",
+   "onset": "Sun, 01 Nov 2026 20:03:21 GMT",
    "expires": null,
    "lat": 47.26938111734797,
    "lng": 126.75404131654244,
@@ -75,8 +101,8 @@
    "area": "China",
    "onset": "Sun, 01 Nov 2026 16:00:51 GMT",
    "expires": null,
-   "lat": 47.259467975124814,
-   "lng": 126.83864606819095,
+   "lat": 47.26216694017359,
+   "lng": 126.83828046202954,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -88,8 +114,8 @@
    "area": "Australia",
    "onset": "Sun, 01 Nov 2026 16:05:05 GMT",
    "expires": null,
-   "lat": -15.279185971904303,
-   "lng": 141.64436473351734,
+   "lat": -15.281120647936023,
+   "lng": 141.64375982078235,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
