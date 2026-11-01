@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-01T05:21:34Z",
+ "generated_at": "2026-11-01T07:37:34Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 240,
  "alerts": [
   {
-   "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "title": "Red notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.156 million .",
    "event": "Tropical Cyclone",
-   "severity": "GREEN",
+   "severity": "RED",
    "area": "India",
    "onset": "Sun, 01 Nov 2026 02:23:45 GMT",
    "expires": null,
-   "lat": 11.6,
-   "lng": 86.6,
+   "lat": 12.2,
+   "lng": 84.8,
    "source": "GDACS",
-   "_gdacsLevel": "GREEN",
+   "_gdacsLevel": "RED",
    "_evCode": "TC"
   },
   {
