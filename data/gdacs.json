@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T00:59:51Z",
+ "generated_at": "2026-11-02T02:45:39Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 224,
  "alerts": [
@@ -17,16 +17,16 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.196 million .",
+   "title": "Green notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
-   "severity": "RED",
+   "severity": "GREEN",
    "area": "India",
    "onset": "Sun, 01 Nov 2026 02:23:45 GMT",
    "expires": null,
-   "lat": 13.6,
-   "lng": 82.6,
+   "lat": 13.5,
+   "lng": 81.8,
    "source": "GDACS",
-   "_gdacsLevel": "RED",
+   "_gdacsLevel": "GREEN",
    "_evCode": "TC"
   },
   {
@@ -1190,11 +1190,11 @@
    "title": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
-   "area": "Japan, Marshall Islands",
+   "area": "Marshall Islands",
    "onset": "Sun, 25 Oct 2026 11:52:38 GMT",
    "expires": null,
-   "lat": 22.0,
-   "lng": 143.0,
+   "lat": 22.3,
+   "lng": 141.7,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
