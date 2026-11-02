@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T10:50:21Z",
+ "generated_at": "2026-11-02T12:06:25Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 225,
+ "count": 228,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
@@ -15,6 +15,32 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Mon, 02 Nov 2026 12:00:55 GMT",
+   "expires": null,
+   "lat": -15.035052509984771,
+   "lng": 134.88545737051055,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Mon, 02 Nov 2026 12:02:12 GMT",
+   "expires": null,
+   "lat": -16.93664835770656,
+   "lng": 125.62973705061583,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.104 million .",
@@ -41,6 +67,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Mon, 02 Nov 2026 12:04:55 GMT",
+   "expires": null,
+   "lat": -15.221173760971405,
+   "lng": 144.13724293878212,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green forest fire notification in South Sudan, Sudan",
@@ -99,7 +138,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Nigeria",
-   "onset": "Mon, 02 Nov 2026 08:01:54 GMT",
+   "onset": "Mon, 02 Nov 2026 12:02:49 GMT",
    "expires": null,
    "lat": 11.700488502973444,
    "lng": 13.503435987907158,
