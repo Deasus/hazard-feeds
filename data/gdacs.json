@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T09:18:50Z",
+ "generated_at": "2026-11-02T09:34:05Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 225,
  "alerts": [
@@ -2153,7 +2153,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Brazil",
-   "onset": "Mon, 02 Nov 2026 04:27:59 GMT",
+   "onset": "Mon, 02 Nov 2026 09:18:38 GMT",
    "expires": null,
    "lat": -1.411133531395666,
    "lng": -54.19703607106027,
