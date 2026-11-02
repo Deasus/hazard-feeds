@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T00:29:40Z",
+ "generated_at": "2026-11-02T00:44:44Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 223,
+ "count": 224,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6M, Depth:10km) in Vanuatu 01/11/2026 11:47 UTC, 2 thousand in MMI IV.",
@@ -1687,8 +1687,8 @@
    "area": "Brazil",
    "onset": "Mon, 26 Oct 2026 12:05:50 GMT",
    "expires": null,
-   "lat": 1.4112478396308175,
-   "lng": -55.95412231210917,
+   "lat": 1.4060481772961795,
+   "lng": -55.95331065211242,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1713,8 +1713,8 @@
    "area": "Australia",
    "onset": "Tue, 27 Oct 2026 08:20:50 GMT",
    "expires": null,
-   "lat": -16.96796563989344,
-   "lng": 143.1188674045696,
+   "lat": -16.974796601755916,
+   "lng": 143.12073507977377,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1726,8 +1726,8 @@
    "area": "Australia",
    "onset": "Sat, 24 Oct 2026 11:04:37 GMT",
    "expires": null,
-   "lat": -18.76598346245248,
-   "lng": 123.9086152000412,
+   "lat": -18.76644797166234,
+   "lng": 123.90803929315639,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1752,8 +1752,8 @@
    "area": "Brazil",
    "onset": "Thu, 29 Oct 2026 05:07:14 GMT",
    "expires": null,
-   "lat": 3.3771409014499216,
-   "lng": -51.26189581382667,
+   "lat": 3.379830447598773,
+   "lng": -51.26069157005358,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1876,11 +1876,24 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Mon, 02 Nov 2026 00:28:12 GMT",
+   "expires": null,
+   "lat": -1.7258740394796737,
+   "lng": -53.84450973287228,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Central African Republic, Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Central African Republic, Sudan",
-   "onset": "Sun, 01 Nov 2026 21:08:01 GMT",
+   "onset": "Mon, 02 Nov 2026 00:28:01 GMT",
    "expires": null,
    "lat": 9.74207838465755,
    "lng": 23.443935063997948,
@@ -1908,8 +1921,8 @@
    "area": "Australia",
    "onset": "Thu, 29 Oct 2026 20:29:20 GMT",
    "expires": null,
-   "lat": -12.418453146342994,
-   "lng": 136.7433672976394,
+   "lat": -12.418138679287804,
+   "lng": 136.7434570286333,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1932,7 +1945,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Sun, 01 Nov 2026 21:11:41 GMT",
+   "onset": "Mon, 02 Nov 2026 00:32:57 GMT",
    "expires": null,
    "lat": 7.728828804166324,
    "lng": 27.35878325389727,
