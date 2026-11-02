@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T09:03:43Z",
+ "generated_at": "2026-11-02T09:18:50Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 225,
  "alerts": [
@@ -2084,19 +2084,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in South Sudan, Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan, Sudan",
-   "onset": "Sat, 31 Oct 2026 04:27:00 GMT",
-   "expires": null,
-   "lat": 10.10181230249535,
-   "lng": 26.21312785498378,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Zimbabwe",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2105,6 +2092,19 @@
    "expires": null,
    "lat": -18.803937136082446,
    "lng": 27.407050078150764,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan, Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan, Sudan",
+   "onset": "Sat, 31 Oct 2026 04:27:00 GMT",
+   "expires": null,
+   "lat": 10.102340067809394,
+   "lng": 26.21303173030962,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2227,7 +2227,7 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Sudan, Ethiopia",
+   "title": "Green forest fire notification in Ethiopia, Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Ethiopia, Sudan",
@@ -2235,19 +2235,6 @@
    "expires": null,
    "lat": 12.436637881599333,
    "lng": 35.25901493780706,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Tanzania",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Tanzania",
-   "onset": "Sun, 01 Nov 2026 16:58:15 GMT",
-   "expires": null,
-   "lat": -7.3524261081064,
-   "lng": 36.79146667878142,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2261,6 +2248,19 @@
    "expires": null,
    "lat": -2.8082139840399725,
    "lng": -54.15282511179439,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Tanzania",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Tanzania",
+   "onset": "Sun, 01 Nov 2026 16:58:15 GMT",
+   "expires": null,
+   "lat": -7.3524261081064,
+   "lng": 36.79146667878142,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
