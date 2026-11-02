@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T18:10:47Z",
+ "generated_at": "2026-11-02T19:57:29Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 238,
  "alerts": [
@@ -43,14 +43,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.457 million .",
+   "title": "Red notification for tropical cyclone MURASU-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2.379 million .",
    "event": "Tropical Cyclone",
    "severity": "RED",
    "area": "India",
    "onset": "Sun, 01 Nov 2026 02:23:45 GMT",
    "expires": null,
-   "lat": 14.7,
-   "lng": 80.7,
+   "lat": 15.1,
+   "lng": 80.5,
    "source": "GDACS",
    "_gdacsLevel": "RED",
    "_evCode": "TC"
