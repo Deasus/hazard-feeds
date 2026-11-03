@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T08:20:24Z",
+ "generated_at": "2026-11-03T08:35:33Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 222,
  "alerts": [
@@ -1854,7 +1854,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Zimbabwe",
-   "onset": "Tue, 03 Nov 2026 04:18:56 GMT",
+   "onset": "Tue, 03 Nov 2026 08:23:21 GMT",
    "expires": null,
    "lat": -16.401261221407545,
    "lng": 30.197902685977642,
