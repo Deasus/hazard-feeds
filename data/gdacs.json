@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T00:31:15Z",
+ "generated_at": "2026-11-03T00:46:21Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 215,
  "alerts": [
@@ -1713,8 +1713,8 @@
    "area": "Papua New Guinea",
    "onset": "Sat, 31 Oct 2026 20:11:59 GMT",
    "expires": null,
-   "lat": -9.01202023951358,
-   "lng": 141.5032589688758,
+   "lat": -9.012013573044255,
+   "lng": 141.5032550151435,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1778,8 +1778,8 @@
    "area": "Nigeria, Cameroon",
    "onset": "Mon, 02 Nov 2026 20:29:53 GMT",
    "expires": null,
-   "lat": 11.403827143156246,
-   "lng": 14.507699598387465,
+   "lat": 11.405757406051258,
+   "lng": 14.508228699365397,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1804,8 +1804,8 @@
    "area": "Brazil",
    "onset": "Mon, 02 Nov 2026 08:29:38 GMT",
    "expires": null,
-   "lat": -3.2912745247154085,
-   "lng": -50.57119093534126,
+   "lat": -3.292795733723001,
+   "lng": -50.572025684034095,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1815,7 +1815,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Zimbabwe",
-   "onset": "Mon, 02 Nov 2026 20:32:25 GMT",
+   "onset": "Tue, 03 Nov 2026 00:28:53 GMT",
    "expires": null,
    "lat": -16.401261221407545,
    "lng": 30.197902685977642,
@@ -1856,8 +1856,8 @@
    "area": "Brazil",
    "onset": "Mon, 26 Oct 2026 12:05:50 GMT",
    "expires": null,
-   "lat": 1.4054793974130846,
-   "lng": -55.95175668077825,
+   "lat": 1.4031558417336738,
+   "lng": -55.95125440024188,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1960,8 +1960,8 @@
    "area": "Australia",
    "onset": "Sat, 24 Oct 2026 11:04:37 GMT",
    "expires": null,
-   "lat": -18.766603753430708,
-   "lng": 123.90776432772755,
+   "lat": -18.766993002297323,
+   "lng": 123.90725990526633,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1973,8 +1973,8 @@
    "area": "Australia",
    "onset": "Thu, 29 Oct 2026 20:29:20 GMT",
    "expires": null,
-   "lat": -12.416194124754833,
-   "lng": 136.7415386861897,
+   "lat": -12.415399738889434,
+   "lng": 136.743980261542,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1986,8 +1986,8 @@
    "area": "Brazil",
    "onset": "Thu, 29 Oct 2026 05:07:14 GMT",
    "expires": null,
-   "lat": 3.3811255711149917,
-   "lng": -51.260141669685694,
+   "lat": 3.382558385680307,
+   "lng": -51.25929948908762,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2038,8 +2038,8 @@
    "area": "Brazil",
    "onset": "Mon, 02 Nov 2026 08:37:45 GMT",
    "expires": null,
-   "lat": -1.7269337021447637,
-   "lng": -53.84792374024331,
+   "lat": -1.7277018110571136,
+   "lng": -53.84933859603358,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
