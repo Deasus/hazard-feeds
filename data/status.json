@@ -2,24 +2,24 @@
  "feeds": {
   "gdacs": {
    "upstream": "https://www.gdacs.org/xml/rss.xml",
-   "last_attempt": "2026-11-03T11:37:17Z",
-   "ok": true,
+   "last_attempt": "2026-11-03T11:52:25Z",
+   "ok": false,
    "count": 228,
-   "last_success": "2026-11-03T11:37:17Z",
-   "error": null,
-   "last_change": "2026-11-03T10:36:48Z",
-   "last_failure": "2026-11-03T11:07:03Z"
+   "last_success": "2026-11-03T10:51:55Z",
+   "error": "ParseError: not well-formed (invalid token): line 116, column 111",
+   "last_change": "2026-11-03T10:51:55Z",
+   "last_failure": "2026-11-03T11:52:25Z"
   },
   "volcano": {
    "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
-   "last_attempt": "2026-11-03T11:37:17Z",
+   "last_attempt": "2026-11-03T11:52:25Z",
    "ok": true,
-   "count": 27,
-   "last_success": "2026-11-03T11:37:17Z",
+   "count": 28,
+   "last_success": "2026-11-03T11:52:25Z",
    "error": null,
-   "last_change": "2026-11-03T11:37:17Z",
+   "last_change": "2026-11-03T11:22:10Z",
    "last_failure": "2026-11-02T17:40:32Z"
   }
  },
- "generated_at": "2026-11-03T11:37:17Z"
+ "generated_at": "2026-11-03T11:52:25Z"
 }
