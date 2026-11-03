@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T04:18:16Z",
+ "generated_at": "2026-11-03T04:33:23Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 215,
  "alerts": [
@@ -1804,8 +1804,8 @@
    "area": "Brazil",
    "onset": "Mon, 02 Nov 2026 08:29:38 GMT",
    "expires": null,
-   "lat": -3.292795733723001,
-   "lng": -50.572025684034095,
+   "lat": -3.29279550931807,
+   "lng": -50.57202579631935,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1815,7 +1815,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Zimbabwe",
-   "onset": "Tue, 03 Nov 2026 00:28:53 GMT",
+   "onset": "Tue, 03 Nov 2026 04:18:56 GMT",
    "expires": null,
    "lat": -16.401261221407545,
    "lng": 30.197902685977642,
@@ -1856,8 +1856,8 @@
    "area": "Brazil",
    "onset": "Mon, 26 Oct 2026 12:05:50 GMT",
    "expires": null,
-   "lat": 1.4031558417336738,
-   "lng": -55.95125440024188,
+   "lat": 1.4027673309527129,
+   "lng": -55.951076467822595,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
