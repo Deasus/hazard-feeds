@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-03T14:53:50Z",
+ "generated_at": "2026-11-03T23:13:00Z",
  "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
- "count": 27,
+ "count": 28,
  "alerts": [
+  {
+   "title": "Eruption Mayon (Philippines)",
+   "event": "Volcano",
+   "severity": "GREEN",
+   "area": "Philippines",
+   "onset": "2026-10-30T18:05:00",
+   "expires": null,
+   "lat": 13.257,
+   "lng": 123.685,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "VO"
+  },
   {
    "title": "Eruption Kanlaon (Philippines)",
    "event": "Volcano",
