@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T00:46:21Z",
+ "generated_at": "2026-11-03T01:01:37Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 215,
  "alerts": [
@@ -2075,7 +2075,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Mon, 02 Nov 2026 20:51:30 GMT",
+   "onset": "Tue, 03 Nov 2026 00:47:43 GMT",
    "expires": null,
    "lat": 7.728828804166324,
    "lng": 27.35878325389727,
@@ -2155,8 +2155,8 @@
    "area": "Australia",
    "onset": "Fri, 23 Oct 2026 11:03:24 GMT",
    "expires": null,
-   "lat": -18.810423146609743,
-   "lng": 125.22360915034855,
+   "lat": -18.80901281775055,
+   "lng": 125.21923951953156,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2168,8 +2168,8 @@
    "area": "Australia",
    "onset": "Sun, 25 Oct 2026 08:07:03 GMT",
    "expires": null,
-   "lat": -13.740188778512092,
-   "lng": 142.42685067837766,
+   "lat": -13.739886168210987,
+   "lng": 142.42719491079825,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2272,8 +2272,8 @@
    "area": "Guyana",
    "onset": "Mon, 26 Oct 2026 00:16:22 GMT",
    "expires": null,
-   "lat": 6.462563842542224,
-   "lng": -57.877558923498995,
+   "lat": 6.461831096980919,
+   "lng": -57.8766990218962,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2298,8 +2298,8 @@
    "area": "Brazil",
    "onset": "Tue, 27 Oct 2026 12:47:08 GMT",
    "expires": null,
-   "lat": -3.261309810760572,
-   "lng": -50.21104422734904,
+   "lat": -3.26134026836826,
+   "lng": -50.211057915829414,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2324,8 +2324,8 @@
    "area": "Brazil",
    "onset": "Sat, 31 Oct 2026 08:29:51 GMT",
    "expires": null,
-   "lat": -2.8082139840399725,
-   "lng": -54.15282511179439,
+   "lat": -2.808646305757998,
+   "lng": -54.15287532891294,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2350,8 +2350,8 @@
    "area": "Australia",
    "onset": "Wed, 28 Oct 2026 21:56:47 GMT",
    "expires": null,
-   "lat": -14.341354620264116,
-   "lng": 135.2982865012481,
+   "lat": -14.341004390181597,
+   "lng": 135.29839349918848,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
