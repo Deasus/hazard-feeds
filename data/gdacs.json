@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T04:45:35Z",
+ "generated_at": "2026-11-04T05:00:42Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 229,
  "alerts": [
@@ -758,7 +758,7 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in South Sudan, Ethiopia",
+   "title": "Green forest fire notification in Ethiopia, South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Ethiopia, South Sudan",
