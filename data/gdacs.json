@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T08:17:12Z",
+ "generated_at": "2026-11-04T08:32:18Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 231,
  "alerts": [
@@ -2909,8 +2909,8 @@
    "area": "United States",
    "onset": "Thu, 21 May 2026 06:15:32 GMT",
    "expires": null,
-   "lat": 34.8635882,
-   "lng": -111.7849124,
+   "lat": 36.0301388,
+   "lng": -114.9815488,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
