@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-04T05:30:57Z",
+ "generated_at": "2026-11-04T07:16:37Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 229,
+ "count": 230,
  "alerts": [
   {
    "title": "Green flood alert in Bulgaria",
@@ -2266,19 +2266,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Brazil",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Brazil",
-   "onset": "Tue, 03 Nov 2026 04:27:48 GMT",
-   "expires": null,
-   "lat": -3.3012264818231247,
-   "lng": -54.278915055135215,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2287,6 +2274,19 @@
    "expires": null,
    "lat": -18.76799418453314,
    "lng": 123.90351975191976,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Tue, 03 Nov 2026 04:27:48 GMT",
+   "expires": null,
+   "lat": -3.3012264818231247,
+   "lng": -54.278915055135215,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2794,6 +2794,19 @@
    "expires": null,
    "lat": 5.0763734,
    "lng": 115.5494493,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Italy",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Italy",
+   "onset": "Sat, 10 Oct 2026 07:04:44 GMT",
+   "expires": null,
+   "lat": 41.6897761,
+   "lng": 15.3776211,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
