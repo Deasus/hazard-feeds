@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T01:08:31Z",
+ "generated_at": "2026-11-05T02:54:14Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 220,
  "alerts": [
@@ -1804,8 +1804,8 @@
    "area": "Japan, Marshall Islands",
    "onset": "Sun, 25 Oct 2026 11:52:38 GMT",
    "expires": null,
-   "lat": 27.1,
-   "lng": 138.5,
+   "lat": 28.1,
+   "lng": 140.0,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
