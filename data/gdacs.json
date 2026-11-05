@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-05T21:18:01Z",
+ "generated_at": "2026-11-05T22:03:19Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 262,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 6.1M, Depth:540.789km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.",
+   "title": "Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Fiji",
    "onset": "Thu, 05 Nov 2026 17:39:33 GMT",
    "expires": null,
-   "lat": -21.1692,
-   "lng": -178.6458,
+   "lat": -21.1984,
+   "lng": -178.7145,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
