@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T20:47:48Z",
+ "generated_at": "2026-11-05T21:02:55Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 262,
  "alerts": [
@@ -2669,6 +2669,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Central African Republic",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Central African Republic",
+   "onset": "Mon, 02 Nov 2026 16:36:54 GMT",
+   "expires": null,
+   "lat": 9.760305799252675,
+   "lng": 23.34234637920093,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2701,8 +2714,8 @@
    "area": "Australia",
    "onset": "Thu, 29 Oct 2026 20:29:20 GMT",
    "expires": null,
-   "lat": -12.413223049561642,
-   "lng": 136.7452823865519,
+   "lat": -12.41311113389828,
+   "lng": 136.74549390978964,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2794,19 +2807,6 @@
    "expires": null,
    "lat": -16.986649939729645,
    "lng": 143.126750678089,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Central African Republic",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Central African Republic",
-   "onset": "Mon, 02 Nov 2026 16:36:54 GMT",
-   "expires": null,
-   "lat": 9.76058620004705,
-   "lng": 23.342325861041,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
