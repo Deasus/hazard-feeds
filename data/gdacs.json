@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T16:15:41Z",
+ "generated_at": "2026-11-05T16:30:49Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 232,
  "alerts": [
@@ -2064,8 +2064,8 @@
    "area": "Papua New Guinea",
    "onset": "Sat, 31 Oct 2026 20:11:59 GMT",
    "expires": null,
-   "lat": -9.017341406743984,
-   "lng": 141.50545495052882,
+   "lat": -9.017434086049645,
+   "lng": 141.50550826010198,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2075,7 +2075,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Thu, 05 Nov 2026 12:32:24 GMT",
+   "onset": "Thu, 05 Nov 2026 16:18:20 GMT",
    "expires": null,
    "lat": 8.304669184184002,
    "lng": 27.160530689142504,
@@ -2259,8 +2259,8 @@
    "area": "Tanzania",
    "onset": "Tue, 27 Oct 2026 16:26:59 GMT",
    "expires": null,
-   "lat": -8.079845041511186,
-   "lng": 37.47184075832737,
+   "lat": -8.079907865386811,
+   "lng": 37.47225356540253,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2272,8 +2272,8 @@
    "area": "Brazil",
    "onset": "Mon, 02 Nov 2026 08:29:38 GMT",
    "expires": null,
-   "lat": -3.2910661303139723,
-   "lng": -50.5751766992502,
+   "lat": -3.2910842434677368,
+   "lng": -50.57517061729999,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2311,8 +2311,8 @@
    "area": "Australia",
    "onset": "Thu, 29 Oct 2026 20:29:20 GMT",
    "expires": null,
-   "lat": -12.413541544153412,
-   "lng": 136.74546364173278,
+   "lat": -12.413223049561642,
+   "lng": 136.7452823865519,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
