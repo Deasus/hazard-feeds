@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-06T05:36:45Z",
+ "generated_at": "2026-11-06T07:07:23Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 229,
+ "count": 230,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.1M, Depth:535km) in Fiji 05/11/2026 17:21 UTC, Few people affected in 100km.",
@@ -2833,6 +2833,19 @@
    "expires": null,
    "lat": 41.6897761,
    "lng": 15.3776211,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Brazil",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Fri, 09 Oct 2026 06:06:33 GMT",
+   "expires": null,
+   "lat": -27.2162607,
+   "lng": -49.643654,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
