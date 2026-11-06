@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-06T12:24:47Z",
+ "generated_at": "2026-11-06T12:39:54Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 234,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
+   "title": "Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Off East Coast Of Honshu, Japan",
    "onset": "Fri, 06 Nov 2026 10:56:32 GMT",
    "expires": null,
-   "lat": 34.924,
-   "lng": 142.2425,
+   "lat": 34.9677,
+   "lng": 142.1175,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
@@ -1204,6 +1204,19 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Botswana",
+   "onset": "Fri, 06 Nov 2026 08:07:32 GMT",
+   "expires": null,
+   "lat": -21.38600616123634,
+   "lng": 27.5989350671716,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Botswana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Botswana",
    "onset": "Tue, 03 Nov 2026 16:09:56 GMT",
    "expires": null,
    "lat": -18.80938709517053,
@@ -1234,19 +1247,6 @@
    "expires": null,
    "lat": -14.58053601318709,
    "lng": 125.79048534489921,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Botswana",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Botswana",
-   "onset": "Fri, 06 Nov 2026 08:07:32 GMT",
-   "expires": null,
-   "lat": -21.38600616123634,
-   "lng": 27.5989350671716,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1564,19 +1564,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Brazil, Guyana",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Brazil, Guyana",
-   "onset": "Thu, 05 Nov 2026 08:07:42 GMT",
-   "expires": null,
-   "lat": 4.124345986081185,
-   "lng": -59.937080239094925,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1585,6 +1572,19 @@
    "expires": null,
    "lat": 1.809955605522593,
    "lng": -50.51444963361988,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil, Guyana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil, Guyana",
+   "onset": "Thu, 05 Nov 2026 08:07:42 GMT",
+   "expires": null,
+   "lat": 4.124345986081185,
+   "lng": -59.937080239094925,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2023,7 +2023,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Central African Republic",
-   "onset": "Fri, 06 Nov 2026 08:14:15 GMT",
+   "onset": "Fri, 06 Nov 2026 12:20:53 GMT",
    "expires": null,
    "lat": 9.535273956057269,
    "lng": 23.247152241701087,
@@ -2084,19 +2084,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Botswana, Namibia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Botswana, Namibia",
-   "onset": "Mon, 02 Nov 2026 04:10:19 GMT",
-   "expires": null,
-   "lat": -18.590454974715385,
-   "lng": 23.794414076417787,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2136,6 +2123,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Botswana, Namibia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Botswana, Namibia",
+   "onset": "Mon, 02 Nov 2026 04:10:19 GMT",
+   "expires": null,
+   "lat": -18.590238919960154,
+   "lng": 23.794680015374723,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green notification for tropical cyclone IN-FA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
@@ -2155,8 +2155,8 @@
    "area": "South Sudan",
    "onset": "Tue, 03 Nov 2026 20:20:15 GMT",
    "expires": null,
-   "lat": 8.906153669069633,
-   "lng": 32.774410927180995,
+   "lat": 8.906312132001938,
+   "lng": 32.774492576850896,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
