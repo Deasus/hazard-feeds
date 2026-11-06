@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-06T20:43:33Z",
+ "generated_at": "2026-11-06T21:28:57Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 250,
+ "count": 251,
  "alerts": [
+  {
+   "title": "Green notification for tropical cyclone PENA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "event": "Tropical Cyclone",
+   "severity": "GREEN",
+   "area": "Global",
+   "onset": "Fri, 06 Nov 2026 21:20:31 GMT",
+   "expires": null,
+   "lat": 11.3,
+   "lng": -150.1,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "TC"
+  },
   {
    "title": "Green earthquake (Magnitude 6.1M, Depth:29km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
    "event": "Earthquake",
