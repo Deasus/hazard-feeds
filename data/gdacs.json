@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-06T08:53:11Z",
+ "generated_at": "2026-11-06T11:09:16Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 231,
+ "count": 232,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Off East Coast Of Honshu, Japan 06/11/2026 10:39 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Off East Coast Of Honshu, Japan",
+   "onset": "Fri, 06 Nov 2026 10:56:32 GMT",
+   "expires": null,
+   "lat": 34.924,
+   "lng": 142.2425,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
