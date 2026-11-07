@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T17:37:35Z",
+ "generated_at": "2026-11-07T19:23:24Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 250,
  "alerts": [
@@ -33,11 +33,11 @@
    "title": "Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
-   "area": "Madagascar",
+   "area": "Global",
    "onset": "Sat, 07 Nov 2026 07:05:43 GMT",
    "expires": null,
-   "lat": -13.9,
-   "lng": 53.42,
+   "lat": -13.53,
+   "lng": 52.61,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
