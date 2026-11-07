@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T01:15:33Z",
+ "generated_at": "2026-11-07T02:00:53Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 229,
  "alerts": [
@@ -30,14 +30,14 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 986 .",
+   "title": "Green notification for tropical cyclone THIRTYONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
    "area": "Japan",
    "onset": "Fri, 06 Nov 2026 07:50:41 GMT",
    "expires": null,
-   "lat": 18.4,
-   "lng": 145.8,
+   "lat": 19.0,
+   "lng": 144.2,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
