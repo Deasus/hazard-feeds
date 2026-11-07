@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-07T23:10:01Z",
+ "generated_at": "2026-11-07T23:55:17Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 241,
+ "count": 242,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, No people affected in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Central Mid-Atlantic Ridge",
+   "onset": "Sat, 07 Nov 2026 23:37:43 GMT",
+   "expires": null,
+   "lat": 7.3411,
+   "lng": -36.9727,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:38.081km) in Japan 07/11/2026 16:04 UTC, 630 thousand in MMI V.",
    "event": "Earthquake",
