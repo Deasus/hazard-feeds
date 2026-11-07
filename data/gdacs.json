@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:39:26Z",
+ "generated_at": "2026-11-07T21:54:32Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 267,
  "alerts": [
@@ -2478,7 +2478,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Central African Republic, Chad",
-   "onset": "Sat, 07 Nov 2026 16:53:27 GMT",
+   "onset": "Sat, 07 Nov 2026 21:39:19 GMT",
    "expires": null,
    "lat": 11.020547752904749,
    "lng": 21.735832272775053,
