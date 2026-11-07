@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:24:20Z",
+ "generated_at": "2026-11-07T21:39:26Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 267,
  "alerts": [
@@ -2558,8 +2558,8 @@
    "area": "Ethiopia, Sudan",
    "onset": "Wed, 04 Nov 2026 16:14:36 GMT",
    "expires": null,
-   "lat": 12.370550402966181,
-   "lng": 35.29753317422487,
+   "lat": 12.366815195793981,
+   "lng": 35.29804726747125,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
