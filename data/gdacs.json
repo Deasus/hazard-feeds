@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-07T09:34:03Z",
+ "generated_at": "2026-11-07T11:50:04Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 230,
+ "count": 231,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:31.748km) in Japan 07/11/2026 11:07 UTC, 1.8 million in MMI IV.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Japan",
+   "onset": "Sat, 07 Nov 2026 11:24:32 GMT",
+   "expires": null,
+   "lat": 36.1884,
+   "lng": 141.4404,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green notification for tropical cyclone 02-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
