@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-08T01:10:48Z",
+ "generated_at": "2026-11-08T01:25:54Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 252,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, No people affected in 100km.",
+   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Central Mid-Atlantic Ridge",
-   "onset": "Sat, 07 Nov 2026 23:37:43 GMT",
+   "onset": "Sat, 07 Nov 2026 23:36:33 GMT",
    "expires": null,
    "lat": 7.3411,
    "lng": -36.9727,
@@ -49,8 +49,8 @@
    "area": "Global",
    "onset": "Sat, 07 Nov 2026 07:05:43 GMT",
    "expires": null,
-   "lat": -13.53,
-   "lng": 52.61,
+   "lat": -13.35,
+   "lng": 52.06,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -2584,8 +2584,8 @@
    "area": "Australia",
    "onset": "Sun, 01 Nov 2026 20:12:58 GMT",
    "expires": null,
-   "lat": -18.93244664417046,
-   "lng": 123.90900179074484,
+   "lat": -18.93267890220955,
+   "lng": 123.90715521609458,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2597,8 +2597,8 @@
    "area": "Botswana, Namibia",
    "onset": "Mon, 02 Nov 2026 04:10:19 GMT",
    "expires": null,
-   "lat": -18.580365095811963,
-   "lng": 23.808869760502812,
+   "lat": -18.580137147967022,
+   "lng": 23.809064617593414,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2701,8 +2701,8 @@
    "area": "Tanzania",
    "onset": "Sat, 07 Nov 2026 21:48:19 GMT",
    "expires": null,
-   "lat": -7.972995193235968,
-   "lng": 37.21392973023074,
+   "lat": -7.972608856184263,
+   "lng": 37.21484939640755,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
