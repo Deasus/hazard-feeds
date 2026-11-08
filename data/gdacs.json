@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T01:41:01Z",
+ "generated_at": "2026-11-08T01:56:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 252,
  "alerts": [
@@ -218,8 +218,8 @@
    "area": "Japan",
    "onset": "Fri, 06 Nov 2026 07:50:41 GMT",
    "expires": null,
-   "lat": 21.2,
-   "lng": 139.9,
+   "lat": 21.4,
+   "lng": 138.7,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
