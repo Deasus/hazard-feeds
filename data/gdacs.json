@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-08T05:27:37Z",
+ "generated_at": "2026-11-08T06:12:58Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 252,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].",
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, No people affected in 100km.",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Central Mid-Atlantic Ridge",
    "onset": "Sat, 07 Nov 2026 23:36:33 GMT",
    "expires": null,
-   "lat": 7.3411,
-   "lng": -36.9727,
+   "lat": 7.4618,
+   "lng": -36.8221,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
