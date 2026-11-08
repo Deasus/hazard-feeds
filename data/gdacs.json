@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T08:28:58Z",
+ "generated_at": "2026-11-08T08:44:04Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 262,
  "alerts": [
@@ -2361,7 +2361,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Bolivia",
-   "onset": "Sun, 08 Nov 2026 04:43:38 GMT",
+   "onset": "Sun, 08 Nov 2026 08:25:31 GMT",
    "expires": null,
    "lat": -16.108705445480435,
    "lng": -63.72821241117923,
