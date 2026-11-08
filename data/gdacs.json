@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-08T08:44:04Z",
+ "generated_at": "2026-11-08T08:59:09Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 262,
+ "count": 263,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Central Mid-Atlantic Ridge 07/11/2026 23:17 UTC, [unknown].",
@@ -2911,6 +2911,19 @@
    "expires": null,
    "lat": -9.019147939778804,
    "lng": 141.50562690337404,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Sun, 08 Nov 2026 08:53:01 GMT",
+   "expires": null,
+   "lat": -3.1040640271283007,
+   "lng": -54.649679355469516,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
