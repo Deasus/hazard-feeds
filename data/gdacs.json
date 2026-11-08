@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T00:55:41Z",
+ "generated_at": "2026-11-08T01:10:48Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 252,
  "alerts": [
@@ -2324,8 +2324,8 @@
    "area": "Suriname, Brazil",
    "onset": "Thu, 05 Nov 2026 08:08:58 GMT",
    "expires": null,
-   "lat": 2.129729675902873,
-   "lng": -55.76136648078676,
+   "lat": 2.1291632717321494,
+   "lng": -55.75977212227318,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
