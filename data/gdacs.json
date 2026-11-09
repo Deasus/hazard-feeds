@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T10:24:50Z",
+ "generated_at": "2026-11-09T11:40:27Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 279,
+ "count": 280,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.",
@@ -155,6 +155,19 @@
    "expires": null,
    "lat": 10.1755763,
    "lng": -67.9194222,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Portugal",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Portugal",
+   "onset": "Mon, 09 Nov 2026 11:16:36 GMT",
+   "expires": null,
+   "lat": 32.6472599,
+   "lng": -16.889995,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
