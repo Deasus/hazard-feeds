@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T12:25:46Z",
+ "generated_at": "2026-11-09T12:40:52Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 290,
  "alerts": [
@@ -842,8 +842,8 @@
    "area": "Australia",
    "onset": "Sun, 08 Nov 2026 08:08:35 GMT",
    "expires": null,
-   "lat": -16.933073240886728,
-   "lng": 144.06403686137932,
+   "lat": -16.932258932499984,
+   "lng": 144.06203890558393,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -881,8 +881,8 @@
    "area": "Australia",
    "onset": "Mon, 09 Nov 2026 08:04:34 GMT",
    "expires": null,
-   "lat": -20.835349997923476,
-   "lng": 140.43803953644152,
+   "lat": -20.837196228817255,
+   "lng": 140.43744275267073,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -894,8 +894,8 @@
    "area": "Australia",
    "onset": "Mon, 09 Nov 2026 08:04:56 GMT",
    "expires": null,
-   "lat": -18.799106303166003,
-   "lng": 133.70133236416348,
+   "lat": -18.800130578310387,
+   "lng": 133.70040722212474,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -905,7 +905,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Mali",
-   "onset": "Mon, 09 Nov 2026 08:05:46 GMT",
+   "onset": "Mon, 09 Nov 2026 12:28:25 GMT",
    "expires": null,
    "lat": 15.43955457872753,
    "lng": -0.09757254296226031,
@@ -1037,8 +1037,8 @@
    "area": "Australia",
    "onset": "Mon, 09 Nov 2026 04:10:47 GMT",
    "expires": null,
-   "lat": -15.226873551263159,
-   "lng": 135.08052197141177,
+   "lat": -15.196884824587091,
+   "lng": 135.0555887775366,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1115,8 +1115,8 @@
    "area": "Australia",
    "onset": "Sun, 08 Nov 2026 08:08:53 GMT",
    "expires": null,
-   "lat": -20.074817804237316,
-   "lng": 123.58533741850368,
+   "lat": -20.07486708958598,
+   "lng": 123.58540008295334,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
