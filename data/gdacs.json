@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T09:54:36Z",
+ "generated_at": "2026-11-09T10:09:44Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 278,
+ "count": 279,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.",
@@ -142,6 +142,19 @@
    "expires": null,
    "lat": 34.4505521,
    "lng": 40.9170636,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Venezuela",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Venezuela",
+   "onset": "Mon, 09 Nov 2026 09:58:32 GMT",
+   "expires": null,
+   "lat": 10.1755763,
+   "lng": -67.9194222,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
