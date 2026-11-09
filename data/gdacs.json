@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T04:37:23Z",
+ "generated_at": "2026-11-09T04:52:29Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 268,
  "alerts": [
@@ -3037,7 +3037,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Sudan",
-   "onset": "Mon, 09 Nov 2026 00:32:02 GMT",
+   "onset": "Mon, 09 Nov 2026 04:41:59 GMT",
    "expires": null,
    "lat": 10.495034695547451,
    "lng": 24.015506660570612,
