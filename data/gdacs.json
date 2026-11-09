@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T07:38:37Z",
+ "generated_at": "2026-11-09T07:53:42Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 269,
+ "count": 273,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.",
@@ -108,6 +108,71 @@
    "_evCode": "TC"
   },
   {
+   "title": "Green flood alert in Iraq",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Iraq",
+   "onset": "Mon, 09 Nov 2026 07:36:55 GMT",
+   "expires": null,
+   "lat": 36.1911744,
+   "lng": 44.0094145,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Israel",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Israel",
+   "onset": "Mon, 09 Nov 2026 07:37:17 GMT",
+   "expires": null,
+   "lat": 32.3286181,
+   "lng": 34.8566246,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Syria",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Syria",
+   "onset": "Mon, 09 Nov 2026 07:37:25 GMT",
+   "expires": null,
+   "lat": 34.4505521,
+   "lng": 40.9170636,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Sun, 08 Nov 2026 20:00:46 GMT",
+   "expires": null,
+   "lat": -18.4213766127536,
+   "lng": 123.97741365863277,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Sun, 08 Nov 2026 20:02:18 GMT",
+   "expires": null,
+   "lat": -19.884055780126236,
+   "lng": 123.29298750013683,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -181,32 +246,6 @@
    "expires": null,
    "lat": -20.769370808932532,
    "lng": 124.88715369481145,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Sun, 08 Nov 2026 20:00:46 GMT",
-   "expires": null,
-   "lat": -18.4213766127536,
-   "lng": 123.97741365863277,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Sun, 08 Nov 2026 20:02:18 GMT",
-   "expires": null,
-   "lat": -19.884055780126236,
-   "lng": 123.29298750013683,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -392,6 +431,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
+  },
+  {
+   "title": "Green flood alert in Vietnam",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Vietnam",
+   "onset": "Mon, 09 Nov 2026 07:36:30 GMT",
+   "expires": null,
+   "lat": 22.5023175,
+   "lng": 104.3067914,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Green forest fire notification in Australia",
