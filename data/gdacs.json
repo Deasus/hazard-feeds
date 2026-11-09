@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:11:31Z",
+ "generated_at": "2026-11-09T14:26:38Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 292,
  "alerts": [
@@ -576,14 +576,14 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 986 .",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
    "area": "Japan",
    "onset": "Fri, 06 Nov 2026 07:50:41 GMT",
    "expires": null,
-   "lat": 24.0,
-   "lng": 134.9,
+   "lat": 24.3,
+   "lng": 135.3,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -3371,19 +3371,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in South Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan",
-   "onset": "Tue, 03 Nov 2026 20:20:15 GMT",
-   "expires": null,
-   "lat": 8.912761960862118,
-   "lng": 32.77687117059012,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Nigeria",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -3392,6 +3379,19 @@
    "expires": null,
    "lat": 11.834826259079483,
    "lng": 5.259724405401728,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Tue, 03 Nov 2026 20:20:15 GMT",
+   "expires": null,
+   "lat": 8.91293165913523,
+   "lng": 32.7770356882756,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
