@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:06:36Z",
+ "generated_at": "2026-11-10T13:21:41Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 283,
  "alerts": [
@@ -2751,7 +2751,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Burkina Faso",
-   "onset": "Tue, 10 Nov 2026 08:54:33 GMT",
+   "onset": "Tue, 10 Nov 2026 13:11:49 GMT",
    "expires": null,
    "lat": 11.592666976007829,
    "lng": 0.8712755635883432,
