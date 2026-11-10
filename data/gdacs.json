@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T09:04:48Z",
+ "generated_at": "2026-11-10T09:19:56Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 277,
  "alerts": [
@@ -2838,19 +2838,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Brazil",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Brazil",
-   "onset": "Sun, 01 Nov 2026 20:07:25 GMT",
-   "expires": null,
-   "lat": 1.803803299997549,
-   "lng": -50.50936147427968,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Ethiopia, Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2872,6 +2859,19 @@
    "expires": null,
    "lat": 11.865966837871811,
    "lng": 5.701564597889222,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Sun, 01 Nov 2026 20:07:25 GMT",
+   "expires": null,
+   "lat": 1.803373964547602,
+   "lng": -50.50871654111027,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2920,7 +2920,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Bolivia",
-   "onset": "Tue, 10 Nov 2026 04:41:08 GMT",
+   "onset": "Tue, 10 Nov 2026 08:57:08 GMT",
    "expires": null,
    "lat": -16.108705445480435,
    "lng": -63.72821241117923,
@@ -2998,7 +2998,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Suriname, Brazil",
-   "onset": "Tue, 10 Nov 2026 04:42:40 GMT",
+   "onset": "Tue, 10 Nov 2026 08:57:28 GMT",
    "expires": null,
    "lat": 1.819065995552766,
    "lng": -55.75149948768599,
@@ -3089,10 +3089,10 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Mon, 02 Nov 2026 16:08:31 GMT",
+   "onset": "Wed, 04 Nov 2026 08:07:04 GMT",
    "expires": null,
-   "lat": 9.614253003748427,
-   "lng": 33.09707811725807,
+   "lat": 9.049622865968248,
+   "lng": 33.14878746916358,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -3102,10 +3102,10 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Wed, 04 Nov 2026 08:07:04 GMT",
+   "onset": "Mon, 02 Nov 2026 16:08:31 GMT",
    "expires": null,
-   "lat": 9.049622865968248,
-   "lng": 33.14878746916358,
+   "lat": 9.614253003748427,
+   "lng": 33.09707811725807,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
