@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-10T15:22:32Z",
+ "generated_at": "2026-11-10T15:37:44Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 283,
+ "count": 284,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Guatemala",
+   "onset": "Tue, 10 Nov 2026 15:15:15 GMT",
+   "expires": null,
+   "lat": 13.5381,
+   "lng": -90.8798,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
