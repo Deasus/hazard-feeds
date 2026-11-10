@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:36:46Z",
+ "generated_at": "2026-11-10T14:52:19Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 283,
  "alerts": [
@@ -732,14 +732,14 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+   "title": "Green notification for tropical cyclone CEMPAKA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 613 .",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
    "area": "Japan",
    "onset": "Fri, 06 Nov 2026 07:50:41 GMT",
    "expires": null,
-   "lat": 25.4,
-   "lng": 139.9,
+   "lat": 26.1,
+   "lng": 142.1,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
