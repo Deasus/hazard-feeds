@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T09:35:02Z",
+ "generated_at": "2026-11-10T09:50:09Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 277,
  "alerts": [
@@ -1824,19 +1824,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Guyana",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Guyana",
-   "onset": "Mon, 09 Nov 2026 04:13:36 GMT",
-   "expires": null,
-   "lat": 5.7214470658380785,
-   "lng": -57.56454467552964,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Suriname, Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1845,6 +1832,19 @@
    "expires": null,
    "lat": 1.6900605957574155,
    "lng": -55.851586569453005,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Guyana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Guyana",
+   "onset": "Mon, 09 Nov 2026 04:13:36 GMT",
+   "expires": null,
+   "lat": 5.7214470658380785,
+   "lng": -57.56454467552964,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -3241,19 +3241,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Sudan",
-   "onset": "Mon, 09 Nov 2026 04:41:59 GMT",
-   "expires": null,
-   "lat": 10.496652695787251,
-   "lng": 24.017049542108165,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Botswana, Namibia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -3262,6 +3249,19 @@
    "expires": null,
    "lat": -18.579357244149783,
    "lng": 23.809356241359087,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Sudan",
+   "onset": "Mon, 09 Nov 2026 04:41:59 GMT",
+   "expires": null,
+   "lat": 10.52375225797654,
+   "lng": 24.02100410708357,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
