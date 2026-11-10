@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:53:19Z",
+ "generated_at": "2026-11-10T17:08:30Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 287,
  "alerts": [
@@ -3377,8 +3377,8 @@
    "area": "Sudan",
    "onset": "Mon, 09 Nov 2026 04:41:59 GMT",
    "expires": null,
-   "lat": 10.52375225797654,
-   "lng": 24.02100410708357,
+   "lat": 10.523759071263731,
+   "lng": 24.021040393203005,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
