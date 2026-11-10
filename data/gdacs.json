@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-10T11:51:03Z",
+ "generated_at": "2026-11-10T12:06:10Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 278,
+ "count": 279,
  "alerts": [
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Tue, 10 Nov 2026 12:01:23 GMT",
+   "expires": null,
+   "lat": -24.02466049844129,
+   "lng": 126.15443257506186,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:24.173km) in Japan 09/11/2026 04:52 UTC, 230 thousand in MMI IV.",
    "event": "Earthquake",
@@ -34,7 +47,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Tue, 10 Nov 2026 08:00:45 GMT",
+   "onset": "Tue, 10 Nov 2026 12:03:06 GMT",
    "expires": null,
    "lat": 7.6278507114422816,
    "lng": 30.024298140245516,
@@ -62,8 +75,8 @@
    "area": "Australia",
    "onset": "Tue, 10 Nov 2026 08:06:30 GMT",
    "expires": null,
-   "lat": -19.158839292826904,
-   "lng": 142.71451744822033,
+   "lat": -19.153341339136144,
+   "lng": 142.71081345870405,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -875,19 +888,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Mali",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Mali",
-   "onset": "Mon, 09 Nov 2026 20:09:24 GMT",
-   "expires": null,
-   "lat": 14.291974181811065,
-   "lng": -8.915660045943937,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Botswana",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -961,6 +961,19 @@
    "expires": null,
    "lat": 14.047835551556236,
    "lng": -12.492650117735218,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Mali",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Mali",
+   "onset": "Mon, 09 Nov 2026 20:09:24 GMT",
+   "expires": null,
+   "lat": 14.291974181811065,
+   "lng": -8.915660045943937,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
