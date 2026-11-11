@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-10T23:10:59Z",
+ "generated_at": "2026-11-11T00:11:23Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 250,
+ "count": 256,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.6M, Depth:35km) in Guatemala 10/11/2026 14:54 UTC, 570 thousand in MMI IV.",
@@ -15,6 +15,32 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Wed, 11 Nov 2026 00:00:59 GMT",
+   "expires": null,
+   "lat": -15.274857132292611,
+   "lng": 133.2740783695574,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Wed, 11 Nov 2026 00:01:59 GMT",
+   "expires": null,
+   "lat": 8.226716918064003,
+   "lng": 31.480962121152128,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green forest fire notification in Australia",
@@ -60,10 +86,36 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Tue, 10 Nov 2026 16:01:53 GMT",
+   "onset": "Wed, 11 Nov 2026 00:03:40 GMT",
    "expires": null,
    "lat": 7.6278507114422816,
    "lng": 30.024298140245516,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Central African Republic",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Central African Republic",
+   "onset": "Wed, 11 Nov 2026 00:02:26 GMT",
+   "expires": null,
+   "lat": 9.748127392794748,
+   "lng": 22.743703476438153,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Central African Republic, Chad",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Central African Republic, Chad",
+   "onset": "Wed, 11 Nov 2026 00:03:13 GMT",
+   "expires": null,
+   "lat": 9.204269946174422,
+   "lng": 20.82275391667168,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -73,7 +125,33 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Tue, 10 Nov 2026 16:01:18 GMT",
+   "onset": "Wed, 11 Nov 2026 00:03:59 GMT",
+   "expires": null,
+   "lat": -19.883994579260353,
+   "lng": 130.23335975962397,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Botswana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Botswana",
+   "onset": "Wed, 11 Nov 2026 00:04:28 GMT",
+   "expires": null,
+   "lat": -20.77742866634632,
+   "lng": 24.48620481503895,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Wed, 11 Nov 2026 00:04:59 GMT",
    "expires": null,
    "lat": -17.65799340611162,
    "lng": 123.06563306661651,
@@ -537,19 +615,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Brazil, Guyana",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Brazil, Guyana",
-   "onset": "Tue, 10 Nov 2026 08:08:48 GMT",
-   "expires": null,
-   "lat": 2.6973285298183387,
-   "lng": -60.19500931490446,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -558,6 +623,19 @@
    "expires": null,
    "lat": -17.592168195804852,
    "lng": 122.94800534149626,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil, Guyana",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil, Guyana",
+   "onset": "Tue, 10 Nov 2026 08:08:48 GMT",
+   "expires": null,
+   "lat": 2.6973285298183387,
+   "lng": -60.19500931490446,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
