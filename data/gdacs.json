@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:42:28Z",
+ "generated_at": "2026-11-11T02:57:35Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 280,
  "alerts": [
@@ -972,8 +972,8 @@
    "area": "Global",
    "onset": "Fri, 06 Nov 2026 21:20:31 GMT",
    "expires": null,
-   "lat": 10.8,
-   "lng": -165.2,
+   "lat": 10.5,
+   "lng": -166.0,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
