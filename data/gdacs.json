@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T13:17:10Z",
+ "generated_at": "2026-11-11T15:02:54Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 296,
  "alerts": [
@@ -1076,8 +1076,8 @@
    "area": "Global",
    "onset": "Fri, 06 Nov 2026 21:20:31 GMT",
    "expires": null,
-   "lat": 10.1,
-   "lng": -166.7,
+   "lat": 9.9,
+   "lng": -167.7,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -1089,8 +1089,8 @@
    "area": "Japan",
    "onset": "Fri, 06 Nov 2026 07:50:41 GMT",
    "expires": null,
-   "lat": 29.1,
-   "lng": 150.2,
+   "lat": 30.2,
+   "lng": 154.1,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
