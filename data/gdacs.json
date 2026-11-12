@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T08:48:36Z",
+ "generated_at": "2026-11-12T09:03:41Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 291,
  "alerts": [
@@ -1207,7 +1207,7 @@
    "onset": "Fri, 06 Nov 2026 21:20:31 GMT",
    "expires": null,
    "lat": 9.8,
-   "lng": -170.6,
+   "lng": -172.0,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -3709,19 +3709,6 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea",
-   "event": "Drought",
-   "severity": "GREEN",
-   "area": "Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea",
-   "onset": "Wed, 04 Feb 2026 09:58:20 GMT",
-   "expires": null,
-   "lat": -0.406,
-   "lng": 11.503,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "DR"
-  },
-  {
    "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
    "event": "Drought",
    "severity": "ORANGE",
@@ -3732,6 +3719,19 @@
    "lng": 12.587,
    "source": "GDACS",
    "_gdacsLevel": "ORANGE",
+   "_evCode": "DR"
+  },
+  {
+   "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea",
+   "event": "Drought",
+   "severity": "GREEN",
+   "area": "Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea",
+   "onset": "Wed, 04 Feb 2026 09:58:20 GMT",
+   "expires": null,
+   "lat": -0.406,
+   "lng": 11.503,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
    "_evCode": "DR"
   },
   {
