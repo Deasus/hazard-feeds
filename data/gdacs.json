@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-12T01:15:19Z",
+ "generated_at": "2026-11-12T02:30:51Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 285,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in 100km.",
+   "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Guatemala",
