@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T09:03:41Z",
+ "generated_at": "2026-11-12T09:18:50Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 291,
  "alerts": [
@@ -3631,7 +3631,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in China, Kazakhstan, Mongolia",
+   "title": "Drought is on going in China, Kazakhstan, Mongolia, Russia",
    "event": "Drought",
    "severity": "GREEN",
    "area": "China, Kazakhstan, Mongolia, Russia",
@@ -3657,7 +3657,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Bangladesh, Bhutan, China, India, Myanmar, Nepal",
+   "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
    "event": "Drought",
    "severity": "GREEN",
    "area": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
@@ -3670,7 +3670,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Sudan, South Sudan, Chad, Tanzania, Uganda",
+   "title": "Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
    "event": "Drought",
    "severity": "ORANGE",
    "area": "Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
