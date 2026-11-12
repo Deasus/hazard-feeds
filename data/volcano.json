@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-03T23:28:11Z",
+ "generated_at": "2026-11-12T12:35:16Z",
  "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
- "count": 28,
+ "count": 27,
  "alerts": [
   {
    "title": "Eruption Mayon (Philippines)",
@@ -352,19 +352,6 @@
    "lng": 112.922,
    "source": "GDACS",
    "_gdacsLevel": "RED",
-   "_evCode": "VO"
-  },
-  {
-   "title": "Eruption Taal (Philippines)",
-   "event": "Volcano",
-   "severity": "GREEN",
-   "area": "Philippines",
-   "onset": "2025-11-12T10:44:00",
-   "expires": null,
-   "lat": 14.0106,
-   "lng": 120.9975,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
    "_evCode": "VO"
   }
  ]
