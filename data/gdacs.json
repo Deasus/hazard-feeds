@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T09:34:00Z",
+ "generated_at": "2026-11-12T12:20:09Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 291,
  "alerts": [
@@ -777,8 +777,8 @@
    "area": "Portugal",
    "onset": "Mon, 09 Nov 2026 11:16:36 GMT",
    "expires": null,
-   "lat": 30.1462542,
-   "lng": -15.8668607,
+   "lat": 37.2448086,
+   "lng": -8.1507562,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
@@ -3598,8 +3598,8 @@
    "area": "Italy",
    "onset": "Sat, 10 Oct 2026 07:04:44 GMT",
    "expires": null,
-   "lat": 43.9963569,
-   "lng": 10.2885999,
+   "lat": 44.099448,
+   "lng": 10.017303,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
@@ -3709,19 +3709,6 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
-   "event": "Drought",
-   "severity": "ORANGE",
-   "area": "Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
-   "onset": "Wed, 11 Feb 2026 09:57:31 GMT",
-   "expires": null,
-   "lat": 48.012,
-   "lng": 12.587,
-   "source": "GDACS",
-   "_gdacsLevel": "ORANGE",
-   "_evCode": "DR"
-  },
-  {
    "title": "Drought is on going in Angola, Democratic Republic of Congo, Republic of Congo, Cameroon, Gabon, Equatorial Guinea",
    "event": "Drought",
    "severity": "GREEN",
@@ -3732,6 +3719,19 @@
    "lng": 11.503,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
+   "_evCode": "DR"
+  },
+  {
+   "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+   "event": "Drought",
+   "severity": "ORANGE",
+   "area": "Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+   "onset": "Wed, 11 Feb 2026 09:57:31 GMT",
+   "expires": null,
+   "lat": 48.012,
+   "lng": 12.587,
+   "source": "GDACS",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "DR"
   },
   {
