@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-12T22:25:07Z",
+ "generated_at": "2026-11-12T22:40:13Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 292,
+ "count": 293,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Papua New Guinea 12/11/2026 22:04 UTC, Few people affected (in MMI>=VII).",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Papua New Guinea",
+   "onset": "Thu, 12 Nov 2026 22:20:24 GMT",
+   "expires": null,
+   "lat": -1.5882,
+   "lng": 149.8877,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:59.652km) in Guatemala 10/11/2026 14:54 UTC, 1.2 million in MMI IV.",
    "event": "Earthquake",
