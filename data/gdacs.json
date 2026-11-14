@@ -1,14 +1,14 @@
 {
- "generated_at": "2026-11-14T09:55:59Z",
+ "generated_at": "2026-11-14T10:11:05Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 253,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, No people affected in 100km.",
+   "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Northern Mid-Atlantic Ridge",
-   "onset": "Sat, 14 Nov 2026 09:44:49 GMT",
+   "onset": "Sat, 14 Nov 2026 09:43:12 GMT",
    "expires": null,
    "lat": 30.122,
    "lng": -42.6346,
