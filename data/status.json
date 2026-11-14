@@ -2,24 +2,24 @@
  "feeds": {
   "gdacs": {
    "upstream": "https://www.gdacs.org/xml/rss.xml",
-   "last_attempt": "2026-11-14T05:24:01Z",
-   "ok": false,
+   "last_attempt": "2026-11-14T05:39:07Z",
+   "ok": true,
    "count": 251,
-   "last_success": "2026-11-14T04:53:53Z",
-   "error": "RuntimeError: fetch failed after 3 attempts: <urlopen error timed out>",
-   "last_change": "2026-11-14T04:53:53Z",
-   "last_failure": "2026-11-14T05:24:01Z"
+   "last_success": "2026-11-14T05:39:07Z",
+   "error": null,
+   "last_change": "2026-11-14T05:39:07Z",
+   "last_failure": "2026-11-03T14:23:36Z"
   },
   "volcano": {
    "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
-   "last_attempt": "2026-11-14T05:24:01Z",
-   "ok": false,
+   "last_attempt": "2026-11-14T05:39:07Z",
+   "ok": true,
    "count": 27,
-   "last_success": "2026-11-14T04:53:53Z",
-   "error": "RuntimeError: fetch failed after 3 attempts: <urlopen error timed out>",
+   "last_success": "2026-11-14T05:39:07Z",
+   "error": null,
    "last_change": "2026-11-12T12:50:24Z",
-   "last_failure": "2026-11-14T05:24:01Z"
+   "last_failure": "2026-11-02T17:40:32Z"
   }
  },
- "generated_at": "2026-11-14T05:24:01Z"
+ "generated_at": "2026-11-14T05:39:07Z"
 }
