@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:08:53Z",
+ "generated_at": "2026-11-14T04:53:53Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 251,
  "alerts": [
@@ -1178,6 +1178,19 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
+   "onset": "Wed, 11 Nov 2026 12:09:18 GMT",
+   "expires": null,
+   "lat": -16.286408375635826,
+   "lng": 123.64284789799707,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
    "onset": "Fri, 13 Nov 2026 20:12:20 GMT",
    "expires": null,
    "lat": -11.557892796647243,
@@ -1195,19 +1208,6 @@
    "expires": null,
    "lat": -18.70418360038387,
    "lng": 123.43498829749839,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Wed, 11 Nov 2026 12:09:18 GMT",
-   "expires": null,
-   "lat": -16.286408375635826,
-   "lng": 123.64284789799707,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2621,6 +2621,19 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
+   "onset": "Tue, 03 Nov 2026 16:02:00 GMT",
+   "expires": null,
+   "lat": -15.530563144719421,
+   "lng": 124.97693164279599,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
    "onset": "Sun, 08 Nov 2026 12:23:59 GMT",
    "expires": null,
    "lat": -24.93344929602557,
@@ -2664,19 +2677,6 @@
    "expires": null,
    "lat": -12.133991772365288,
    "lng": 136.55215267459624,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Tue, 03 Nov 2026 16:02:00 GMT",
-   "expires": null,
-   "lat": -15.530161204026065,
-   "lng": 124.97634697388408,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
