@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T10:11:05Z",
+ "generated_at": "2026-11-14T10:26:12Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 253,
+ "count": 254,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].",
@@ -2162,6 +2162,45 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green flood alert in France",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "France",
+   "onset": "Fri, 06 Nov 2026 11:36:58 GMT",
+   "expires": null,
+   "lat": 43.5439153,
+   "lng": 6.9359135,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Fri, 13 Nov 2026 20:39:38 GMT",
+   "expires": null,
+   "lat": -19.218802317025926,
+   "lng": 144.9203002282127,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Wed, 11 Nov 2026 20:16:49 GMT",
+   "expires": null,
+   "lat": 8.551751100841521,
+   "lng": 26.021489054719698,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2209,32 +2248,6 @@
    "expires": null,
    "lat": 26.049484171203485,
    "lng": 78.73592649433321,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in South Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan",
-   "onset": "Wed, 11 Nov 2026 20:16:49 GMT",
-   "expires": null,
-   "lat": 8.551751100841521,
-   "lng": 26.021489054719698,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Fri, 13 Nov 2026 20:39:38 GMT",
-   "expires": null,
-   "lat": -19.218802317025926,
-   "lng": 144.9203002282127,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
