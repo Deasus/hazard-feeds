@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:59:26Z",
+ "generated_at": "2026-11-14T18:14:31Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 273,
  "alerts": [
@@ -2582,7 +2582,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Nigeria",
-   "onset": "Sat, 14 Nov 2026 16:49:52 GMT",
+   "onset": "Sat, 14 Nov 2026 17:59:37 GMT",
    "expires": null,
    "lat": 11.926448516730371,
    "lng": 5.203262972632341,
