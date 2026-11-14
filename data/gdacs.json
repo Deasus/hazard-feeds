@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-14T09:40:52Z",
+ "generated_at": "2026-11-14T09:55:59Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 252,
+ "count": 253,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, No people affected in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Northern Mid-Atlantic Ridge",
+   "onset": "Sat, 14 Nov 2026 09:44:49 GMT",
+   "expires": null,
+   "lat": 30.122,
+   "lng": -42.6346,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Peru 13/11/2026 16:43 UTC, 100 thousand in MMI IV.",
    "event": "Earthquake",
