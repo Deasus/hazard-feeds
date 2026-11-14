@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-14T16:43:52Z",
+ "generated_at": "2026-11-14T16:58:57Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 272,
+ "count": 273,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in Northern Mid-Atlantic Ridge 14/11/2026 09:26 UTC, [unknown].",
@@ -1765,8 +1765,8 @@
    "area": "Australia",
    "onset": "Sun, 08 Nov 2026 08:07:33 GMT",
    "expires": null,
-   "lat": -11.195762980755282,
-   "lng": 142.260152205203,
+   "lat": -11.195837357492543,
+   "lng": 142.26023098748382,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1843,8 +1843,8 @@
    "area": "Central African Republic, South Sudan, Sudan",
    "onset": "Wed, 11 Nov 2026 20:12:56 GMT",
    "expires": null,
-   "lat": 8.87142116659654,
-   "lng": 24.243057933576996,
+   "lat": 8.871481644831333,
+   "lng": 24.244587503086333,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1884,6 +1884,19 @@
    "expires": null,
    "lat": 9.718746667609809,
    "lng": 30.508653354200405,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Sat, 14 Nov 2026 16:35:13 GMT",
+   "expires": null,
+   "lat": 8.549189441577756,
+   "lng": 25.2874037860736,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2220,8 +2233,8 @@
    "area": "India",
    "onset": "Sat, 14 Nov 2026 12:45:41 GMT",
    "expires": null,
-   "lat": 22.278157456524724,
-   "lng": 79.86126238737802,
+   "lat": 22.278177314516167,
+   "lng": 79.86122308620811,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2246,8 +2259,8 @@
    "area": "Sudan",
    "onset": "Wed, 11 Nov 2026 20:16:15 GMT",
    "expires": null,
-   "lat": 10.282700558935947,
-   "lng": 23.976509667405384,
+   "lat": 10.282380785658836,
+   "lng": 23.977279935228587,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2259,8 +2272,8 @@
    "area": "South Sudan",
    "onset": "Fri, 13 Nov 2026 12:44:29 GMT",
    "expires": null,
-   "lat": 8.178415736788201,
-   "lng": 25.528788924852506,
+   "lat": 8.177236889020683,
+   "lng": 25.532460595717627,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2272,8 +2285,8 @@
    "area": "South Sudan, Sudan",
    "onset": "Fri, 13 Nov 2026 12:42:15 GMT",
    "expires": null,
-   "lat": 9.552620804616815,
-   "lng": 26.350096609446936,
+   "lat": 9.552713834123018,
+   "lng": 26.350546929280284,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2363,8 +2376,8 @@
    "area": "Australia",
    "onset": "Sun, 08 Nov 2026 08:09:38 GMT",
    "expires": null,
-   "lat": -19.481518423067886,
-   "lng": 144.52142080403263,
+   "lat": -19.481346081832157,
+   "lng": 144.52148334518427,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2402,8 +2415,8 @@
    "area": "Australia",
    "onset": "Fri, 13 Nov 2026 20:39:38 GMT",
    "expires": null,
-   "lat": -19.216876842765355,
-   "lng": 144.923141583423,
+   "lat": -19.21687314670926,
+   "lng": 144.92323672216634,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2415,8 +2428,8 @@
    "area": "Australia",
    "onset": "Sat, 07 Nov 2026 08:02:33 GMT",
    "expires": null,
-   "lat": -16.810510978181643,
-   "lng": 144.3668055382894,
+   "lat": -16.810513147381446,
+   "lng": 144.36680171708198,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2428,8 +2441,8 @@
    "area": "South Sudan",
    "onset": "Wed, 11 Nov 2026 20:16:49 GMT",
    "expires": null,
-   "lat": 8.552006757331458,
-   "lng": 26.022050337703483,
+   "lat": 8.558299647191872,
+   "lng": 26.02308628067854,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2441,8 +2454,8 @@
    "area": "India",
    "onset": "Fri, 13 Nov 2026 12:49:59 GMT",
    "expires": null,
-   "lat": 26.049786569587667,
-   "lng": 78.74075146063655,
+   "lat": 26.050165110759337,
+   "lng": 78.73901953411901,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
