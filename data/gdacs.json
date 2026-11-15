@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-15T12:52:34Z",
+ "generated_at": "2026-11-15T14:08:15Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 255,
+ "count": 256,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:9.971km) in Philippines 15/11/2026 13:41 UTC, 30 thousand in MMI VI.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Philippines",
+   "onset": "Sun, 15 Nov 2026 13:55:51 GMT",
+   "expires": null,
+   "lat": 9.7595,
+   "lng": 126.2,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green notification for tropical cyclone FOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
