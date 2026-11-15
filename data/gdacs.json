@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:25:53Z",
+ "generated_at": "2026-11-15T20:41:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 270,
  "alerts": [
@@ -2311,8 +2311,8 @@
    "area": "Sudan",
    "onset": "Wed, 11 Nov 2026 20:16:15 GMT",
    "expires": null,
-   "lat": 10.282199688845564,
-   "lng": 23.977608317181275,
+   "lat": 10.282094185762494,
+   "lng": 23.97786775888737,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2350,8 +2350,8 @@
    "area": "South Sudan",
    "onset": "Fri, 13 Nov 2026 12:44:29 GMT",
    "expires": null,
-   "lat": 8.177172945961,
-   "lng": 25.535623870391444,
+   "lat": 8.177327949045425,
+   "lng": 25.5359700683758,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2545,8 +2545,8 @@
    "area": "Australia",
    "onset": "Sat, 07 Nov 2026 08:02:33 GMT",
    "expires": null,
-   "lat": -16.809944322648906,
-   "lng": 144.36712044996355,
+   "lat": -16.80908703937453,
+   "lng": 144.367732377363,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2558,8 +2558,8 @@
    "area": "South Sudan",
    "onset": "Wed, 11 Nov 2026 20:16:49 GMT",
    "expires": null,
-   "lat": 8.562387392730168,
-   "lng": 26.0290523656467,
+   "lat": 8.562838035554543,
+   "lng": 26.0296284774684,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2584,8 +2584,8 @@
    "area": "Australia",
    "onset": "Fri, 13 Nov 2026 20:39:38 GMT",
    "expires": null,
-   "lat": -19.21602473869443,
-   "lng": 144.92470401330687,
+   "lat": -19.21473461272801,
+   "lng": 144.925561770071,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
