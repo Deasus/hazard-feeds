@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T11:17:45Z",
+ "generated_at": "2026-11-16T11:32:51Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 238,
  "alerts": [
@@ -2883,8 +2883,8 @@
    "area": "Indonesia",
    "onset": "Thu, 29 Oct 2026 09:29:04 GMT",
    "expires": null,
-   "lat": -7.3032412,
-   "lng": 110.0044145,
+   "lat": 4.3685491,
+   "lng": 97.0253024,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
