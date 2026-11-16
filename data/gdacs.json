@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T00:27:46Z",
+ "generated_at": "2026-11-16T00:42:48Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 232,
  "alerts": [
@@ -2142,8 +2142,8 @@
    "area": "Australia",
    "onset": "Sat, 07 Nov 2026 20:11:19 GMT",
    "expires": null,
-   "lat": -16.487459764605703,
-   "lng": 124.59379933230281,
+   "lat": -16.48612914557596,
+   "lng": 124.59427830515665,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2298,8 +2298,8 @@
    "area": "Australia",
    "onset": "Sat, 07 Nov 2026 08:02:33 GMT",
    "expires": null,
-   "lat": -16.80908703937453,
-   "lng": 144.367732377363,
+   "lat": -16.8086252213848,
+   "lng": 144.36804652102458,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2376,8 +2376,8 @@
    "area": "Australia",
    "onset": "Fri, 13 Nov 2026 20:39:38 GMT",
    "expires": null,
-   "lat": -19.21473461272801,
-   "lng": 144.925561770071,
+   "lat": -19.214033762137593,
+   "lng": 144.92586271103306,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2402,8 +2402,8 @@
    "area": "Australia",
    "onset": "Sun, 08 Nov 2026 08:13:45 GMT",
    "expires": null,
-   "lat": -17.39059882260434,
-   "lng": 144.08350098038784,
+   "lat": -17.390801704035887,
+   "lng": 144.0836345859322,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2415,8 +2415,8 @@
    "area": "Guyana",
    "onset": "Mon, 09 Nov 2026 04:13:36 GMT",
    "expires": null,
-   "lat": 5.721580842407329,
-   "lng": -57.562976862530064,
+   "lat": 5.721631521983164,
+   "lng": -57.562449770067786,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
