@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T04:41:11Z",
+ "generated_at": "2026-11-17T04:56:17Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 232,
  "alerts": [
@@ -1360,7 +1360,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Tue, 17 Nov 2026 00:27:16 GMT",
+   "onset": "Tue, 17 Nov 2026 04:27:19 GMT",
    "expires": null,
    "lat": -15.674031981956853,
    "lng": 127.99294669804146,
@@ -1646,7 +1646,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Tue, 17 Nov 2026 00:31:20 GMT",
+   "onset": "Tue, 17 Nov 2026 04:28:56 GMT",
    "expires": null,
    "lat": -18.402466106830474,
    "lng": 124.07999321962112,
