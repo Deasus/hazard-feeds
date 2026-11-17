@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T10:59:07Z",
+ "generated_at": "2026-11-17T11:14:16Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 237,
+ "count": 238,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
@@ -2883,8 +2883,8 @@
    "area": "Indonesia",
    "onset": "Thu, 29 Oct 2026 09:29:04 GMT",
    "expires": null,
-   "lat": 4.3685491,
-   "lng": 97.0253024,
+   "lat": -4.0035183,
+   "lng": 101.8393474,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
@@ -2942,6 +2942,19 @@
    "_evCode": "DR"
   },
   {
+   "title": "Drought is on going in China, Kazakhstan, Mongolia",
+   "event": "Drought",
+   "severity": "GREEN",
+   "area": "China, Kazakhstan, Mongolia",
+   "onset": "Tue, 14 Jul 2026 14:07:56 GMT",
+   "expires": null,
+   "lat": 45.037,
+   "lng": 81.056,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "DR"
+  },
+  {
    "title": "Drought is on going in India",
    "event": "Drought",
    "severity": "GREEN",
@@ -2955,14 +2968,14 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in China, Kazakhstan, Mongolia",
+   "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
    "event": "Drought",
    "severity": "GREEN",
-   "area": "China, Kazakhstan, Mongolia",
-   "onset": "Tue, 14 Jul 2026 14:07:56 GMT",
+   "area": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
+   "onset": "Wed, 28 Oct 2026 18:05:01 GMT",
    "expires": null,
-   "lat": 45.037,
-   "lng": 81.056,
+   "lat": 25.217,
+   "lng": 97.026,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "DR"
@@ -2981,16 +2994,16 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
+   "title": "Drought is on going in Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Mexico, Nicaragua, El Salvador, United States",
    "event": "Drought",
-   "severity": "GREEN",
-   "area": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
-   "onset": "Wed, 28 Oct 2026 18:05:01 GMT",
+   "severity": "ORANGE",
+   "area": "Belize, Costa Rica, Cuba, Dominican Republic, Guatemala, Honduras, Mexico, Nicaragua, El Salvador, United States",
+   "onset": "Fri, 03 Jul 2026 12:57:40 GMT",
    "expires": null,
-   "lat": 25.217,
-   "lng": 97.026,
+   "lat": 18.296,
+   "lng": -95.161,
    "source": "GDACS",
-   "_gdacsLevel": "GREEN",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "DR"
   },
   {
@@ -3059,19 +3072,6 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela",
-   "event": "Drought",
-   "severity": "ORANGE",
-   "area": "Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela",
-   "onset": "Fri, 03 Jul 2026 12:57:35 GMT",
-   "expires": null,
-   "lat": 7.036,
-   "lng": -66.243,
-   "source": "GDACS",
-   "_gdacsLevel": "ORANGE",
-   "_evCode": "DR"
-  },
-  {
    "title": "Drought is on going in Brazil",
    "event": "Drought",
    "severity": "GREEN",
@@ -3082,6 +3082,19 @@
    "lng": -37.804,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
+   "_evCode": "DR"
+  },
+  {
+   "title": "Drought is on going in Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela",
+   "event": "Drought",
+   "severity": "ORANGE",
+   "area": "Aruba, , Brazil, Colombia, Costa Rica, , French Guiana, Guyana, Panama, Suriname, Venezuela",
+   "onset": "Fri, 03 Jul 2026 12:57:35 GMT",
+   "expires": null,
+   "lat": 7.036,
+   "lng": -66.243,
+   "source": "GDACS",
+   "_gdacsLevel": "ORANGE",
    "_evCode": "DR"
   }
  ]
