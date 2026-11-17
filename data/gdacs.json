@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T06:11:55Z",
+ "generated_at": "2026-11-17T07:27:33Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 234,
+ "count": 235,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
@@ -67,6 +67,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
+  },
+  {
+   "title": "Green flood alert in South Africa",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "South Africa",
+   "onset": "Tue, 17 Nov 2026 07:24:32 GMT",
+   "expires": null,
+   "lat": -26.904354,
+   "lng": 27.456125,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Green forest fire notification in Australia",
@@ -927,6 +940,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Fri, 13 Nov 2026 12:04:08 GMT",
+   "expires": null,
+   "lat": 8.73099973696061,
+   "lng": 26.42143934720142,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Nigeria",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -961,19 +987,6 @@
    "expires": null,
    "lat": 9.528009620315919,
    "lng": 31.539591183816277,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in South Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan",
-   "onset": "Fri, 13 Nov 2026 12:04:08 GMT",
-   "expires": null,
-   "lat": 8.73099973696061,
-   "lng": 26.42143934720142,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2844,8 +2857,8 @@
    "area": "Italy",
    "onset": "Sat, 10 Oct 2026 07:04:44 GMT",
    "expires": null,
-   "lat": 43.4984067,
-   "lng": 12.1155164,
+   "lat": 40.1002478,
+   "lng": 15.5831154,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
