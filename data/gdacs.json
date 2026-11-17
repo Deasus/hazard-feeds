@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T05:41:42Z",
+ "generated_at": "2026-11-17T05:56:48Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 232,
+ "count": 234,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
@@ -73,10 +73,10 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Mon, 16 Nov 2026 12:00:32 GMT",
+   "onset": "Tue, 17 Nov 2026 04:02:24 GMT",
    "expires": null,
-   "lat": -19.160237238916448,
-   "lng": 124.16454085635367,
+   "lat": -17.499406179715603,
+   "lng": 124.84233451930538,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -86,10 +86,10 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Tue, 17 Nov 2026 04:02:24 GMT",
+   "onset": "Mon, 16 Nov 2026 12:00:32 GMT",
    "expires": null,
-   "lat": -17.499406179715603,
-   "lng": 124.84233451930538,
+   "lat": -19.160237238916448,
+   "lng": 124.16454085635367,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1876,6 +1876,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green flood alert in Dominican Republic",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Dominican Republic",
+   "onset": "Thu, 12 Nov 2026 21:54:41 GMT",
+   "expires": null,
+   "lat": 19.336389,
+   "lng": -70.9521277,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
    "title": "Green flood alert in Vietnam",
    "event": "Flood",
    "severity": "GREEN",
@@ -2123,6 +2136,32 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Central African Republic, Chad",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Central African Republic, Chad",
+   "onset": "Mon, 16 Nov 2026 16:23:11 GMT",
+   "expires": null,
+   "lat": 10.19888036913734,
+   "lng": 21.559554401707185,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Mon, 16 Nov 2026 16:25:52 GMT",
+   "expires": null,
+   "lat": 9.637091362347135,
+   "lng": 32.93837921987252,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Sudan, South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2162,27 +2201,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Central African Republic, Chad",
+   "title": "Green forest fire notification in India",
    "event": "Wildfire",
    "severity": "GREEN",
-   "area": "Central African Republic, Chad",
-   "onset": "Mon, 16 Nov 2026 16:23:11 GMT",
+   "area": "India",
+   "onset": "Sat, 14 Nov 2026 12:45:41 GMT",
    "expires": null,
-   "lat": 10.19888036913734,
-   "lng": 21.559554401707185,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in South Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan",
-   "onset": "Mon, 16 Nov 2026 16:25:52 GMT",
-   "expires": null,
-   "lat": 9.637091362347135,
-   "lng": 32.93837921987252,
+   "lat": 22.28037927836744,
+   "lng": 79.86131531339815,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2196,19 +2222,6 @@
    "expires": null,
    "lat": -16.48394552063008,
    "lng": 124.595225426848,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in India",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "India",
-   "onset": "Sat, 14 Nov 2026 12:45:41 GMT",
-   "expires": null,
-   "lat": 22.28037927836744,
-   "lng": 79.86131531339815,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2797,6 +2810,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
+  },
+  {
+   "title": "Green flood alert in Peru",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Peru",
+   "onset": "Thu, 29 Oct 2026 09:44:53 GMT",
+   "expires": null,
+   "lat": -3.6306414,
+   "lng": -80.5715847,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
   },
   {
    "title": "Green flood alert in Indonesia",
