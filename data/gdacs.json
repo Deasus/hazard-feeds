@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T10:28:55Z",
+ "generated_at": "2026-11-17T10:44:00Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 237,
  "alerts": [
@@ -2955,7 +2955,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in China, Kazakhstan, Mongolia, Russia",
+   "title": "Drought is on going in China, Kazakhstan, Mongolia",
    "event": "Drought",
    "severity": "GREEN",
    "area": "China, Kazakhstan, Mongolia",
@@ -2968,7 +2968,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Eritrea, Ethiopia, Kenya, Niger, Nigeria, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
+   "title": "Drought is on going in Burundi, Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Kenya, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
    "event": "Drought",
    "severity": "ORANGE",
    "area": "Burundi, Democratic Republic of Congo, Central African Republic, Cameroon, Eritrea, Ethiopia, Kenya, Rwanda, Sudan, South Sudan, Chad, Tanzania, Uganda",
@@ -2994,7 +2994,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Brunei, Indonesia, Cambodia, Malaysia, Papua New Guinea, Philippines",
+   "title": "Drought is on going in Brunei, Indonesia, Cambodia, Laos, Malaysia, Papua New Guinea, Philippines, Singapore, Vietnam",
    "event": "Drought",
    "severity": "GREEN",
    "area": "Brunei, Indonesia, Cambodia, Laos, Malaysia, Papua New Guinea, Philippines, Singapore, Vietnam",
@@ -3020,7 +3020,7 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in Andorra, Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Moldova, Montenegro, Netherlands, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
+   "title": "Drought is on going in Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Montenegro, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
    "event": "Drought",
    "severity": "ORANGE",
    "area": "Albania, Austria, Bosnia & Herzegovina, Belgium, Bulgaria, Belarus, Switzerland, Czech Republic, Germany, Denmark, Spain, France, Croatia, Hungary, Ireland, Italy, Liechtenstein, Luxembourg, Montenegro, Poland, Romania, Serbia, Sweden, Slovenia, Slovakia, Ukraine,",
