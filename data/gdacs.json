@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:46:53Z",
+ "generated_at": "2026-11-17T17:02:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 248,
  "alerts": [
@@ -2727,8 +2727,8 @@
    "area": "Brazil",
    "onset": "Fri, 13 Nov 2026 09:40:36 GMT",
    "expires": null,
-   "lat": -1.3797252459207756,
-   "lng": -54.99890139621372,
+   "lat": -1.3806716264806473,
+   "lng": -54.99652665397544,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
