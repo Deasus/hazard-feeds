@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-17T07:42:40Z",
+ "generated_at": "2026-11-17T07:57:56Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 235,
+ "count": 236,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
@@ -77,6 +77,19 @@
    "expires": null,
    "lat": -26.904354,
    "lng": 27.456125,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Spain",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Spain",
+   "onset": "Tue, 17 Nov 2026 07:43:35 GMT",
+   "expires": null,
+   "lat": 42.3438932,
+   "lng": -7.8571773,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
