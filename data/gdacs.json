@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:41:41Z",
+ "generated_at": "2026-11-18T14:27:04Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 244,
  "alerts": [
@@ -95,14 +95,14 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (14.328 million in Tropical Storm).",
+   "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (11.538 million in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "ORANGE",
    "area": "India",
    "onset": "Mon, 16 Nov 2026 20:06:39 GMT",
    "expires": null,
-   "lat": 13.1,
-   "lng": 86.9,
+   "lat": 13.6,
+   "lng": 86.5,
    "source": "GDACS",
    "_gdacsLevel": "ORANGE",
    "_evCode": "TC"
