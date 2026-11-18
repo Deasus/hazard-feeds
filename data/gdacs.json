@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-18T02:06:23Z",
+ "generated_at": "2026-11-18T02:51:42Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 234,
+ "count": 235,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in South Of Mariana Islands 18/11/2026 02:22 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "South Of Mariana Islands",
+   "onset": "Wed, 18 Nov 2026 02:34:22 GMT",
+   "expires": null,
+   "lat": 12.1387,
+   "lng": 143.8866,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in MMI V.",
    "event": "Earthquake",
