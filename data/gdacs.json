@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:43:39Z",
+ "generated_at": "2026-11-18T17:58:46Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 246,
  "alerts": [
@@ -2701,8 +2701,8 @@
    "area": "India",
    "onset": "Sat, 14 Nov 2026 08:42:07 GMT",
    "expires": null,
-   "lat": 25.805881282642243,
-   "lng": 76.64150827894416,
+   "lat": 25.804281879107112,
+   "lng": 76.640909918081,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2714,8 +2714,8 @@
    "area": "Guyana",
    "onset": "Mon, 09 Nov 2026 04:13:36 GMT",
    "expires": null,
-   "lat": 5.7217141072973,
-   "lng": -57.56157413016506,
+   "lat": 5.721713871665685,
+   "lng": -57.56157454803291,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
