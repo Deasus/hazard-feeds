@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:29:59Z",
+ "generated_at": "2026-11-18T20:45:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 252,
  "alerts": [
@@ -1512,7 +1512,7 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Sudan, Ethiopia",
+   "title": "Green forest fire notification in Ethiopia, Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Ethiopia, Sudan",
@@ -2103,8 +2103,8 @@
    "area": "Sudan",
    "onset": "Mon, 16 Nov 2026 16:12:07 GMT",
    "expires": null,
-   "lat": 10.084106610005348,
-   "lng": 23.973499001494304,
+   "lat": 10.084201060668216,
+   "lng": 23.97394341125502,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2116,8 +2116,8 @@
    "area": "South Sudan",
    "onset": "Sat, 14 Nov 2026 17:24:25 GMT",
    "expires": null,
-   "lat": 8.721624277704025,
-   "lng": 26.384910793671253,
+   "lat": 8.721749196546826,
+   "lng": 26.384923151662417,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2168,8 +2168,8 @@
    "area": "Australia",
    "onset": "Wed, 11 Nov 2026 16:02:52 GMT",
    "expires": null,
-   "lat": -14.898220841047616,
-   "lng": 144.48148907753472,
+   "lat": -14.89862627491722,
+   "lng": 144.481577490366,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2181,8 +2181,8 @@
    "area": "Australia",
    "onset": "Sat, 14 Nov 2026 12:29:37 GMT",
    "expires": null,
-   "lat": -11.529920744013461,
-   "lng": 142.37409273750313,
+   "lat": -11.531376271080008,
+   "lng": 142.37340628701793,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2246,8 +2246,8 @@
    "area": "Central African Republic",
    "onset": "Wed, 18 Nov 2026 08:38:17 GMT",
    "expires": null,
-   "lat": 9.325000946987279,
-   "lng": 22.75430256401898,
+   "lat": 9.324027153372361,
+   "lng": 22.755668616945297,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
