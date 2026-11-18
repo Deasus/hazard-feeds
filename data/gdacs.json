@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T04:22:26Z",
+ "generated_at": "2026-11-18T05:07:47Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 236,
  "alerts": [
@@ -1581,7 +1581,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Wed, 18 Nov 2026 00:22:13 GMT",
+   "onset": "Wed, 18 Nov 2026 04:16:42 GMT",
    "expires": null,
    "lat": 7.45612296743278,
    "lng": 27.380552076710423,
@@ -1993,19 +1993,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Brazil",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Brazil",
-   "onset": "Sun, 15 Nov 2026 08:19:39 GMT",
-   "expires": null,
-   "lat": -1.1624723972147852,
-   "lng": -53.56266416978914,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in India",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -2023,10 +2010,23 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Wed, 18 Nov 2026 00:29:21 GMT",
+   "onset": "Wed, 18 Nov 2026 04:25:38 GMT",
    "expires": null,
    "lat": 9.277362263590199,
    "lng": 29.331314917134794,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Sun, 15 Nov 2026 08:19:39 GMT",
+   "expires": null,
+   "lat": -1.1624723972147852,
+   "lng": -53.56266416978914,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2506,8 +2506,8 @@
    "area": "Brazil",
    "onset": "Wed, 18 Nov 2026 00:44:13 GMT",
    "expires": null,
-   "lat": -0.5394650189643904,
-   "lng": -51.68985813883882,
+   "lat": -0.539574943440134,
+   "lng": -51.68983477407879,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2916,6 +2916,19 @@
    "_evCode": "DR"
   },
   {
+   "title": "Drought is on going in China, Kazakhstan, Mongolia",
+   "event": "Drought",
+   "severity": "GREEN",
+   "area": "China, Kazakhstan, Mongolia",
+   "onset": "Tue, 14 Jul 2026 14:07:56 GMT",
+   "expires": null,
+   "lat": 45.037,
+   "lng": 81.056,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "DR"
+  },
+  {
    "title": "Drought is on going in India",
    "event": "Drought",
    "severity": "GREEN",
@@ -2929,14 +2942,14 @@
    "_evCode": "DR"
   },
   {
-   "title": "Drought is on going in China, Kazakhstan, Mongolia",
+   "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
    "event": "Drought",
    "severity": "GREEN",
-   "area": "China, Kazakhstan, Mongolia",
-   "onset": "Tue, 14 Jul 2026 14:07:56 GMT",
+   "area": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
+   "onset": "Wed, 28 Oct 2026 18:05:01 GMT",
    "expires": null,
-   "lat": 45.037,
-   "lng": 81.056,
+   "lat": 25.217,
+   "lng": 97.026,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "DR"
@@ -2952,19 +2965,6 @@
    "lng": 39.5,
    "source": "GDACS",
    "_gdacsLevel": "ORANGE",
-   "_evCode": "DR"
-  },
-  {
-   "title": "Drought is on going in Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
-   "event": "Drought",
-   "severity": "GREEN",
-   "area": "Bangladesh, Bhutan, China, India, Laos, Myanmar, Nepal, Vietnam",
-   "onset": "Wed, 28 Oct 2026 18:05:01 GMT",
-   "expires": null,
-   "lat": 25.217,
-   "lng": 97.026,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
    "_evCode": "DR"
   },
   {
