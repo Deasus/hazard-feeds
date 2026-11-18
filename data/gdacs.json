@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-18T18:13:53Z",
+ "generated_at": "2026-11-18T19:59:39Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 246,
+ "count": 247,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6.1M, Depth:10km) in Pacific-Antarctic Ridge 18/11/2026 19:14 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Pacific-Antarctic Ridge",
+   "onset": "Wed, 18 Nov 2026 19:35:14 GMT",
+   "expires": null,
+   "lat": -57.7514,
+   "lng": -146.746,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.",
    "event": "Earthquake",
@@ -95,14 +108,14 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (11.538 million in Tropical Storm).",
+   "title": "Orange notification for tropical cyclone AKVAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (23.165 million in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "ORANGE",
    "area": "India",
    "onset": "Mon, 16 Nov 2026 20:06:39 GMT",
    "expires": null,
-   "lat": 13.6,
-   "lng": 86.5,
+   "lat": 13.8,
+   "lng": 86.4,
    "source": "GDACS",
    "_gdacsLevel": "ORANGE",
    "_evCode": "TC"
