@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-18T09:24:54Z",
+ "generated_at": "2026-11-18T11:10:35Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 241,
+ "count": 242,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.",
@@ -2922,8 +2922,21 @@
    "area": "Indonesia",
    "onset": "Thu, 29 Oct 2026 09:29:04 GMT",
    "expires": null,
-   "lat": -4.0035183,
-   "lng": 101.8393474,
+   "lat": -8.7892855,
+   "lng": 117.146169,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Malaysia",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Malaysia",
+   "onset": "Mon, 19 Oct 2026 06:44:13 GMT",
+   "expires": null,
+   "lat": 3.3314558,
+   "lng": 101.2513058,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
