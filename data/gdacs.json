@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-18T06:08:18Z",
+ "generated_at": "2026-11-18T06:53:34Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 237,
+ "count": 238,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:21.895km) in Peru 18/11/2026 06:07 UTC, 40 thousand in MMI IV.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Peru",
+   "onset": "Wed, 18 Nov 2026 06:23:19 GMT",
+   "expires": null,
+   "lat": -15.1438,
+   "lng": -75.9238,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.8M, Depth:10km) in Indonesia 18/11/2026 04:41 UTC, 6 thousand (in MMI>=VII).",
    "event": "Earthquake",
