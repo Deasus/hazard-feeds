@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:24:53Z",
+ "generated_at": "2026-11-19T17:39:59Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 231,
  "alerts": [
@@ -2142,8 +2142,8 @@
    "area": "Australia",
    "onset": "Sat, 14 Nov 2026 12:29:37 GMT",
    "expires": null,
-   "lat": -11.530953890518994,
-   "lng": 142.3708560987389,
+   "lat": -11.532667392239002,
+   "lng": 142.3704417898854,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2166,7 +2166,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Thu, 19 Nov 2026 12:35:05 GMT",
+   "onset": "Thu, 19 Nov 2026 17:18:11 GMT",
    "expires": null,
    "lat": 9.277362263590199,
    "lng": 29.331314917134794,
