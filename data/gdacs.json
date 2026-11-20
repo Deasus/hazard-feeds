@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:38:00Z",
+ "generated_at": "2026-11-20T22:53:22Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 232,
  "alerts": [
@@ -355,14 +355,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 5 thousand in MMI V.",
+   "title": "Green earthquake (Magnitude 6.6M, Depth:68km) in Indonesia 16/11/2026 21:11 UTC, 6 thousand in 100km.",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Indonesia",
    "onset": "Mon, 16 Nov 2026 21:26:52 GMT",
    "expires": null,
-   "lat": -6.0804,
-   "lng": 131.4868,
+   "lat": -6.0208,
+   "lng": 131.4593,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
