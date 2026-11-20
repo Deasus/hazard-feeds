@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:48:48Z",
+ "generated_at": "2026-11-20T13:03:53Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 222,
  "alerts": [
@@ -2155,8 +2155,8 @@
    "area": "Brazil",
    "onset": "Sun, 15 Nov 2026 08:19:39 GMT",
    "expires": null,
-   "lat": -1.1634883997331866,
-   "lng": -53.55925178485948,
+   "lat": -1.163612036419994,
+   "lng": -53.55921879757609,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2205,7 +2205,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Fri, 20 Nov 2026 08:54:56 GMT",
+   "onset": "Fri, 20 Nov 2026 12:51:09 GMT",
    "expires": null,
    "lat": 9.277362263590199,
    "lng": 29.331314917134794,
@@ -2415,8 +2415,8 @@
    "area": "Australia",
    "onset": "Sun, 08 Nov 2026 08:07:33 GMT",
    "expires": null,
-   "lat": -11.209305477955517,
-   "lng": 142.27164484036808,
+   "lat": -11.210324546001939,
+   "lng": 142.2723415895166,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2426,7 +2426,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Fri, 20 Nov 2026 08:57:06 GMT",
+   "onset": "Fri, 20 Nov 2026 12:52:24 GMT",
    "expires": null,
    "lat": 9.16488951333763,
    "lng": 33.24442449007958,
