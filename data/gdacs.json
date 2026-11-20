@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:35:37Z",
+ "generated_at": "2026-11-20T16:50:37Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 224,
  "alerts": [
@@ -1616,19 +1616,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Ethiopia, Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Ethiopia, Sudan",
-   "onset": "Mon, 16 Nov 2026 16:06:33 GMT",
-   "expires": null,
-   "lat": 12.231240299684172,
-   "lng": 35.31798377277701,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1707,6 +1694,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Ethiopia, Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Ethiopia, Sudan",
+   "onset": "Mon, 16 Nov 2026 16:06:33 GMT",
+   "expires": null,
+   "lat": 12.231360146049413,
+   "lng": 35.31739158490171,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1737,6 +1737,19 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
+   "onset": "Sun, 15 Nov 2026 20:09:21 GMT",
+   "expires": null,
+   "lat": -16.203389262744036,
+   "lng": 123.7345564997305,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
    "onset": "Sat, 14 Nov 2026 08:10:23 GMT",
    "expires": null,
    "lat": -15.420567937323094,
@@ -1750,23 +1763,10 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Ethiopia, Sudan",
-   "onset": "Fri, 20 Nov 2026 12:37:01 GMT",
+   "onset": "Fri, 20 Nov 2026 16:30:58 GMT",
    "expires": null,
    "lat": 12.286619036610583,
    "lng": 35.18013928476262,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Sun, 15 Nov 2026 20:09:21 GMT",
-   "expires": null,
-   "lat": -16.203389262744036,
-   "lng": 123.7345564997305,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1841,7 +1841,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Fri, 20 Nov 2026 12:35:49 GMT",
+   "onset": "Fri, 20 Nov 2026 16:28:27 GMT",
    "expires": null,
    "lat": 7.45612296743278,
    "lng": 27.380552076710423,
@@ -2116,8 +2116,8 @@
    "area": "Australia",
    "onset": "Wed, 11 Nov 2026 12:09:18 GMT",
    "expires": null,
-   "lat": -16.315552619763622,
-   "lng": 123.72349824052993,
+   "lat": -16.315665003586318,
+   "lng": 123.72360770823792,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2231,7 +2231,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Fri, 20 Nov 2026 12:51:09 GMT",
+   "onset": "Fri, 20 Nov 2026 16:43:18 GMT",
    "expires": null,
    "lat": 9.277362263590199,
    "lng": 29.331314917134794,
