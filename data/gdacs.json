@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:28:55Z",
+ "generated_at": "2026-11-20T01:44:13Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 211,
  "alerts": [
@@ -10,8 +10,8 @@
    "area": "Southeast Of Loyalty Islands",
    "onset": "Fri, 20 Nov 2026 01:06:14 GMT",
    "expires": null,
-   "lat": -24.7018,
-   "lng": 171.1601,
+   "lat": -24.6996,
+   "lng": 171.2326,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "EQ"
