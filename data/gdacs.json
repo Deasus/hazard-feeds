@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:46:30Z",
+ "generated_at": "2026-11-21T20:03:07Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 213,
  "alerts": [
@@ -631,11 +631,11 @@
    "title": "Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
-   "area": "Cook Islands",
+   "area": "Cook Islands, American Samoa",
    "onset": "Sun, 15 Nov 2026 08:51:43 GMT",
    "expires": null,
-   "lat": -11.8,
-   "lng": -165.2,
+   "lat": -11.9,
+   "lng": -165.6,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
