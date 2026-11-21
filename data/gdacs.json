@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-20T23:23:40Z",
+ "generated_at": "2026-11-21T00:08:54Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 197,
+ "count": 198,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.6M, Depth:10km) in Southeast Of Loyalty Islands 20/11/2026 00:49 UTC, [unknown].",
@@ -23,8 +23,8 @@
    "area": "Australia",
    "onset": "Fri, 20 Nov 2026 20:01:30 GMT",
    "expires": null,
-   "lat": -22.78697831632308,
-   "lng": 125.74713412221205,
+   "lat": -22.787605397229267,
+   "lng": 125.74372819583941,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -114,8 +114,8 @@
    "area": "Australia",
    "onset": "Fri, 20 Nov 2026 20:02:28 GMT",
    "expires": null,
-   "lat": -19.268071988188897,
-   "lng": 122.45122722584554,
+   "lat": -19.268079357974518,
+   "lng": 122.45054368393771,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -153,8 +153,8 @@
    "area": "South Sudan, Central African Republic",
    "onset": "Fri, 20 Nov 2026 20:02:57 GMT",
    "expires": null,
-   "lat": 8.204716352934026,
-   "lng": 25.169223479994212,
+   "lat": 8.202925378206892,
+   "lng": 25.168299592630902,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -164,7 +164,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Fri, 20 Nov 2026 20:03:34 GMT",
+   "onset": "Sat, 21 Nov 2026 00:02:22 GMT",
    "expires": null,
    "lat": 7.310834210912179,
    "lng": 27.133139524329273,
@@ -179,8 +179,8 @@
    "area": "South Africa",
    "onset": "Fri, 20 Nov 2026 20:03:46 GMT",
    "expires": null,
-   "lat": -34.40603386122232,
-   "lng": 20.49649856976501,
+   "lat": -34.40490353937426,
+   "lng": 20.49779123602925,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -192,8 +192,8 @@
    "area": "Australia",
    "onset": "Thu, 19 Nov 2026 20:02:25 GMT",
    "expires": null,
-   "lat": -22.783461469362177,
-   "lng": 125.89395915395795,
+   "lat": -22.78239905798786,
+   "lng": 125.89230678667116,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -242,7 +242,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Botswana",
-   "onset": "Fri, 20 Nov 2026 20:04:51 GMT",
+   "onset": "Sat, 21 Nov 2026 00:04:18 GMT",
    "expires": null,
    "lat": -21.860898213699098,
    "lng": 24.46390410136038,
@@ -270,8 +270,8 @@
    "area": "Australia",
    "onset": "Wed, 18 Nov 2026 20:02:07 GMT",
    "expires": null,
-   "lat": -21.47001454506583,
-   "lng": 126.08922478443024,
+   "lat": -21.469530226780726,
+   "lng": 126.0889525140945,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -309,8 +309,8 @@
    "area": "Australia",
    "onset": "Thu, 19 Nov 2026 20:02:50 GMT",
    "expires": null,
-   "lat": -22.673697806736676,
-   "lng": 126.04026129406262,
+   "lat": -22.673235270245165,
+   "lng": 126.04016574135798,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -350,6 +350,19 @@
    "expires": null,
    "lat": -21.458284931124677,
    "lng": 125.4532397186752,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Sat, 21 Nov 2026 00:04:59 GMT",
+   "expires": null,
+   "lat": -15.948856345439557,
+   "lng": 128.47924480507209,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -433,6 +446,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Madagascar",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Madagascar",
+   "onset": "Fri, 20 Nov 2026 20:05:44 GMT",
+   "expires": null,
+   "lat": -15.266745043678254,
+   "lng": 48.28390200411548,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Benin, Burkina Faso",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -454,19 +480,6 @@
    "expires": null,
    "lat": 9.209934852300476,
    "lng": 21.759269614413533,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Madagascar",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Madagascar",
-   "onset": "Fri, 20 Nov 2026 20:05:44 GMT",
-   "expires": null,
-   "lat": -15.266745043678254,
-   "lng": 48.28390200411548,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
