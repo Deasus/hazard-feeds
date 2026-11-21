@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:18:14Z",
+ "generated_at": "2026-11-21T20:33:19Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 214,
  "alerts": [
@@ -2077,8 +2077,8 @@
    "area": "South Sudan",
    "onset": "Mon, 16 Nov 2026 16:12:11 GMT",
    "expires": null,
-   "lat": 8.6523431437652,
-   "lng": 28.572456064225506,
+   "lat": 8.652043889381147,
+   "lng": 28.573067184266268,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2090,8 +2090,8 @@
    "area": "Australia",
    "onset": "Wed, 11 Nov 2026 12:09:18 GMT",
    "expires": null,
-   "lat": -16.31998398606862,
-   "lng": 123.72832315712196,
+   "lat": -16.320417945551103,
+   "lng": 123.7287243098049,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2103,8 +2103,8 @@
    "area": "Australia",
    "onset": "Wed, 11 Nov 2026 16:02:52 GMT",
    "expires": null,
-   "lat": -14.902471996094608,
-   "lng": 144.486552181298,
+   "lat": -14.90265814914875,
+   "lng": 144.48658424215125,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2116,8 +2116,8 @@
    "area": "South Sudan",
    "onset": "Fri, 13 Nov 2026 16:23:19 GMT",
    "expires": null,
-   "lat": 8.750820264399005,
-   "lng": 32.8124586959626,
+   "lat": 8.750769208949126,
+   "lng": 32.812527784085155,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2129,8 +2129,8 @@
    "area": "Australia",
    "onset": "Sat, 14 Nov 2026 12:29:37 GMT",
    "expires": null,
-   "lat": -11.541366195883993,
-   "lng": 142.36125653855825,
+   "lat": -11.543642303400581,
+   "lng": 142.35997533539603,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -2205,7 +2205,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Sat, 21 Nov 2026 16:22:25 GMT",
+   "onset": "Sat, 21 Nov 2026 20:23:35 GMT",
    "expires": null,
    "lat": 9.277362263590199,
    "lng": 29.331314917134794,
@@ -2337,8 +2337,8 @@
    "area": "Sudan, South Sudan",
    "onset": "Sun, 15 Nov 2026 04:34:22 GMT",
    "expires": null,
-   "lat": 9.690279406609507,
-   "lng": 30.573908598826385,
+   "lat": 9.690279137171643,
+   "lng": 30.573909037455202,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
