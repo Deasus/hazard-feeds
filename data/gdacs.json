@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-21T10:13:23Z",
+ "generated_at": "2026-11-21T11:28:57Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 204,
+ "count": 205,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "China",
+   "onset": "Sat, 21 Nov 2026 11:02:39 GMT",
+   "expires": null,
+   "lat": 37.1958,
+   "lng": 96.6398,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 6.8M, Depth:143.423km) in Indonesia 21/11/2026 09:42 UTC, 50 thousand in MMI V.",
    "event": "Earthquake",
