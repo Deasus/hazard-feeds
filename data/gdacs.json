@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T12:40:39Z",
+ "generated_at": "2026-11-22T14:26:19Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 195,
  "alerts": [
@@ -699,8 +699,8 @@
    "area": "Cook Islands, American Samoa",
    "onset": "Sun, 15 Nov 2026 08:51:43 GMT",
    "expires": null,
-   "lat": -11.6,
-   "lng": -167.6,
+   "lat": -11.7,
+   "lng": -167.9,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
