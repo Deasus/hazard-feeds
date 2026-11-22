@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:22:11Z",
+ "generated_at": "2026-11-22T08:08:31Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 188,
  "alerts": [
@@ -82,19 +82,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Chad",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Chad",
-   "onset": "Sat, 21 Nov 2026 16:00:28 GMT",
-   "expires": null,
-   "lat": 12.235539457143554,
-   "lng": 20.2486393380814,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -103,6 +90,19 @@
    "expires": null,
    "lat": 8.104238190723846,
    "lng": 28.726546835669335,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Chad",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Chad",
+   "onset": "Sat, 21 Nov 2026 16:00:28 GMT",
+   "expires": null,
+   "lat": 12.235623533701286,
+   "lng": 20.24857813442704,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -238,6 +238,45 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in South Sudan, Central African Republic",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan, Central African Republic",
+   "onset": "Fri, 20 Nov 2026 20:02:57 GMT",
+   "expires": null,
+   "lat": 8.187678912103559,
+   "lng": 25.152179233847285,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Africa",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Africa",
+   "onset": "Fri, 20 Nov 2026 20:03:46 GMT",
+   "expires": null,
+   "lat": -34.41096057377894,
+   "lng": 20.556729227737513,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Sun, 22 Nov 2026 08:01:18 GMT",
+   "expires": null,
+   "lat": -17.575232146203692,
+   "lng": 124.97944862579398,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Bolivia",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -264,19 +303,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in South Sudan, Central African Republic",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan, Central African Republic",
-   "onset": "Fri, 20 Nov 2026 20:02:57 GMT",
-   "expires": null,
-   "lat": 8.189652074865078,
-   "lng": 25.15369808773442,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -285,32 +311,6 @@
    "expires": null,
    "lat": 7.311926171349035,
    "lng": 27.134826002297842,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in South Africa",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Africa",
-   "onset": "Fri, 20 Nov 2026 20:03:46 GMT",
-   "expires": null,
-   "lat": -34.403362969554074,
-   "lng": 20.531640631340803,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Australia",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Sun, 22 Nov 2026 04:02:41 GMT",
-   "expires": null,
-   "lat": -17.575232146203692,
-   "lng": 124.97944862579398,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -327,6 +327,19 @@
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan, Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan, Sudan",
+   "onset": "Sat, 21 Nov 2026 20:01:40 GMT",
+   "expires": null,
+   "lat": 8.906713548753924,
+   "lng": 24.80467327233894,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
   },
   {
    "title": "Green forest fire notification in Australia",
@@ -350,19 +363,6 @@
    "expires": null,
    "lat": -21.464084579307915,
    "lng": 125.4578141032235,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in South Sudan, Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan, Sudan",
-   "onset": "Sat, 21 Nov 2026 20:01:40 GMT",
-   "expires": null,
-   "lat": 8.906439266363082,
-   "lng": 24.803993894481064,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -450,7 +450,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Botswana",
-   "onset": "Sun, 22 Nov 2026 04:05:53 GMT",
+   "onset": "Sun, 22 Nov 2026 08:02:24 GMT",
    "expires": null,
    "lat": -21.860898213699098,
    "lng": 24.46390410136038,
@@ -619,7 +619,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Chad",
-   "onset": "Sun, 22 Nov 2026 04:08:06 GMT",
+   "onset": "Sun, 22 Nov 2026 08:03:33 GMT",
    "expires": null,
    "lat": 9.958599866927331,
    "lng": 19.93859361758742,
@@ -631,11 +631,11 @@
    "title": "Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
-   "area": "Cook Islands",
+   "area": "Cook Islands, American Samoa",
    "onset": "Sun, 15 Nov 2026 08:51:43 GMT",
    "expires": null,
-   "lat": -11.9,
-   "lng": -166.8,
+   "lat": -11.6,
+   "lng": -167.6,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "TC"
@@ -645,7 +645,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Sun, 22 Nov 2026 04:09:54 GMT",
+   "onset": "Sun, 22 Nov 2026 08:04:25 GMT",
    "expires": null,
    "lat": -15.922338326388076,
    "lng": 125.10909119131522,
@@ -749,7 +749,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Nigeria",
-   "onset": "Sun, 22 Nov 2026 04:11:08 GMT",
+   "onset": "Sun, 22 Nov 2026 08:04:49 GMT",
    "expires": null,
    "lat": 12.497217577134332,
    "lng": 7.051617685455517,
