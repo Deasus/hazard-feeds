@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:29:12Z",
+ "generated_at": "2026-11-22T20:44:19Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 209,
  "alerts": [
@@ -2220,8 +2220,8 @@
    "area": "Central African Republic",
    "onset": "Wed, 18 Nov 2026 08:38:17 GMT",
    "expires": null,
-   "lat": 9.319582787104363,
-   "lng": 22.77697310342714,
+   "lat": 9.31981850491613,
+   "lng": 22.7772316290759,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
