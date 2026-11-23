@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T04:32:49Z",
+ "generated_at": "2026-11-23T05:18:13Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 179,
  "alerts": [
@@ -303,19 +303,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in South Sudan, Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan, Sudan",
-   "onset": "Fri, 20 Nov 2026 16:02:50 GMT",
-   "expires": null,
-   "lat": 8.917109490531338,
-   "lng": 24.78453643969785,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -324,6 +311,19 @@
    "expires": null,
    "lat": 8.344933303758651,
    "lng": 26.329186061341588,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan, Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan, Sudan",
+   "onset": "Fri, 20 Nov 2026 16:02:50 GMT",
+   "expires": null,
+   "lat": 8.917109490531338,
+   "lng": 24.78453643969785,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1603,19 +1603,6 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in India",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "India",
-   "onset": "Fri, 20 Nov 2026 08:23:33 GMT",
-   "expires": null,
-   "lat": 23.32143703027322,
-   "lng": 79.91891513004387,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Burkina Faso",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1650,6 +1637,19 @@
    "expires": null,
    "lat": 10.116371279119079,
    "lng": 29.54709939198712,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in India",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "India",
+   "onset": "Fri, 20 Nov 2026 08:23:33 GMT",
+   "expires": null,
+   "lat": 23.32143703027322,
+   "lng": 79.91891513004387,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1906,6 +1906,19 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
+   "onset": "Sat, 14 Nov 2026 17:40:27 GMT",
+   "expires": null,
+   "lat": 8.564308407730492,
+   "lng": 25.304624780378496,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
    "onset": "Fri, 20 Nov 2026 12:52:24 GMT",
    "expires": null,
    "lat": 9.16488951333763,
@@ -2001,19 +2014,6 @@
    "expires": null,
    "lat": 9.654218119499328,
    "lng": 32.947488152634875,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in South Sudan",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "South Sudan",
-   "onset": "Sat, 14 Nov 2026 17:40:27 GMT",
-   "expires": null,
-   "lat": 8.564308407730492,
-   "lng": 25.304624780378496,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
