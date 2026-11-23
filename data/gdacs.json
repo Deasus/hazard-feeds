@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T13:21:56Z",
+ "generated_at": "2026-11-23T14:07:16Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 192,
+ "count": 193,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:10km) in West Of Macquarie Island 23/11/2026 08:01 UTC, [unknown].",
@@ -38,6 +38,19 @@
    "expires": null,
    "lat": 51.6797696,
    "lng": -9.4523603,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Thailand",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Thailand",
+   "onset": "Mon, 23 Nov 2026 13:55:00 GMT",
+   "expires": null,
+   "lat": 7.543525,
+   "lng": 99.9971582,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
@@ -95,7 +108,7 @@
    "_evCode": "EQ"
   },
   {
-   "title": "Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 2 thousand in MMI VI.",
+   "title": "Green earthquake (Magnitude 6.7M, Depth:107.991km) in Peru 21/11/2026 00:09 UTC, 230 thousand in MMI V.",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Peru",
