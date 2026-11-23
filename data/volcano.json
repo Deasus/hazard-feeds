@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-12T12:50:24Z",
+ "generated_at": "2026-11-23T16:23:24Z",
  "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
- "count": 27,
+ "count": 26,
  "alerts": [
   {
    "title": "Eruption Mayon (Philippines)",
@@ -324,19 +324,6 @@
    "expires": null,
    "lat": 55.972,
    "lng": 160.595,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "VO"
-  },
-  {
-   "title": "Eruption Hayli Gubbi (Ethiopia)",
-   "event": "Volcano",
-   "severity": "GREEN",
-   "area": "Ethiopia",
-   "onset": "2025-11-23T14:55:00",
-   "expires": null,
-   "lat": 13.51,
-   "lng": 40.722,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "VO"
