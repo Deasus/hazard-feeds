@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-23T02:16:47Z",
+ "generated_at": "2026-11-23T03:02:08Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 178,
+ "count": 179,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6.5M, Depth:614.4km) in Vanuatu Islands Region 23/11/2026 02:40 UTC, No people affected in 100km.",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Vanuatu Islands Region",
+   "onset": "Mon, 23 Nov 2026 02:51:25 GMT",
+   "expires": null,
+   "lat": -13.546,
+   "lng": 172.279,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in China 21/11/2026 10:45 UTC, Few people affected (in MMI>=VII).",
    "event": "Earthquake",
