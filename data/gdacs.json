@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-24T08:30:49Z",
+ "generated_at": "2026-11-24T11:47:13Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 184,
+ "count": 185,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Mauritius - Reunion Region 24/11/2026 11:06 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Mauritius - Reunion Region",
+   "onset": "Tue, 24 Nov 2026 11:24:50 GMT",
+   "expires": null,
+   "lat": -17.7049,
+   "lng": 65.6995,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green notification for tropical cyclone 03-20262027-27. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
