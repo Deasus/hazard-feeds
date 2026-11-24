@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-24T19:36:11Z",
+ "generated_at": "2026-11-24T20:06:24Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 189,
+ "count": 191,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Mauritius - Reunion Region 24/11/2026 11:06 UTC, [unknown].",
@@ -62,8 +62,8 @@
    "area": "Australia",
    "onset": "Mon, 23 Nov 2026 20:00:18 GMT",
    "expires": null,
-   "lat": -39.78912722914371,
-   "lng": 147.96237807241772,
+   "lat": -39.79612089231595,
+   "lng": 147.9612810135529,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -125,7 +125,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Tue, 24 Nov 2026 16:01:41 GMT",
+   "onset": "Tue, 24 Nov 2026 20:00:51 GMT",
    "expires": null,
    "lat": -19.025338822463222,
    "lng": 134.9073071324078,
@@ -192,8 +192,8 @@
    "area": "Australia",
    "onset": "Tue, 24 Nov 2026 12:01:36 GMT",
    "expires": null,
-   "lat": -17.74234522107991,
-   "lng": 144.72694601091422,
+   "lat": -17.742309240450457,
+   "lng": 144.7278583201195,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -205,8 +205,8 @@
    "area": "Bolivia",
    "onset": "Mon, 23 Nov 2026 20:01:20 GMT",
    "expires": null,
-   "lat": -12.919540513703913,
-   "lng": -65.2372346918613,
+   "lat": -12.919533194074225,
+   "lng": -65.23723143344722,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -218,8 +218,8 @@
    "area": "Australia",
    "onset": "Tue, 24 Nov 2026 04:01:20 GMT",
    "expires": null,
-   "lat": -20.366498014744426,
-   "lng": 145.34135971556333,
+   "lat": -20.366500118426202,
+   "lng": 145.3418588215478,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -294,7 +294,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Tue, 24 Nov 2026 16:02:17 GMT",
+   "onset": "Tue, 24 Nov 2026 20:02:09 GMT",
    "expires": null,
    "lat": 7.902877836250204,
    "lng": 26.520379451226383,
@@ -316,14 +316,27 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Mozambique",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Mozambique",
+   "onset": "Tue, 24 Nov 2026 20:02:06 GMT",
+   "expires": null,
+   "lat": -17.828640252094786,
+   "lng": 36.59989084085649,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
    "onset": "Tue, 24 Nov 2026 08:03:11 GMT",
    "expires": null,
-   "lat": -20.854266940963836,
-   "lng": 145.68198666891865,
+   "lat": -20.854233137011953,
+   "lng": 145.6819810308973,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -335,8 +348,8 @@
    "area": "Burkina Faso",
    "onset": "Tue, 24 Nov 2026 08:03:34 GMT",
    "expires": null,
-   "lat": 13.953680348620118,
-   "lng": -0.3704820874502695,
+   "lat": 13.952624658864812,
+   "lng": -0.36053004943035255,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -381,6 +394,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in Nigeria",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Nigeria",
+   "onset": "Tue, 24 Nov 2026 20:03:17 GMT",
+   "expires": null,
+   "lat": 12.265633383245277,
+   "lng": 4.956173235291534,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green forest fire notification in South Sudan",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -398,7 +424,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Central African Republic",
-   "onset": "Tue, 24 Nov 2026 16:03:56 GMT",
+   "onset": "Tue, 24 Nov 2026 20:04:27 GMT",
    "expires": null,
    "lat": 9.724606285816765,
    "lng": 22.1177444538465,
