@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-25T02:39:26Z",
+ "generated_at": "2026-11-25T02:54:31Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 173,
  "alerts": [
   {
-   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Balleny Islands Region 25/11/2026 01:38 UTC, No people affected in 100km.",
+   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Balleny Islands Region 25/11/2026 01:38 UTC, [unknown].",
    "event": "Earthquake",
    "severity": "GREEN",
    "area": "Balleny Islands Region",
