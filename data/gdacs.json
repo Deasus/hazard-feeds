@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T07:11:33Z",
+ "generated_at": "2026-11-25T07:26:41Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 174,
+ "count": 175,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Balleny Islands Region 25/11/2026 01:38 UTC, [unknown].",
@@ -129,6 +129,19 @@
    "expires": null,
    "lat": 7.543525,
    "lng": 99.9971582,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Uganda",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Uganda",
+   "onset": "Wed, 25 Nov 2026 07:17:30 GMT",
+   "expires": null,
+   "lat": 0.1310412,
+   "lng": 30.0047968,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
