@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-25T00:53:38Z",
+ "generated_at": "2026-11-25T02:09:11Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 172,
+ "count": 173,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Balleny Islands Region 25/11/2026 01:38 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Balleny Islands Region",
+   "onset": "Wed, 25 Nov 2026 01:52:01 GMT",
+   "expires": null,
+   "lat": -63.2325,
+   "lng": 171.054,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 6.4M, Depth:10km) in Mauritius - Reunion Region 24/11/2026 11:06 UTC, [unknown].",
    "event": "Earthquake",
