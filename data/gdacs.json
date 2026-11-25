@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T07:41:47Z",
+ "generated_at": "2026-11-25T07:56:53Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 175,
+ "count": 176,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Balleny Islands Region 25/11/2026 01:38 UTC, [unknown].",
@@ -2105,6 +2105,19 @@
    "expires": null,
    "lat": 42.4046646,
    "lng": 13.0650536,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Brazil",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Fri, 09 Oct 2026 06:06:33 GMT",
+   "expires": null,
+   "lat": -20.4640173,
+   "lng": -54.6162947,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
