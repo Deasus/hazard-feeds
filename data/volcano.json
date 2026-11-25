@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-23T16:38:32Z",
+ "generated_at": "2026-11-25T00:23:26Z",
  "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
- "count": 26,
+ "count": 25,
  "alerts": [
   {
    "title": "Eruption Mayon (Philippines)",
@@ -326,19 +326,6 @@
    "lng": 160.595,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
-   "_evCode": "VO"
-  },
-  {
-   "title": "Eruption Semeru (Indonesia)",
-   "event": "Volcano",
-   "severity": "RED",
-   "area": "Indonesia",
-   "onset": "2025-11-19T12:00:00",
-   "expires": null,
-   "lat": -8.108,
-   "lng": 112.922,
-   "source": "GDACS",
-   "_gdacsLevel": "RED",
    "_evCode": "VO"
   }
  ]
