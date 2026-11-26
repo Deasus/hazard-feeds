@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-26T08:58:35Z",
+ "generated_at": "2026-11-26T09:44:06Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 180,
+ "count": 181,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.5M, Depth:15.139km) in South Of Sumbawa, Indonesia 26/11/2026 09:08 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "South Of Sumbawa, Indonesia",
+   "onset": "Thu, 26 Nov 2026 09:24:03 GMT",
+   "expires": null,
+   "lat": -10.5618,
+   "lng": 117.1955,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.9M, Depth:10km) in Balleny Islands Region 25/11/2026 01:38 UTC, [unknown].",
    "event": "Earthquake",
