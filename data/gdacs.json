@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T12:45:23Z",
+ "generated_at": "2026-11-26T13:00:30Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 186,
+ "count": 187,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:15.139km) in South Of Sumbawa, Indonesia 26/11/2026 09:08 UTC, [unknown].",
@@ -2222,6 +2222,19 @@
    "expires": null,
    "lat": 2.1923519,
    "lng": 99.3812201,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "FL"
+  },
+  {
+   "title": "Green flood alert in Italy",
+   "event": "Flood",
+   "severity": "GREEN",
+   "area": "Italy",
+   "onset": "Sat, 10 Oct 2026 07:04:44 GMT",
+   "expires": null,
+   "lat": 40.0615028,
+   "lng": 9.0975894,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
