@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-25T00:38:32Z",
+ "generated_at": "2026-11-26T10:29:17Z",
  "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
- "count": 25,
+ "count": 24,
  "alerts": [
   {
    "title": "Eruption Mayon (Philippines)",
@@ -311,19 +311,6 @@
    "expires": null,
    "lat": 56.653,
    "lng": 161.36,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "VO"
-  },
-  {
-   "title": "Eruption Bezymianny (Russia)",
-   "event": "Volcano",
-   "severity": "GREEN",
-   "area": "Russia",
-   "onset": "2025-11-26T09:00:00",
-   "expires": null,
-   "lat": 55.972,
-   "lng": 160.595,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "VO"
