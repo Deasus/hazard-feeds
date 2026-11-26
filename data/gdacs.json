@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:17:02Z",
+ "generated_at": "2026-11-26T16:32:08Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 189,
  "alerts": [
@@ -658,7 +658,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Nigeria",
-   "onset": "Thu, 26 Nov 2026 12:06:47 GMT",
+   "onset": "Thu, 26 Nov 2026 16:16:54 GMT",
    "expires": null,
    "lat": 12.265633383245277,
    "lng": 4.956173235291534,
@@ -723,7 +723,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Thu, 26 Nov 2026 12:06:41 GMT",
+   "onset": "Thu, 26 Nov 2026 16:19:24 GMT",
    "expires": null,
    "lat": -15.19562441247001,
    "lng": 133.36987853301707,
@@ -762,7 +762,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Ghana, Burkina Faso",
-   "onset": "Thu, 26 Nov 2026 12:06:58 GMT",
+   "onset": "Thu, 26 Nov 2026 16:18:35 GMT",
    "expires": null,
    "lat": 11.068254896500141,
    "lng": -1.3534925111586293,
