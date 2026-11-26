@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:47:15Z",
+ "generated_at": "2026-11-26T17:02:23Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 189,
  "alerts": [
@@ -1334,7 +1334,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Benin, Burkina Faso",
-   "onset": "Thu, 26 Nov 2026 12:11:39 GMT",
+   "onset": "Thu, 26 Nov 2026 16:53:36 GMT",
    "expires": null,
    "lat": 11.20660572353712,
    "lng": 1.904636491464127,
@@ -1427,8 +1427,8 @@
    "area": "Australia",
    "onset": "Wed, 25 Nov 2026 08:08:25 GMT",
    "expires": null,
-   "lat": -18.33883004327368,
-   "lng": 123.43574497192817,
+   "lat": -18.339447397388557,
+   "lng": 123.43558156094448,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
