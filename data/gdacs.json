@@ -1,8 +1,21 @@
 {
- "generated_at": "2026-11-26T14:00:56Z",
+ "generated_at": "2026-11-26T16:01:56Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 187,
+ "count": 188,
  "alerts": [
+  {
+   "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Revilla Gigedo Islands Region 26/11/2026 15:26 UTC, [unknown].",
+   "event": "Earthquake",
+   "severity": "GREEN",
+   "area": "Revilla Gigedo Islands Region",
+   "onset": "Thu, 26 Nov 2026 15:46:19 GMT",
+   "expires": null,
+   "lat": 19.8135,
+   "lng": -109.2958,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "EQ"
+  },
   {
    "title": "Green earthquake (Magnitude 5.5M, Depth:15.139km) in South Of Sumbawa, Indonesia 26/11/2026 09:08 UTC, [unknown].",
    "event": "Earthquake",
