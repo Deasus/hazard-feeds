@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:36:22Z",
+ "generated_at": "2026-11-27T00:51:21Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 172,
  "alerts": [
@@ -1661,8 +1661,8 @@
    "area": "Australia",
    "onset": "Tue, 17 Nov 2026 16:07:11 GMT",
    "expires": null,
-   "lat": -16.437901378668705,
-   "lng": 124.12685891243524,
+   "lat": -16.43768072625409,
+   "lng": 124.12665304962768,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1687,8 +1687,8 @@
    "area": "Brazil",
    "onset": "Thu, 26 Nov 2026 00:22:27 GMT",
    "expires": null,
-   "lat": -2.3925917392593345,
-   "lng": -53.832567183684965,
+   "lat": -2.3918618028461265,
+   "lng": -53.83271774487575,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1700,8 +1700,8 @@
    "area": "Brazil",
    "onset": "Thu, 26 Nov 2026 00:22:46 GMT",
    "expires": null,
-   "lat": -3.1438699941238744,
-   "lng": -54.89420527141418,
+   "lat": -3.144300778020338,
+   "lng": -54.894153743193776,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1713,8 +1713,8 @@
    "area": "Brazil",
    "onset": "Wed, 25 Nov 2026 20:19:20 GMT",
    "expires": null,
-   "lat": -2.8446206361381603,
-   "lng": -53.04948762142215,
+   "lat": -2.8451482385525733,
+   "lng": -53.04997608282841,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
