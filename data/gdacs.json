@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:43:46Z",
+ "generated_at": "2026-11-27T19:59:51Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 181,
  "alerts": [
@@ -667,7 +667,7 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Australia",
+   "title": "Green forest fire notification in Togo, Burkina Faso, Benin",
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Togo, Burkina Faso, Benin",
