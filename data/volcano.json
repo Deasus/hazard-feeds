@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-26T10:29:17Z",
+ "generated_at": "2026-11-27T19:29:37Z",
  "upstream": "https://www.gdacs.org/gdacsapi/api/events/geteventlist/SEARCH?eventlist=VO&alertlevel=green;orange;red",
- "count": 24,
+ "count": 23,
  "alerts": [
   {
    "title": "Eruption Mayon (Philippines)",
@@ -298,19 +298,6 @@
    "expires": null,
    "lat": 19.421,
    "lng": -155.287,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "VO"
-  },
-  {
-   "title": "Eruption Sheveluch (Russia)",
-   "event": "Volcano",
-   "severity": "GREEN",
-   "area": "Russia",
-   "onset": "2025-11-27T16:01:00",
-   "expires": null,
-   "lat": 56.653,
-   "lng": 161.36,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "VO"
