@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:30:00Z",
+ "generated_at": "2026-11-27T20:45:05Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 191,
  "alerts": [
@@ -1349,8 +1349,8 @@
    "area": "South Sudan, Central African Republic",
    "onset": "Sat, 21 Nov 2026 16:02:20 GMT",
    "expires": null,
-   "lat": 8.199883608103079,
-   "lng": 25.149811504681434,
+   "lat": 8.200189950988277,
+   "lng": 25.154892569583655,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1453,8 +1453,8 @@
    "area": "South Sudan",
    "onset": "Thu, 26 Nov 2026 00:10:38 GMT",
    "expires": null,
-   "lat": 8.128670593912563,
-   "lng": 26.506938001126436,
+   "lat": 8.129364174006206,
+   "lng": 26.509222372763343,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
