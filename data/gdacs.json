@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T07:24:16Z",
+ "generated_at": "2026-11-27T08:09:43Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 173,
+ "count": 174,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Revilla Gigedo Islands Region 26/11/2026 15:26 UTC, [unknown].",
@@ -101,8 +101,8 @@
    "area": "Mali",
    "onset": "Thu, 26 Nov 2026 20:01:17 GMT",
    "expires": null,
-   "lat": 15.805223059250535,
-   "lng": 0.10924957286562519,
+   "lat": 15.806862373284503,
+   "lng": 0.1121159396904741,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -112,7 +112,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Fri, 27 Nov 2026 04:01:05 GMT",
+   "onset": "Fri, 27 Nov 2026 08:04:05 GMT",
    "expires": null,
    "lat": 8.299806564363907,
    "lng": 25.357380062662052,
@@ -127,8 +127,21 @@
    "area": "Australia",
    "onset": "Thu, 26 Nov 2026 12:00:22 GMT",
    "expires": null,
-   "lat": -17.292502029955106,
-   "lng": 143.9611710533723,
+   "lat": -17.291800120931416,
+   "lng": 143.96040465814997,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Australia",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Australia",
+   "onset": "Fri, 27 Nov 2026 08:02:56 GMT",
+   "expires": null,
+   "lat": -18.10415083576824,
+   "lng": 145.1810789800775,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
