@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T08:39:50Z",
+ "generated_at": "2026-11-27T08:54:56Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 174,
+ "count": 175,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Revilla Gigedo Islands Region 26/11/2026 15:26 UTC, [unknown].",
@@ -723,7 +723,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Nigeria",
-   "onset": "Fri, 27 Nov 2026 04:21:24 GMT",
+   "onset": "Fri, 27 Nov 2026 08:27:34 GMT",
    "expires": null,
    "lat": 12.265633383245277,
    "lng": 4.956173235291534,
@@ -764,8 +764,8 @@
    "area": "Papua New Guinea",
    "onset": "Fri, 27 Nov 2026 04:20:06 GMT",
    "expires": null,
-   "lat": -8.21377084888277,
-   "lng": 143.38853550905552,
+   "lat": -8.213664841526455,
+   "lng": 143.38712827922555,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -775,10 +775,23 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "South Sudan",
-   "onset": "Fri, 27 Nov 2026 04:37:14 GMT",
+   "onset": "Fri, 27 Nov 2026 08:30:29 GMT",
    "expires": null,
    "lat": 9.23338915956378,
    "lng": 31.573981046020418,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Fri, 27 Nov 2026 08:28:06 GMT",
+   "expires": null,
+   "lat": -2.242751141308729,
+   "lng": -46.48436428737614,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -920,8 +933,8 @@
    "area": "Australia",
    "onset": "Wed, 25 Nov 2026 16:04:21 GMT",
    "expires": null,
-   "lat": -16.412281449872882,
-   "lng": 145.12012250150084,
+   "lat": -16.412117078114715,
+   "lng": 145.12015003085585,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -933,8 +946,8 @@
    "area": "Brazil",
    "onset": "Tue, 24 Nov 2026 08:05:56 GMT",
    "expires": null,
-   "lat": -0.37320166686313694,
-   "lng": -51.63041431941693,
+   "lat": -0.37317295966489045,
+   "lng": -51.63040381611353,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -959,8 +972,8 @@
    "area": "Brazil",
    "onset": "Thu, 26 Nov 2026 00:07:46 GMT",
    "expires": null,
-   "lat": 1.6828223384296692,
-   "lng": -50.59315357669084,
+   "lat": 1.6921014747513141,
+   "lng": -50.59436538107403,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
