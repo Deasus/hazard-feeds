@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-27T20:45:05Z",
+ "generated_at": "2026-11-27T21:00:09Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
- "count": 191,
+ "count": 192,
  "alerts": [
   {
    "title": "Green earthquake (Magnitude 5.7M, Depth:10km) in Revilla Gigedo Islands Region 26/11/2026 15:26 UTC, [unknown].",
@@ -1473,6 +1473,19 @@
    "_evCode": "WF"
   },
   {
+   "title": "Green forest fire notification in South Sudan",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "South Sudan",
+   "onset": "Fri, 27 Nov 2026 20:37:12 GMT",
+   "expires": null,
+   "lat": 8.794469420712153,
+   "lng": 29.878201059991955,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
    "title": "Green notification for tropical cyclone XAVIER-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
    "event": "Tropical Cyclone",
    "severity": "GREEN",
@@ -1583,8 +1596,8 @@
    "area": "South Sudan, Sudan",
    "onset": "Fri, 27 Nov 2026 17:10:33 GMT",
    "expires": null,
-   "lat": 8.643949455011905,
-   "lng": 24.606825486179712,
+   "lat": 8.64335241970331,
+   "lng": 24.606845047679347,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
