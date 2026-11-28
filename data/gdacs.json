@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:18:17Z",
+ "generated_at": "2026-11-28T04:33:34Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 162,
  "alerts": [
@@ -606,7 +606,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Bolivia, Brazil",
-   "onset": "Sat, 28 Nov 2026 00:12:39 GMT",
+   "onset": "Sat, 28 Nov 2026 04:17:19 GMT",
    "expires": null,
    "lat": -13.760197493813779,
    "lng": -61.62501543678696,
@@ -801,7 +801,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Nigeria",
-   "onset": "Sat, 28 Nov 2026 00:26:04 GMT",
+   "onset": "Sat, 28 Nov 2026 04:23:09 GMT",
    "expires": null,
    "lat": 12.265633383245277,
    "lng": 4.956173235291534,
