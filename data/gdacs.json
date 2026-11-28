@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:50:40Z",
+ "generated_at": "2026-11-28T10:05:46Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 164,
  "alerts": [
@@ -992,19 +992,6 @@
    "_evCode": "FL"
   },
   {
-   "title": "Green forest fire notification in Brazil",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Brazil",
-   "onset": "Mon, 23 Nov 2026 00:03:45 GMT",
-   "expires": null,
-   "lat": -1.2350577105663192,
-   "lng": -51.77060487927426,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
    "title": "Green forest fire notification in Bolivia, Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
@@ -1013,6 +1000,19 @@
    "expires": null,
    "lat": -12.520522931955732,
    "lng": -63.86674411133636,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Brazil",
+   "onset": "Mon, 23 Nov 2026 00:03:45 GMT",
+   "expires": null,
+   "lat": -1.2350577105663192,
+   "lng": -51.77060487927426,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1466,8 +1466,8 @@
    "area": "Brazil",
    "onset": "Wed, 25 Nov 2026 12:12:01 GMT",
    "expires": null,
-   "lat": -1.1593631261206285,
-   "lng": -54.037296833918646,
+   "lat": -1.2364979151482567,
+   "lng": -54.050573287021635,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1499,14 +1499,14 @@
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Australia",
+   "title": "Green forest fire notification in Brazil",
    "event": "Wildfire",
    "severity": "GREEN",
-   "area": "Australia",
-   "onset": "Tue, 24 Nov 2026 08:13:51 GMT",
+   "area": "Brazil",
+   "onset": "Thu, 26 Nov 2026 08:13:42 GMT",
    "expires": null,
-   "lat": -16.939021244483623,
-   "lng": 124.73927426445715,
+   "lat": -2.879559173343909,
+   "lng": -50.73268581067212,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1518,21 +1518,21 @@
    "area": "Brazil",
    "onset": "Wed, 25 Nov 2026 00:13:41 GMT",
    "expires": null,
-   "lat": -0.9444898258025965,
-   "lng": -51.725634281862014,
+   "lat": -0.9445824609798356,
+   "lng": -51.725589358738254,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
   },
   {
-   "title": "Green forest fire notification in Brazil",
+   "title": "Green forest fire notification in Australia",
    "event": "Wildfire",
    "severity": "GREEN",
-   "area": "Brazil",
-   "onset": "Thu, 26 Nov 2026 08:13:42 GMT",
+   "area": "Australia",
+   "onset": "Tue, 24 Nov 2026 08:13:51 GMT",
    "expires": null,
-   "lat": -2.879559173343909,
-   "lng": -50.73268581067212,
+   "lat": -16.939021244483623,
+   "lng": 124.73927426445715,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1555,7 +1555,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Australia",
-   "onset": "Sat, 28 Nov 2026 05:21:37 GMT",
+   "onset": "Sat, 28 Nov 2026 09:53:40 GMT",
    "expires": null,
    "lat": -16.4507444482187,
    "lng": 124.72436560744161,
