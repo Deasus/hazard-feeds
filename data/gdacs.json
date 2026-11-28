@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:33:34Z",
+ "generated_at": "2026-11-28T04:48:33Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 162,
  "alerts": [
@@ -972,8 +972,8 @@
    "area": "Brazil",
    "onset": "Mon, 23 Nov 2026 00:03:45 GMT",
    "expires": null,
-   "lat": -1.2350132864600567,
-   "lng": -51.77093861062745,
+   "lat": -1.2350683419119615,
+   "lng": -51.770657764065476,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1011,21 +1011,8 @@
    "area": "Brazil",
    "onset": "Thu, 26 Nov 2026 00:07:46 GMT",
    "expires": null,
-   "lat": 1.6933920427563287,
-   "lng": -50.595222274999045,
-   "source": "GDACS",
-   "_gdacsLevel": "GREEN",
-   "_evCode": "WF"
-  },
-  {
-   "title": "Green forest fire notification in Bolivia, Brazil",
-   "event": "Wildfire",
-   "severity": "GREEN",
-   "area": "Bolivia, Brazil",
-   "onset": "Thu, 26 Nov 2026 08:07:04 GMT",
-   "expires": null,
-   "lat": -12.52047439814243,
-   "lng": -63.866426196554414,
+   "lat": 1.6936896991012889,
+   "lng": -50.595284560066496,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1100,7 +1087,7 @@
    "event": "Wildfire",
    "severity": "GREEN",
    "area": "Sudan, South Sudan",
-   "onset": "Sat, 28 Nov 2026 00:41:56 GMT",
+   "onset": "Sat, 28 Nov 2026 04:44:05 GMT",
    "expires": null,
    "lat": 9.742253697245442,
    "lng": 27.214038445089983,
@@ -1117,6 +1104,19 @@
    "expires": null,
    "lat": -15.071387474012344,
    "lng": 48.31732482839803,
+   "source": "GDACS",
+   "_gdacsLevel": "GREEN",
+   "_evCode": "WF"
+  },
+  {
+   "title": "Green forest fire notification in Bolivia, Brazil",
+   "event": "Wildfire",
+   "severity": "GREEN",
+   "area": "Bolivia, Brazil",
+   "onset": "Thu, 26 Nov 2026 08:07:04 GMT",
+   "expires": null,
+   "lat": -12.520522931955732,
+   "lng": -63.86674411133636,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
