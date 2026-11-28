@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:35:35Z",
+ "generated_at": "2026-11-28T09:50:40Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 164,
  "alerts": [
@@ -1297,8 +1297,8 @@
    "area": "South Sudan, Central African Republic",
    "onset": "Sat, 21 Nov 2026 16:02:20 GMT",
    "expires": null,
-   "lat": 8.200189950988277,
-   "lng": 25.154892569583655,
+   "lat": 8.200328211569522,
+   "lng": 25.15563800860685,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "WF"
@@ -1934,8 +1934,8 @@
    "area": "Indonesia",
    "onset": "Thu, 29 Oct 2026 09:29:04 GMT",
    "expires": null,
-   "lat": -6.8891904,
-   "lng": 107.6404716,
+   "lat": 1.4773227,
+   "lng": 102.110402,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
