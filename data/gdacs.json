@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:50:13Z",
+ "generated_at": "2026-11-28T09:05:20Z",
  "upstream": "https://www.gdacs.org/xml/rss.xml",
  "count": 164,
  "alerts": [
@@ -985,8 +985,8 @@
    "area": "United States",
    "onset": "Fri, 20 Nov 2026 09:07:26 GMT",
    "expires": null,
-   "lat": 39.3629978,
-   "lng": -74.4404394,
+   "lat": 40.739203,
+   "lng": -124.2180001,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
@@ -1934,8 +1934,8 @@
    "area": "Indonesia",
    "onset": "Thu, 29 Oct 2026 09:29:04 GMT",
    "expires": null,
-   "lat": 4.0773307,
-   "lng": 97.0664173,
+   "lat": -6.8891904,
+   "lng": 107.6404716,
    "source": "GDACS",
    "_gdacsLevel": "GREEN",
    "_evCode": "FL"
